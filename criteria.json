@@ -1,0 +1,466 @@
+{
+  "meta": {
+    "product": "COMPLY-Colorado",
+    "statute": "SB 26-189",
+    "effective": "2027-01-01",
+    "status": "Gate 1 draft \u2014 attorney review required before district-facing use",
+    "rules_pending": "AG rules due 2027-01-01 (post-adverse-outcome disclosure 6-1-1704(4); consumer rights 6-1-1705(3)); materially-influence discretionary 6-1-1706(5)(b)"
+  },
+  "modules": {
+    "A": {
+      "name": "ADMT Inventory",
+      "hook": "C.R.S. 6-1-1701(2), 1703",
+      "model_language": "The District shall maintain a current inventory of every automated decision-making technology it uses to make, guide, or assist decisions about students, identifying for each system whether it materially influences a consequential decision within a covered education domain."
+    },
+    "B": {
+      "name": "Classification & FERPA Crosswalk",
+      "hook": "6-1-1701(15); FERPA; C.R.S. 22-16",
+      "model_language": "For each covered system, the District shall classify the decision type and covered domain, confirm its status as a FERPA-subject education agency, and determine on a system-by-system basis whether the FERPA notice and correction safe harbors apply."
+    },
+    "C": {
+      "name": "Notice & Parent Access",
+      "hook": "6-1-1704",
+      "model_language": "The District shall provide clear and conspicuous notice before a covered system is used in a consequential decision affecting a student, and shall deliver required notices and post-adverse-outcome disclosures through its existing FERPA notice and student-record access procedures."
+    },
+    "D": {
+      "name": "Recordkeeping",
+      "hook": "6-1-1703; C.R.S. 22-16",
+      "model_language": "The District shall retain, for no less than three years after each consequential decision, records sufficient to demonstrate compliance \u2014 including system version identifiers, changelogs, and documentation of material mitigation changes \u2014 recognizing that this recordkeeping duty has no FERPA equivalent."
+    },
+    "E": {
+      "name": "Procurement & Vendor Management",
+      "hook": "6-1-1702; FERPA; C.R.S. 22-16; READ Act",
+      "model_language": "Before deploying a covered system, the District shall obtain the developer's documentation and shall contract only with vendors that accept the District's direct control over education records, purpose limitations, and the data-security and destruction duties required by Colorado law."
+    },
+    "F": {
+      "name": "Human Review & Oversight",
+      "hook": "6-1-1701(15); 6-1-1705",
+      "model_language": "A consequential decision materially influenced by a covered system shall be subject to review by a trained District official who has authority to approve, modify, or override the decision, who considers primary evidence, and who does not default to the system's output."
+    },
+    "X": {
+      "name": "Enforcement & Risk (context)",
+      "hook": "6-1-1706; 6-1-1707; 6-1-1709",
+      "model_language": "Reference context on enforcement and residual liability; not a district policy section."
+    }
+  },
+  "criteria": [
+    {
+      "id": "A1",
+      "module": "A",
+      "term": "ADMT identification",
+      "hook": "C.R.S. 6-1-1701(2)(a)",
+      "statement": "Identify every technology the District uses that processes personal data and generates predictions, recommendations, classifications, rankings, or scores used to make, guide, or assist a decision about an individual.",
+      "source": "Statute",
+      "status": "Statutory",
+      "artifact": "ADMT register entry per system",
+      "verify_note": ""
+    },
+    {
+      "id": "A2",
+      "module": "A",
+      "term": "Covered-ADMT determination",
+      "hook": "6-1-1701(5),(13)",
+      "statement": "For each ADMT, determine whether it is used to materially influence a consequential decision (a non-de-minimis factor affecting the outcome); if so it is a covered ADMT.",
+      "source": "Statute + AG rules",
+      "status": "Provisional",
+      "artifact": "Coverage determination memo per system",
+      "verify_note": "AG may set presumptions/objective indicators for 'materially influence' \u2014 6-1-1706(5)(b); track rulemaking."
+    },
+    {
+      "id": "A3",
+      "module": "A",
+      "term": "Education consequential-decision scope",
+      "hook": "6-1-1701(6)(a),(3)(b)(I),(IX)",
+      "statement": "Determine which District decisions fall in the covered domain 'education enrollment or an education opportunity,' applying the exclusions for routine academic administration/student support (IX), classroom personalization, and low-stakes/routine processes (I).",
+      "source": "Statute + AG rules + comments",
+      "status": "Contested",
+      "artifact": "Scope determination keyed to decision type",
+      "verify_note": "Live battleground; AG considerations Q IV.2.4 seeks education sector-specific guidance; commenters urge broad construction \u2014 build to broad reading."
+    },
+    {
+      "id": "A4",
+      "module": "A",
+      "term": "Dyslexia-screener flag",
+      "hook": "READ Act 22-7-1208(9),1209(2.5); 6-1-1701(2)",
+      "statement": "Flag SB 25-200 universal K-3 dyslexia screeners as candidate covered ADMT (they produce predictive scores/classifications about students), pending materially-influence analysis.",
+      "source": "Statute (READ Act)",
+      "status": "Provisional",
+      "artifact": "Screener inventory entry + coverage note",
+      "verify_note": "Dual clock lands 2027-28; coverage turns on materially-influence."
+    },
+    {
+      "id": "A5",
+      "module": "A",
+      "term": "Living inventory maintenance",
+      "hook": "6-1-1703",
+      "statement": "Maintain the ADMT inventory as a current register that feeds recordkeeping and re-screens on developer material updates.",
+      "source": "Statute",
+      "status": "Statutory",
+      "artifact": "Versioned inventory register",
+      "verify_note": ""
+    },
+    {
+      "id": "B1",
+      "module": "B",
+      "term": "Decision/domain classification",
+      "hook": "6-1-1701(3),(6)",
+      "statement": "For each covered ADMT, classify the decision type and the covered domain it touches.",
+      "source": "Statute",
+      "status": "Statutory",
+      "artifact": "Classification table",
+      "verify_note": ""
+    },
+    {
+      "id": "B2",
+      "module": "B",
+      "term": "FERPA-subject determination",
+      "hook": "6-1-1701(11); 20 U.S.C. 1232g",
+      "statement": "Confirm the District is subject to FERPA (it will be), which conditions the availability of the Part-17 FERPA safe harbors.",
+      "source": "Statute (FERPA)",
+      "status": "Statutory",
+      "artifact": "FERPA-subject attestation",
+      "verify_note": ""
+    },
+    {
+      "id": "B3",
+      "module": "B",
+      "term": "Notice safe-harbor (per system)",
+      "hook": "6-1-1704(9)",
+      "statement": "Determine, per covered ADMT, whether notice/disclosure can be satisfied through the District's FERPA notices and student-record access procedures.",
+      "source": "Statute",
+      "status": "Statutory",
+      "artifact": "Safe-harbor determination per system",
+      "verify_note": "'System-by-system' reading per direction; confirm."
+    },
+    {
+      "id": "B4",
+      "module": "B",
+      "term": "Rights safe-harbor (per system)",
+      "hook": "6-1-1705(2)",
+      "statement": "Determine, per covered ADMT, whether correction and human review can be satisfied through existing student-record inspection/review/amendment and district appeal processes.",
+      "source": "Statute",
+      "status": "Statutory",
+      "artifact": "Safe-harbor determination per system",
+      "verify_note": ""
+    },
+    {
+      "id": "B5",
+      "module": "B",
+      "term": "FERPA school-official fit",
+      "hook": "34 C.F.R. 99.31(a)(1)",
+      "statement": "Confirm each vendor ADMT fits the FERPA school-official exception: legitimate educational interest, institutional function, district direct control, and use/re-disclosure limits.",
+      "source": "Statute (FERPA)",
+      "status": "Statutory",
+      "artifact": "School-official exception checklist per vendor",
+      "verify_note": ""
+    },
+    {
+      "id": "B6",
+      "module": "B",
+      "term": "Colorado student-data overlay",
+      "hook": "C.R.S. 22-16-108/109/110",
+      "statement": "Confirm each vendor qualifies and is bound as a 'school service contract provider' under the Student Data Transparency and Security Act (transparency, use limits, security, destruction).",
+      "source": "Statute (state)",
+      "status": "Statutory",
+      "artifact": "22-16 compliance checklist per vendor",
+      "verify_note": "Pull 22-16-103 definitions when drafting."
+    },
+    {
+      "id": "C1",
+      "module": "C",
+      "term": "Point-of-interaction notice",
+      "hook": "6-1-1704(1)",
+      "statement": "Provide clear-and-conspicuous notice before using a covered ADMT to materially influence a consequential decision, with instructions to obtain further information.",
+      "source": "Statute",
+      "status": "Statutory",
+      "artifact": "Notice template",
+      "verify_note": ""
+    },
+    {
+      "id": "C2",
+      "module": "C",
+      "term": "Public-posting option",
+      "hook": "6-1-1704(2)",
+      "statement": "May satisfy the notice duty via a prominent public notice reasonably accessible/proximate at points of consumer interaction.",
+      "source": "Statute",
+      "status": "Statutory",
+      "artifact": "Public notice page",
+      "verify_note": ""
+    },
+    {
+      "id": "C3",
+      "module": "C",
+      "term": "Post-adverse-outcome disclosure",
+      "hook": "6-1-1704(3)",
+      "statement": "Within 30 days of an adverse-outcome decision, provide a plain-language description, the ADMT's role, a process to request information (name, version, developer, data categories), and an explanation of consumer rights.",
+      "source": "Statute + AG rules",
+      "status": "Provisional",
+      "artifact": "Adverse-outcome disclosure template",
+      "verify_note": "Content further shaped by AG rules due 1/1/2027 \u2014 6-1-1704(4); AG considerations Q IV.2."
+    },
+    {
+      "id": "C4",
+      "module": "C",
+      "term": "FERPA-routed notice",
+      "hook": "6-1-1704(9)",
+      "statement": "Where FERPA-subject, deliver notice/disclosure through FERPA notices and student-record access procedures (parent/guardian/eligible student); no separate process required.",
+      "source": "Statute",
+      "status": "Statutory",
+      "artifact": "FERPA-integrated notice procedure",
+      "verify_note": ""
+    },
+    {
+      "id": "C5",
+      "module": "C",
+      "term": "Accessibility",
+      "hook": "6-1-1704(8)",
+      "statement": "Provide notices/disclosures reasonably accessible to consumers with disabilities and limited English proficiency.",
+      "source": "Statute",
+      "status": "Statutory",
+      "artifact": "Accessibility conformance note",
+      "verify_note": ""
+    },
+    {
+      "id": "C6",
+      "module": "C",
+      "term": "Parent/eligible-student access",
+      "hook": "6-1-1705(1)(a)(I); 34 C.F.R. 99.20-.21; C.R.S. 22-16-112",
+      "statement": "Provide parent/guardian/eligible-student access to, and a mechanism to request correction of, personal data, consistent with FERPA and the 22-16 parent-rights/complaint provisions.",
+      "source": "Statute (Part 17 + FERPA + state)",
+      "status": "Statutory",
+      "artifact": "Access & complaint procedure",
+      "verify_note": ""
+    },
+    {
+      "id": "D1",
+      "module": "D",
+      "term": "Three-year decision records",
+      "hook": "6-1-1703",
+      "statement": "Retain, for at least three years after each consequential decision, records reasonably necessary to demonstrate Part-17 compliance. No FERPA safe harbor applies to this duty.",
+      "source": "Statute",
+      "status": "Statutory",
+      "artifact": "Records retention schedule + store",
+      "verify_note": "Standalone duty \u2014 the hardest; no FERPA analog."
+    },
+    {
+      "id": "D2",
+      "module": "D",
+      "term": "Record contents",
+      "hook": "6-1-1703",
+      "statement": "Records include covered-ADMT version identifiers, changelogs, and documentation of material mitigation changes.",
+      "source": "Statute",
+      "status": "Statutory",
+      "artifact": "Record schema",
+      "verify_note": ""
+    },
+    {
+      "id": "D3",
+      "module": "D",
+      "term": "Data security & destruction",
+      "hook": "C.R.S. 22-16-107/110",
+      "statement": "Maintain a data-security policy and vendor data-destruction practices consistent with the Student Data Transparency and Security Act.",
+      "source": "Statute (state)",
+      "status": "Statutory",
+      "artifact": "Security policy + destruction log",
+      "verify_note": ""
+    },
+    {
+      "id": "D4",
+      "module": "D",
+      "term": "Enforcement-ready evidencing",
+      "hook": "6-1-1703; 6-1-1706",
+      "statement": "Ensure records are sufficient to demonstrate compliance to the Attorney General (sole enforcer).",
+      "source": "Statute",
+      "status": "Statutory",
+      "artifact": "Compliance evidence index",
+      "verify_note": ""
+    },
+    {
+      "id": "E1",
+      "module": "E",
+      "term": "Developer documentation intake",
+      "hook": "6-1-1702(1)",
+      "statement": "Obtain and retain developer documentation: intended and known-harmful uses, training-data categories (to the extent known), known limitations/risks, and appropriate-use/monitoring/human-review instructions.",
+      "source": "Statute",
+      "status": "Statutory",
+      "artifact": "Developer documentation file per ADMT",
+      "verify_note": "Developer duty; deployer must secure receipt (1702(1)(e) withholding notice)."
+    },
+    {
+      "id": "E2",
+      "module": "E",
+      "term": "FERPA contract controls",
+      "hook": "34 C.F.R. 99.31(a)(1),99.33",
+      "statement": "Vendor contract imposes District direct control over records and purpose-limitation / use-&-re-disclosure limits (no reuse or resale).",
+      "source": "Statute (FERPA)",
+      "status": "Statutory",
+      "artifact": "Contract clause set",
+      "verify_note": ""
+    },
+    {
+      "id": "E3",
+      "module": "E",
+      "term": "22-16 provider terms",
+      "hook": "C.R.S. 22-16-108/109/110",
+      "statement": "Vendor contract meets school-service-contract-provider transparency, use-limitation, security, and destruction duties.",
+      "source": "Statute (state)",
+      "status": "Statutory",
+      "artifact": "Contract clause set",
+      "verify_note": ""
+    },
+    {
+      "id": "E4",
+      "module": "E",
+      "term": "Screener validity gate",
+      "hook": "READ Act 22-7-1209(2.5)",
+      "statement": "Procurement gate screens dyslexia/predictive screeners against the \u00a71209(2.5) technical criteria (validity, classification accuracy, public technical manual, research-based cutoff points).",
+      "source": "Statute (READ Act)",
+      "status": "Statutory",
+      "artifact": "Screener validity checklist",
+      "verify_note": "Also supports construct-validity concerns raised by commenters."
+    },
+    {
+      "id": "E5",
+      "module": "E",
+      "term": "Indemnification-void check",
+      "hook": "6-1-1707(7)",
+      "statement": "Ensure contracts do not purport to indemnify against Colorado Anti-Discrimination Act liability arising from covered-ADMT decisions (such terms are void as against public policy).",
+      "source": "Statute",
+      "status": "Statutory",
+      "artifact": "Contract review note",
+      "verify_note": ""
+    },
+    {
+      "id": "E6",
+      "module": "E",
+      "term": "Material-update handling",
+      "hook": "6-1-1702(2)",
+      "statement": "Process developer notices of material updates and modifications; trigger re-inventory and re-classification.",
+      "source": "Statute",
+      "status": "Statutory",
+      "artifact": "Update-handling procedure",
+      "verify_note": ""
+    },
+    {
+      "id": "F1",
+      "module": "F",
+      "term": "Reviewer override authority",
+      "hook": "6-1-1701(15)",
+      "statement": "Designate a human reviewer with authority to approve, modify, or override the consequential decision.",
+      "source": "Statute",
+      "status": "Statutory",
+      "artifact": "Reviewer designation + authority record",
+      "verify_note": ""
+    },
+    {
+      "id": "F2",
+      "module": "F",
+      "term": "Reviewer independence & training",
+      "hook": "6-1-1701(15)(a)-(c)",
+      "statement": "The reviewer considers relevant available primary evidence, is trained to conduct the review, and does not default to the system output.",
+      "source": "Statute",
+      "status": "Statutory",
+      "artifact": "Training records + review protocol",
+      "verify_note": ""
+    },
+    {
+      "id": "F3",
+      "module": "F",
+      "term": "Reviewer information access",
+      "hook": "6-1-1701(15)(d)",
+      "statement": "The reviewer has access to understand the output's intended use, material limitations, input categories, and principal factors, without trade-secret disclosure.",
+      "source": "Statute",
+      "status": "Statutory",
+      "artifact": "Information-access checklist",
+      "verify_note": ""
+    },
+    {
+      "id": "F4",
+      "module": "F",
+      "term": "Review & reconsideration on adverse outcome",
+      "hook": "6-1-1705(1)(a)(II)",
+      "statement": "On an adverse outcome, provide an opportunity for meaningful human review and reconsideration, to the extent commercially reasonable.",
+      "source": "Statute + AG rules",
+      "status": "Provisional",
+      "artifact": "Reconsideration procedure",
+      "verify_note": "'Commercially reasonable' shaped by AG rules due 1/1/2027 \u2014 6-1-1705(3); commenters propose proportionality factors."
+    },
+    {
+      "id": "F5",
+      "module": "F",
+      "term": "Data correction",
+      "hook": "6-1-1705(1)(a)(I),(c)",
+      "statement": "Provide correction of factually incorrect or materially inaccurate personal data; correction of opinions, predictions, scores, or protected evaluations is not required.",
+      "source": "Statute",
+      "status": "Statutory",
+      "artifact": "Correction procedure",
+      "verify_note": ""
+    },
+    {
+      "id": "F6",
+      "module": "F",
+      "term": "FERPA-routed review/correction",
+      "hook": "6-1-1705(2)",
+      "statement": "Where FERPA-subject, satisfy correction and human review through existing student-record inspection/review/amendment and district complaint/appeal processes.",
+      "source": "Statute",
+      "status": "Statutory",
+      "artifact": "FERPA-integrated review procedure",
+      "verify_note": ""
+    },
+    {
+      "id": "F7",
+      "module": "F",
+      "term": "Oversight audit discipline",
+      "hook": "6-1-1701(15)(c); AG Q; comments",
+      "statement": "Document internal audits evidencing that reviewers do not default to the system output (e.g., a planted-error catch-rate program), anticipating the AG's 'meaningful review' standard.",
+      "source": "Comment record + AG rules",
+      "status": "Contested",
+      "artifact": "Audit program record",
+      "verify_note": "Differentiator; AG considerations consumer-rights Q1; Substrate Rec 2; Brown. Not yet required \u2014 provisional."
+    },
+    {
+      "id": "X1",
+      "module": "X",
+      "term": "Sole enforcer / no private right",
+      "hook": "6-1-1706(1)(b),1709",
+      "statement": "Part 17 is enforced exclusively by the Attorney General; it creates no new private right of action.",
+      "source": "Statute",
+      "status": "Statutory",
+      "artifact": "Risk memo",
+      "verify_note": ""
+    },
+    {
+      "id": "X2",
+      "module": "X",
+      "term": "Right to cure",
+      "hook": "6-1-1706(3)",
+      "statement": "A 60-day cure follows a notice of violation unless the violation is knowing or repeated; the cure provision repeals 1/1/2030.",
+      "source": "Statute",
+      "status": "Statutory",
+      "artifact": "Risk memo",
+      "verify_note": ""
+    },
+    {
+      "id": "X3",
+      "module": "X",
+      "term": "Residual anti-discrimination exposure",
+      "hook": "6-1-1706(4),1707",
+      "statement": "Existing Colorado Anti-Discrimination Act remedies (which carry private enforcement) are preserved; covered-ADMT disparate impact is the residual private-litigation channel.",
+      "source": "Statute",
+      "status": "Statutory",
+      "artifact": "Risk memo",
+      "verify_note": ""
+    },
+    {
+      "id": "X4",
+      "module": "X",
+      "term": "Effective date",
+      "hook": "SB 26-189 \u00a75",
+      "statement": "Effective 1/1/2027; applies to consequential decisions made on or after that date.",
+      "source": "Statute",
+      "status": "Statutory",
+      "artifact": "Compliance calendar",
+      "verify_note": ""
+    }
+  ]
+}
