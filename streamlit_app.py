@@ -464,12 +464,116 @@ def view_detail() -> None:
     st.write(scope_row.get("rationale", ""))
 
     if detail is None:
-        st.warning(
-            "No worked example is stored for this policy yet. The Initial Report classified it as "
-            f"{'subject to review' if scope_row.get('subject_to_review') else 'not subject to review'}, "
-            "with the rationale above. A worked examination + updated language + AG test would be produced "
-            "on-demand via the LLM-enhanced examination in a later increment."
+        # No stored worked example — render the same before/after + rationale from the engine
+        # so any loaded single policy gets the full end-to-end story here.
+        if ss.la_policy_text is None or ss.la_policy_code != code:
+            st.info(
+                "No worked example is stored for this policy, and no single-policy text is loaded "
+                "to generate one on the fly. Load a policy on **Load & Amend a Policy**."
+            )
+            return
+        _ensure_amended_measurement()
+        original = ss.la_policy_text
+        rep = ss.la_report
+        gaps = [r for r in rep["results"] if not r["context_only"] and r["measured"]["status"] != "Addressed"]
+        additions = _build_additions_block(gaps)
+        amended = original.rstrip() + "\n\n" + additions
+
+        st.caption(
+            "Generated on-the-fly examination for this policy (no attorney-reviewed worked example on file). "
+            "Below is the before/after redline plus per-criterion rationale — the same output you get from "
+            "the Load & Amend flow."
         )
+
+        s = rep["score"]
+        st.markdown(
+            f"**Examination summary:** {rep['provisions']} provisions in the loaded policy. "
+            f"Rubric measurement: {s['must_pass_addressed']}/{s['must_pass_total']} must-pass requirements addressed as loaded."
+        )
+
+        st.markdown("### Before / After")
+        col_b, col_a = st.columns(2)
+        with col_b:
+            st.markdown("**Before**")
+            st.markdown(
+                f'<div style="max-height:500px;overflow:auto;border:1px solid {LINE};'
+                f'border-radius:6px;padding:12px;background:#fafbfd;font-size:12.5px;'
+                f'white-space:pre-wrap;font-family:ui-monospace,Menlo,monospace">{_escape(original)}</div>',
+                unsafe_allow_html=True,
+            )
+        with col_a:
+            st.markdown("**After**")
+            before_len = len(original.rstrip())
+            after_original = _escape(amended[:before_len])
+            after_additions = _escape(amended[before_len:])
+            st.markdown(
+                f'<div style="max-height:500px;overflow:auto;border:1px solid {LINE};'
+                f'border-radius:6px;padding:12px;background:#fafbfd;font-size:12.5px;'
+                f'white-space:pre-wrap;font-family:ui-monospace,Menlo,monospace">'
+                f'{after_original}'
+                f'<span style="background:#e4f3e8;border-left:3px solid {STAT};'
+                f'display:block;padding:8px 10px;margin-top:8px">{after_additions}</span>'
+                f'</div>',
+                unsafe_allow_html=True,
+            )
+
+        st.download_button(
+            "Download amended policy (Markdown)",
+            data=amended,
+            file_name=f"{code}_amended.md",
+            mime="text/markdown",
+            key=f"det_download_{code}",
+        )
+
+        if gaps:
+            st.markdown("### Why each insertion was added + AG rationale")
+            st.caption(
+                f"{len(gaps)} insertion(s). Each block explains what was missing, why the generated "
+                "language closes the gap, and the AG's likely rationale for accepting it."
+            )
+            for r in gaps:
+                mm = r["measured"]
+                tier = r["ag_test_tier"]
+                tier_note = {
+                    "Statutory": "Hard statutory requirement — defensible on the enacted text of SB 26-189 today. An AG enforcement action would be unlikely to succeed against this insertion because it directly implements the statute.",
+                    "Provisional": "This requirement will be shaped by AG rules due 2027-01-01. The inserted language is built to the standard the AG is most likely to set. Risk: final rules could tighten wording — flag for reconciliation on 2027-01-01.",
+                    "Contested": "Live battleground where commenters and the AG's framing disagree. The insertion takes the defensible broader-reading approach so the district is over-covered rather than under. Flagged for reconciliation against final rules.",
+                }.get(tier, "")
+                gap_labels = mm.get("gap") or []
+                evidence_summary = (
+                    f'The existing policy mentions "{(mm["evidence"]["text"][:180] + "...") if mm["evidence"] and len(mm["evidence"]["text"]) > 180 else (mm["evidence"]["text"] if mm["evidence"] else "")}" but does not fully satisfy the requirement.'
+                    if mm["evidence"]
+                    else "The existing policy contains no provision addressing this requirement."
+                )
+                st.markdown(
+                    f'''
+<div style="border:1px solid {LINE};border-radius:8px;padding:14px 16px;margin:10px 0;background:#fff">
+<div style="display:flex;justify-content:space-between;align-items:center">
+<div><span style="font-family:ui-monospace,Menlo,monospace;font-weight:700;color:{NAVY}">{r["id"]} · {r["term"]}</span></div>
+<div><span class="badge b-{tier}">{tier}</span></div>
+</div>
+<div style="font-size:11.5px;color:{MUTED};font-family:ui-monospace,Menlo,monospace;margin:4px 0 10px">{r["hook"]}</div>
+<div style="margin-bottom:8px"><b>What was missing.</b> {evidence_summary} {("Specifically missing: " + "; ".join(gap_labels) + ".") if gap_labels else ""}</div>
+<div style="margin-bottom:8px"><b>Why the after-language was added.</b> Satisfies the criterion's pass condition — {r.get("pass_condition","")}.</div>
+<div style="background:#eef4fb;border:1px solid #cfe0f2;border-radius:6px;padding:10px 12px;margin:8px 0;color:{NAVY};font-size:13px">
+<b>Inserted language.</b> "{r.get("revision","")}"
+</div>
+<div style="margin-bottom:8px"><b>AG rationale for approval.</b> {tier_note}</div>
+</div>
+                    ''',
+                    unsafe_allow_html=True,
+                )
+        else:
+            st.success("No gaps detected against the rubric — nothing to amend.")
+
+        st.markdown("### Confirm / edit")
+        col1, col2 = st.columns(2)
+        with col1:
+            if st.button("Confirm this examination and revision", type="primary", key=f"det_conf_{code}"):
+                ss.scope_confirmed[code] = True
+                st.success("Confirmed. This policy is now marked attorney-reviewed for the acceptance record.")
+        with col2:
+            st.text_area("Attorney note (optional)", key=f"det_note_{code}", height=80)
         return
 
     st.markdown("### Examination")
