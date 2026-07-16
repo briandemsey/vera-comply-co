@@ -339,6 +339,7 @@ def view_upload() -> None:
 
 def view_report() -> None:
     ss = st.session_state
+    _ensure_amended_measurement()
     rep = _active_report()
     scope = _active_scope()
     if rep is None and scope is None:
@@ -349,6 +350,8 @@ def view_report() -> None:
     st.markdown(f"# Initial Report — {ss.district_name or 'District'}")
     single_note = " · single-policy view" if ss.report is None and ss.la_report is not None else ""
     st.markdown(f'<p class="sub">Source: {ss.district_source}{single_note}</p>', unsafe_allow_html=True)
+
+    _render_amended_toggle()
 
     # Manual-level score (from engine)
     if rep is not None:
