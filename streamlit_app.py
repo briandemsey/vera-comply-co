@@ -155,12 +155,16 @@ def _ensure_amended_measurement() -> None:
 
     Also lazily computes la_report if a policy is loaded but hasn't been measured yet,
     so views like Compliance Overview work even if the user skipped Step 2.
+
+    Sets show_amended=True the first time the amended report exists, so views default
+    to the amended answer instead of the un-amended starting point.
     """
     ss = st.session_state
     # Compute the original single-policy report if a policy is loaded but not yet measured
     if ss.la_policy_text is not None and ss.la_report is None:
         ss.la_report = _measure_single_policy(ss.la_policy_text)
     # Compute the amended single-policy report
+    just_computed_amended = False
     if ss.la_report is not None and ss.la_report_amended is None and ss.la_policy_text is not None:
         original_report = ss.la_report
         gaps = [r for r in original_report["results"]
@@ -169,6 +173,12 @@ def _ensure_amended_measurement() -> None:
         amended_text = ss.la_policy_text.rstrip() + "\n\n" + additions
         ss.la_amended_text = amended_text
         ss.la_report_amended = _measure_single_policy(amended_text)
+        just_computed_amended = True
+    # Default the toggle to Amended the first time it's available so the tiles/metrics
+    # for the same-render pass show the amended answer, not the un-amended starting point.
+    have_amended = (ss.la_report_amended is not None) or (ss.report_amended is not None)
+    if have_amended and "_amend_toggle" not in ss and not ss.show_amended:
+        ss.show_amended = True
 
 
 def _render_amended_toggle() -> None:
@@ -184,9 +194,7 @@ def _render_amended_toggle() -> None:
 
     options = ["Original (before amendment)", "Amended (after generated additions)"]
 
-    # Default to Amended the first time the toggle appears
-    if not ss.show_amended and "_amend_toggle" not in ss:
-        ss.show_amended = True
+    # ss.show_amended is set by _ensure_amended_measurement() before render.
     if "_amend_toggle" not in ss:
         ss["_amend_toggle"] = options[1 if ss.show_amended else 0]
 
