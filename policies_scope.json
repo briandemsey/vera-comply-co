@@ -1,0 +1,1812 @@
+[
+  {
+    "code": "AB",
+    "title": "District Advisory Board",
+    "subject_to_review": false,
+    "applicable_modules": [],
+    "rationale": "Purely a district-level advisory/communications governance body with no decisions about an individual student or staff member and no data, technology, or monitoring provisions.",
+    "priority": "Low"
+  },
+  {
+    "code": "AC",
+    "title": "Nondiscrimination/Equal Opportunity",
+    "subject_to_review": true,
+    "applicable_modules": [
+      "C",
+      "D",
+      "F"
+    ],
+    "rationale": "Governs consequential discrimination/harassment determinations affecting students' education opportunity and staff employment, with annual notice, investigation records, and an appeal/human-review structure.",
+    "priority": "High"
+  },
+  {
+    "code": "AC-R1",
+    "title": "Harassment and Discrimination Investigation Procedures for Students",
+    "subject_to_review": true,
+    "applicable_modules": [
+      "D",
+      "F"
+    ],
+    "rationale": "Implements an investigation, written-report, and appeal process that produces consequential discipline/education-opportunity decisions about individual students, with recordkeeping obligations.",
+    "priority": "High"
+  },
+  {
+    "code": "AC-R2",
+    "title": "Harassment and Discrimination Investigation Procedures for Employees",
+    "subject_to_review": true,
+    "applicable_modules": [
+      "D",
+      "F"
+    ],
+    "rationale": "Establishes investigation and disciplinary decision-making about individual employees' employment status, with confidential personnel records subject to retention rules.",
+    "priority": "High"
+  },
+  {
+    "code": "AC-R3",
+    "title": "Sexual Harassment Investigation Procedures",
+    "subject_to_review": true,
+    "applicable_modules": [
+      "D",
+      "F"
+    ],
+    "rationale": "Defines a decision-maker-driven Title IX process resulting in consequential disciplinary determinations about students/staff, with a formal appeal and written-record requirements.",
+    "priority": "High"
+  },
+  {
+    "code": "ACE",
+    "title": "Nondiscrimination on the Basis of Disability",
+    "subject_to_review": true,
+    "applicable_modules": [
+      "D",
+      "F"
+    ],
+    "rationale": "Governs disability eligibility/placement determinations and a multi-step grievance and due-process hearing (human review/appeal) affecting students' education opportunity and staff employment.",
+    "priority": "High"
+  },
+  {
+    "code": "ADC",
+    "title": "Tobacco-Free and Marijuana-Free District",
+    "subject_to_review": false,
+    "applicable_modules": [],
+    "rationale": "States a conduct prohibition with generic disciplinary consequences but establishes no decision process, records system, or data/technology practice of its own (procedures live in cross-referenced policy JICH).",
+    "priority": "Low"
+  },
+  {
+    "code": "ADF",
+    "title": "Student and Employee Wellness",
+    "subject_to_review": false,
+    "applicable_modules": [],
+    "rationale": "Programmatic wellness-policy governance (advisory council, nutrition/PE standards) with no individualized decision, records, or technology component.",
+    "priority": "Low"
+  },
+  {
+    "code": "ADF-R",
+    "title": "Student and Employee Wellness (Regulation)",
+    "subject_to_review": false,
+    "applicable_modules": [],
+    "rationale": "Implementation detail for wellness programming and food/PE standards; no consequential decision about an individual and no data/tech handling.",
+    "priority": "Low"
+  },
+  {
+    "code": "ADFA",
+    "title": "Communicable Diseases",
+    "subject_to_review": true,
+    "applicable_modules": [
+      "B",
+      "D"
+    ],
+    "rationale": "Authorizes exclusion of individual students/employees from attendance and expressly governs disclosure/confidentiality of health data under FERPA/HIPAA/CORA.",
+    "priority": "Medium"
+  },
+  {
+    "code": "ADG",
+    "title": "Animals in District Facilities and Vehicles",
+    "subject_to_review": true,
+    "applicable_modules": [
+      "F"
+    ],
+    "rationale": "The Section 504/ADA Compliance Officer makes individualized service-animal accommodation and exclusion determinations affecting a disabled student's or employee's access to district programs.",
+    "priority": "Low"
+  },
+  {
+    "code": "AE",
+    "title": "District and School Accountability",
+    "subject_to_review": false,
+    "applicable_modules": [],
+    "rationale": "Establishes advisory-committee governance and budget/plan review functions with no decision about a specific individual and no data/tech handling.",
+    "priority": "Low"
+  },
+  {
+    "code": "CA",
+    "title": "District Governance",
+    "subject_to_review": false,
+    "applicable_modules": [],
+    "rationale": "Purely internal governance/administrative-authority framework with no individual consequential decision or data/tech provisions.",
+    "priority": "Low"
+  },
+  {
+    "code": "CF",
+    "title": "School Building Administration",
+    "subject_to_review": false,
+    "applicable_modules": [],
+    "rationale": "General statement of principal administrative authority; no specific decision process about an individual student/staff member and no data/tech content.",
+    "priority": "Low"
+  },
+  {
+    "code": "CFD",
+    "title": "Site-based School Management",
+    "subject_to_review": false,
+    "applicable_modules": [],
+    "rationale": "Allocates discretionary management authority to principals at the school-operations level; not a decision about an individual and no data/tech handling.",
+    "priority": "Low"
+  },
+  {
+    "code": "CH",
+    "title": "Procedures for Superintendent Policies",
+    "subject_to_review": false,
+    "applicable_modules": [],
+    "rationale": "Purely a policy-drafting/adoption workflow with no individual decision or data/technology component.",
+    "priority": "Low"
+  },
+  {
+    "code": "CL",
+    "title": "Research Involving District Students, Employees or Resources",
+    "subject_to_review": true,
+    "applicable_modules": [
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "rationale": "Directly governs analysis of student/employee personally identifiable education-record data, requires informed parental/student consent, contracting with third-party researchers, and recordkeeping/termination authority.",
+    "priority": "High"
+  },
+  {
+    "code": "LB",
+    "title": "Relations with Other Schools and School Systems",
+    "subject_to_review": false,
+    "applicable_modules": [],
+    "rationale": "High-level intergovernmental cooperation framework; references data exchange only in the abstract with no specific personal-data, decision, or technology process.",
+    "priority": "Low"
+  },
+  {
+    "code": "LBD",
+    "title": "Charter Schools",
+    "subject_to_review": false,
+    "applicable_modules": [],
+    "rationale": "Governs entity-level charter application, renewal, and accountability review of schools, not a consequential decision about an identifiable individual student or staff member.",
+    "priority": "Low"
+  },
+  {
+    "code": "FE",
+    "title": "Construction Projects and Contracting Procedures",
+    "subject_to_review": false,
+    "applicable_modules": [],
+    "rationale": "Purely operational/facilities contracting procedure with no decision about a person and no data/tech handling.",
+    "priority": "Low"
+  },
+  {
+    "code": "FEAA",
+    "title": "Construction Project Prequalification",
+    "subject_to_review": false,
+    "applicable_modules": [],
+    "rationale": "Vendor/contractor prequalification using human-applied predetermined criteria, not a decision about a student or staff member and not a data/tech process regulated by the Act.",
+    "priority": "Low"
+  },
+  {
+    "code": "FF",
+    "title": "Naming District Sites and Facilities",
+    "subject_to_review": false,
+    "applicable_modules": [],
+    "rationale": "Purely administrative facility-naming procedure with no decision about a specific individual's rights/eligibility and no data/tech handling.",
+    "priority": "Low"
+  },
+  {
+    "code": "FCB",
+    "title": "School Closure, Consolidation, and/or Relocation (source fetch failed)",
+    "subject_to_review": true,
+    "applicable_modules": [
+      "D",
+      "F"
+    ],
+    "rationale": "Title and cross-referenced FCB-R content confirm this governs Board decisions on school closure/consolidation/relocation that materially affect students' enrollment and education opportunity via a superintendent-recommendation/Board-decision human-review process; content unavailable so flagged for manual confirmation.",
+    "priority": "Medium"
+  },
+  {
+    "code": "FCB-R",
+    "title": "School Closure Implementation Processes (source fetch failed)",
+    "subject_to_review": true,
+    "applicable_modules": [
+      "D",
+      "F"
+    ],
+    "rationale": "Title and parallel full-text version confirm this sets data-driven criteria (enrollment/utilization projections) feeding a human decision-making process on school closures affecting student education opportunity; content unavailable so flagged for manual confirmation.",
+    "priority": "Medium"
+  },
+  {
+    "code": "JH_JHB",
+    "title": "Student Attendance/Truancy",
+    "subject_to_review": true,
+    "applicable_modules": [
+      "A",
+      "D",
+      "F"
+    ],
+    "rationale": "Establishes an explicit absence-monitoring/tracking system, individualized truancy determinations affecting a student's education opportunity, and a defined appeal path to the assistant superintendent and superintendent.",
+    "priority": "High"
+  },
+  {
+    "code": "GBGF-R",
+    "title": "Compliance with the Family and Medical Leave Act",
+    "subject_to_review": true,
+    "applicable_modules": [
+      "D",
+      "F"
+    ],
+    "rationale": "Governs individualized FMLA eligibility/leave-designation decisions about employees, including collection of medical certification records and district notification timelines.",
+    "priority": "Medium"
+  },
+  {
+    "code": "KEB",
+    "title": "Public Concerns/Complaints About Personnel",
+    "subject_to_review": true,
+    "applicable_modules": [
+      "D",
+      "F"
+    ],
+    "rationale": "Establishes a complaint/investigation/resolution process about individual staff members with records cross-referenced to the personnel-records policy, which can lead to further personnel action.",
+    "priority": "Medium"
+  },
+  {
+    "code": "KEF",
+    "title": "Public Concerns/Complaints About Teaching (Including Methods, Activities, or Presentations)",
+    "subject_to_review": true,
+    "applicable_modules": [
+      "D",
+      "F"
+    ],
+    "rationale": "Multi-step review-committee and appeal process regarding a teacher's methods/materials, with outcomes documented in the employee's personnel file, engaging human-review and recordkeeping duties.",
+    "priority": "Medium"
+  },
+  {
+    "code": "KHC",
+    "title": "Distribution/Posting of Non-District Communications",
+    "subject_to_review": false,
+    "applicable_modules": [],
+    "rationale": "Purely operational rules for posting/distributing third-party advertising and notices; no decision about an individual and no personal data/technology handling.",
+    "priority": "Low"
+  },
+  {
+    "code": "KLG",
+    "title": "Relations with State and Federal Agencies to Enhance the Safety and Security of Students, Employees, and the Community",
+    "subject_to_review": true,
+    "applicable_modules": [
+      "B",
+      "D"
+    ],
+    "rationale": "Directly regulates collection, disclosure, and confidentiality of student education records (FERPA) and immigration/citizenship data, including a designated records point of contact.",
+    "priority": "High"
+  },
+  {
+    "code": "DB",
+    "title": "Annual Budget",
+    "subject_to_review": false,
+    "applicable_modules": [],
+    "rationale": "Purely fiscal budget-format and preparation policy with no vendor-technology, personal-data, records-access, or person-decision content.",
+    "priority": "Low"
+  },
+  {
+    "code": "DBAA",
+    "title": "General Fund Balances",
+    "subject_to_review": false,
+    "applicable_modules": [],
+    "rationale": "Governs GASB fund-balance categories and reserve levels, a purely fiscal accounting matter unrelated to ADMT, vendors, or records.",
+    "priority": "Low"
+  },
+  {
+    "code": "DDA",
+    "title": "Federal Procurement and Fiscal Requirements",
+    "subject_to_review": true,
+    "applicable_modules": [
+      "D",
+      "E"
+    ],
+    "rationale": "Establishes procurement thresholds, conflict-of-interest rules, and mandatory procurement-record retention for federally funded purchases of services/equipment, which may include technology, implicating vendor-binding and recordkeeping duties.",
+    "priority": "Medium"
+  },
+  {
+    "code": "DEBA",
+    "title": "Incentive Payments to Taxpayers",
+    "subject_to_review": false,
+    "applicable_modules": [],
+    "rationale": "Governs tax-incentive negotiations with local businesses, unrelated to technology vendors, records access, or person-level decisions.",
+    "priority": "Low"
+  },
+  {
+    "code": "DEBA-R",
+    "title": "Incentive Payments to Taxpayers (Regulation)",
+    "subject_to_review": false,
+    "applicable_modules": [],
+    "rationale": "Implements the tax-incentive negotiation process with local governments; no vendor-technology, data, or consequential-decision content.",
+    "priority": "Low"
+  },
+  {
+    "code": "DFA-DFAA",
+    "title": "Revenues from Investment/Use of Surplus Funds",
+    "subject_to_review": false,
+    "applicable_modules": [],
+    "rationale": "Governs investment of District funds and broker/dealer standards, a purely fiscal treasury matter outside ADMT scope.",
+    "priority": "Low"
+  },
+  {
+    "code": "DFDA",
+    "title": "Free Admissions",
+    "subject_to_review": false,
+    "applicable_modules": [],
+    "rationale": "Establishes lifetime activity pass eligibility categories, a purely administrative/logistics matter with no vendor, data, or ADMT content.",
+    "priority": "Low"
+  },
+  {
+    "code": "DGA-DGB",
+    "title": "Authorized Signatures on District Checks",
+    "subject_to_review": false,
+    "applicable_modules": [],
+    "rationale": "Sets check-signing authorization rules, a purely fiscal/logistics matter unrelated to technology vendors or ADMT.",
+    "priority": "Low"
+  },
+  {
+    "code": "DH",
+    "title": "Employee Surety Bonds/Insurance",
+    "subject_to_review": false,
+    "applicable_modules": [],
+    "rationale": "Requires bonding/insurance for employees with custody of funds, a purely fiscal risk-management matter with no ADMT relevance.",
+    "priority": "Low"
+  },
+  {
+    "code": "DIE",
+    "title": "Audits/Financial Monitoring",
+    "subject_to_review": false,
+    "applicable_modules": [],
+    "rationale": "Governs annual financial-statement audits and auditor qualifications, a purely fiscal/audit matter with no vendor-technology or person-decision content.",
+    "priority": "Low"
+  },
+  {
+    "code": "DIEA",
+    "title": "Audit Committee",
+    "subject_to_review": false,
+    "applicable_modules": [],
+    "rationale": "Establishes the District Audit Committee's fiscal-oversight role and membership, unrelated to technology vendors, records access, or ADMT decisions.",
+    "priority": "Low"
+  },
+  {
+    "code": "DIEA-R",
+    "title": "Internal Audit Services",
+    "subject_to_review": false,
+    "applicable_modules": [],
+    "rationale": "Defines internal-auditor scope limited to financial/compliance review functions, with no vendor-technology or ADMT-relevant content.",
+    "priority": "Low"
+  },
+  {
+    "code": "DJ",
+    "title": "Purchasing",
+    "subject_to_review": true,
+    "applicable_modules": [
+      "D",
+      "E"
+    ],
+    "rationale": "Governs procurement of goods and services (including any technology/software), vendor selection criteria, and directs purchase-record requests through CORA, directly implicating vendor-binding and recordkeeping duties.",
+    "priority": "High"
+  },
+  {
+    "code": "DJC",
+    "title": "Petty Cash",
+    "subject_to_review": false,
+    "applicable_modules": [],
+    "rationale": "Governs small-dollar cash transactions and custodian bookkeeping, a purely fiscal/logistics matter with no vendor-technology or data content.",
+    "priority": "Low"
+  },
+  {
+    "code": "DN",
+    "title": "School Properties Disposition",
+    "subject_to_review": false,
+    "applicable_modules": [],
+    "rationale": "Governs disposal/reuse of surplus property including obsolete technology equipment, but concerns end-of-life asset logistics rather than vendor procurement, data handling, or person-affecting decisions.",
+    "priority": "Low"
+  },
+  {
+    "code": "DJG-DJGA",
+    "title": "Vendor Relations, Sales Calls and Demonstrations",
+    "subject_to_review": true,
+    "applicable_modules": [
+      "E"
+    ],
+    "rationale": "Directly governs vendor qualification/prequalification, conflict-of-interest standards, and vendor disqualification, core to SB 26-189's vendor/developer-binding duty.",
+    "priority": "High"
+  },
+  {
+    "code": "DKC",
+    "title": "Expense Authorization/Reimbursement",
+    "subject_to_review": false,
+    "applicable_modules": [],
+    "rationale": "Governs employee mileage/travel reimbursement, a purely fiscal/logistics matter unrelated to vendors, data, or ADMT.",
+    "priority": "Low"
+  },
+  {
+    "code": "DJA",
+    "title": "Purchasing Authority, Methods, and Thresholds",
+    "subject_to_review": true,
+    "applicable_modules": [
+      "E"
+    ],
+    "rationale": "Establishes competitive bidding/proposal methods, sole-source and standardization exceptions, and vendor grievance/appeal procedures central to vendor procurement governance.",
+    "priority": "High"
+  },
+  {
+    "code": "DJB",
+    "title": "Contracting",
+    "subject_to_review": true,
+    "applicable_modules": [
+      "B",
+      "D",
+      "E"
+    ],
+    "rationale": "Governs all District contracts including software purchases via standard templates, requires legal-counsel review, and expressly cross-references the Student Data Transparency and Security Act and Colorado Privacy Act, making it the primary anchor for vendor/developer binding and data-protection contract terms.",
+    "priority": "High"
+  },
+  {
+    "code": "DIC",
+    "title": "Financial Reports and Statements",
+    "subject_to_review": false,
+    "applicable_modules": [],
+    "rationale": "Governs monthly reconciliations and budget reporting, a purely fiscal matter with no vendor, data-privacy, or ADMT content.",
+    "priority": "Low"
+  },
+  {
+    "code": "KBA",
+    "title": "Title I Parent Involvement",
+    "subject_to_review": false,
+    "applicable_modules": [],
+    "rationale": "Governs parent engagement in Title I program planning and communication, with no vendor-technology, records-access, or ADMT decision content.",
+    "priority": "Low"
+  },
+  {
+    "code": "KBE-KJA",
+    "title": "Support Organizations",
+    "subject_to_review": false,
+    "applicable_modules": [],
+    "rationale": "Governs independent booster clubs/PTAs and their gift/fund handling, an organizational-relations matter with no ADMT, vendor-technology, or public-records content.",
+    "priority": "Low"
+  },
+  {
+    "code": "KD",
+    "title": "Public Information and Communications",
+    "subject_to_review": false,
+    "applicable_modules": [],
+    "rationale": "High-level statement of the Board's communications philosophy with no complaint procedure, records process, or vendor-technology content.",
+    "priority": "Low"
+  },
+  {
+    "code": "KDB",
+    "title": "Public Inspection and Copying of District Records",
+    "subject_to_review": true,
+    "applicable_modules": [
+      "D"
+    ],
+    "rationale": "Implements CORA public-records inspection, fee, exemption, and denial procedures directly applicable to public access/handling of District records and data, a core SB 26-189 recordkeeping touchpoint.",
+    "priority": "High"
+  },
+  {
+    "code": "KDE",
+    "title": "Crisis Management and Prevention",
+    "subject_to_review": false,
+    "applicable_modules": [],
+    "rationale": "Governs emergency-response planning under NIMS/ICS; its only 'automated' reference is AED medical-device hardware, not an algorithmic/ADMT decision system.",
+    "priority": "Low"
+  },
+  {
+    "code": "KEC",
+    "title": "Public Concerns/Complaints about Instructional Resources",
+    "subject_to_review": false,
+    "applicable_modules": [],
+    "rationale": "Establishes a reconsideration/appeal process for challenged instructional materials, a curriculum-content complaint procedure rather than one reviewing an automated consequential decision about a person.",
+    "priority": "Low"
+  },
+  {
+    "code": "KEC-E",
+    "title": "Public Concerns/Complaints Form",
+    "subject_to_review": false,
+    "applicable_modules": [],
+    "rationale": "Standardized intake form implementing KEC's instructional-materials complaint process; no ADMT, vendor-technology, or data-correction content.",
+    "priority": "Low"
+  },
+  {
+    "code": "KEF-E",
+    "title": "Public Concerns/Complaints about Teaching (form)",
+    "subject_to_review": false,
+    "applicable_modules": [],
+    "rationale": "A referral notice directing complainants to central administration for a teaching-methods challenge form; no vendor-technology, records, or ADMT content.",
+    "priority": "Low"
+  },
+  {
+    "code": "KF",
+    "title": "Use of District Facilities",
+    "subject_to_review": false,
+    "applicable_modules": [],
+    "rationale": "Governs facility scheduling, fees, and denial appeals for building/field use, a facilities-logistics matter with no vendor-technology or ADMT content.",
+    "priority": "Low"
+  },
+  {
+    "code": "KFA",
+    "title": "Public Conduct on District Property",
+    "subject_to_review": false,
+    "applicable_modules": [],
+    "rationale": "Sets behavioral standards and trespass enforcement on District property, unrelated to automated systems, vendors, or records.",
+    "priority": "Low"
+  },
+  {
+    "code": "KHB",
+    "title": "District Revenue through Advertising",
+    "subject_to_review": false,
+    "applicable_modules": [],
+    "rationale": "Governs advertising/sponsorship approval and revenue allocation; involves vendor agreements but not technology/software procurement, personal data, or person-level decisions.",
+    "priority": "Low"
+  },
+  {
+    "code": "KI",
+    "title": "Visitors to Schools",
+    "subject_to_review": false,
+    "applicable_modules": [],
+    "rationale": "Governs visitor check-in, identification, and classroom-observation limits through manual procedures; explicitly no automated screening system, vendor technology, or scoring tool is described.",
+    "priority": "Low"
+  },
+  {
+    "code": "KJ",
+    "title": "Volunteers",
+    "subject_to_review": true,
+    "applicable_modules": [
+      "D",
+      "E",
+      "F"
+    ],
+    "rationale": "Requires a District-engaged background-check vendor, retains confidential screening records, and provides a denial/appeal process to the executive director of HR, making it a natural anchor for vendor-binding and human-review duties if any screening tool becomes ADMT.",
+    "priority": "Medium"
+  },
+  {
+    "code": "KJ-R",
+    "title": "Volunteers (Regulation)",
+    "subject_to_review": true,
+    "applicable_modules": [
+      "A",
+      "D",
+      "E"
+    ],
+    "rationale": "Operationalizes volunteer screening through a background-check contractor using national criminal databases with defined escalation criteria and confidential-file recordkeeping, warranting inventory/vendor review even though no automated scoring tool is currently described.",
+    "priority": "Medium"
+  },
+  {
+    "code": "KLB",
+    "title": "Relations with Election Authorities",
+    "subject_to_review": false,
+    "applicable_modules": [],
+    "rationale": "Authorizes principals as deputy voter registrars, a narrow election-administration matter with no vendor-technology or ADMT content.",
+    "priority": "Low"
+  },
+  {
+    "code": "KLK",
+    "title": "Relations with Local Governmental Authorities",
+    "subject_to_review": false,
+    "applicable_modules": [],
+    "rationale": "Establishes general information-sharing commitments with local government, unrelated to technology vendors, records access, or ADMT decisions.",
+    "priority": "Low"
+  },
+  {
+    "code": "EBAB",
+    "title": "Hazardous Substances",
+    "subject_to_review": false,
+    "applicable_modules": [],
+    "rationale": "Purely a chemical/hazardous-materials safety and disposal policy with no decision about a person and no data, technology, records, or monitoring subject matter.",
+    "priority": "Low"
+  },
+  {
+    "code": "EBBA",
+    "title": "Prevention of Disease/Infection Transmission",
+    "subject_to_review": false,
+    "applicable_modules": [],
+    "rationale": "Body text governs accident reporting procedures for insurance/litigation purposes with no automated decision, eligibility determination, or technology/data-processing content.",
+    "priority": "Low"
+  },
+  {
+    "code": "EBBA-R",
+    "title": "Prevention of Disease/Infection Transmission",
+    "subject_to_review": false,
+    "applicable_modules": [],
+    "rationale": "Purely clinical/procedural infection-control guidance (universal precautions, hand washing, PPE) with no decision about a person and no data or technology handling.",
+    "priority": "Low"
+  },
+  {
+    "code": "EBCB",
+    "title": "Fire and Emergency Evacuation Response Drills",
+    "subject_to_review": false,
+    "applicable_modules": [],
+    "rationale": "Purely operational fire-drill scheduling and reporting requirements; no consequential decision about an individual and no data/technology component.",
+    "priority": "Low"
+  },
+  {
+    "code": "EBCE",
+    "title": "School Closings and Cancellations",
+    "subject_to_review": false,
+    "applicable_modules": [],
+    "rationale": "Operational weather-closure decision-making by the superintendent based on human assessment of road/weather data; not a consequential decision about a specific person and no ADMT, data, or records subject matter.",
+    "priority": "Low"
+  },
+  {
+    "code": "EC",
+    "title": "Property Management",
+    "subject_to_review": false,
+    "applicable_modules": [],
+    "rationale": "General facilities/property oversight policy; mentions transportation and food services only as administrative areas without setting eligibility criteria or touching data/technology.",
+    "priority": "Low"
+  },
+  {
+    "code": "ECAB",
+    "title": "Securing District Facilities",
+    "subject_to_review": false,
+    "applicable_modules": [],
+    "rationale": "Physical key/access-card security policy; issuance is tied to employment/contract status but involves no personal-data processing, monitoring technology, or consequential decision-making system.",
+    "priority": "Low"
+  },
+  {
+    "code": "ECAC",
+    "title": "Vandalism",
+    "subject_to_review": false,
+    "applicable_modules": [],
+    "rationale": "Student discipline for vandalism is handled through direct human fact-finding and reporting with no data processing, technology, or automated system involved.",
+    "priority": "Low"
+  },
+  {
+    "code": "ECAF",
+    "title": "Electronic Monitoring and Surveillance",
+    "subject_to_review": true,
+    "applicable_modules": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "F"
+    ],
+    "rationale": "Governs camera/telephone monitoring technology, notice, retention, and access-logging of recordings capturing students and staff, squarely within SB 26-189's monitoring/records/notice concerns even though no AI analytics are currently disclosed.",
+    "priority": "High"
+  },
+  {
+    "code": "ECF",
+    "title": "Energy Conservation",
+    "subject_to_review": false,
+    "applicable_modules": [],
+    "rationale": "Purely facilities/energy-efficiency policy with no decision about a person and no data or technology handling.",
+    "priority": "Low"
+  },
+  {
+    "code": "EDE",
+    "title": "Waste Management and Recycling",
+    "subject_to_review": false,
+    "applicable_modules": [],
+    "rationale": "Purely operational waste-reduction and recycling policy with no decision about a person and no data or technology handling.",
+    "priority": "Low"
+  },
+  {
+    "code": "EEA-EEB",
+    "title": "District Transportation Services and Vehicle Use",
+    "subject_to_review": false,
+    "applicable_modules": [],
+    "rationale": "Operational bus-use prioritization and driver authorization logistics with no data/technology component and no automated eligibility or benefit determination.",
+    "priority": "Low"
+  },
+  {
+    "code": "EEAA",
+    "title": "Transportation Students To and From School",
+    "subject_to_review": false,
+    "applicable_modules": [],
+    "rationale": "Transportation eligibility is a manual, rule-based distance measurement administered by district staff with no automated system, data processing, or essential-benefit determination as defined under the Act.",
+    "priority": "Low"
+  },
+  {
+    "code": "EEAEAA",
+    "title": "Drug and Alcohol Testing for Drivers with CDL",
+    "subject_to_review": false,
+    "applicable_modules": [],
+    "rationale": "Federally mandated lab-based drug/alcohol testing program producing objective chemical results reviewed by humans; no automated decision-making technology, profiling, or scoring of the individual is involved.",
+    "priority": "Low"
+  },
+  {
+    "code": "EEAEAA-R",
+    "title": "Drug and Alcohol Testing for District CDL Drivers",
+    "subject_to_review": false,
+    "applicable_modules": [],
+    "rationale": "Implementing regulation for the same lab-based federal testing program; consequences flow from confirmed lab results and human/supervisor determinations, not ADMT.",
+    "priority": "Low"
+  },
+  {
+    "code": "EEAEC",
+    "title": "Student Conduct on School Buses",
+    "subject_to_review": false,
+    "applicable_modules": [],
+    "rationale": "Bus-riding privilege and discipline policy administered entirely by human staff with no data/technology or automated-decision content.",
+    "priority": "Low"
+  },
+  {
+    "code": "EEAEC-R",
+    "title": "Student Conduct on School Buses",
+    "subject_to_review": false,
+    "applicable_modules": [],
+    "rationale": "Operational conduct, progressive-discipline, and bus-stop-assignment logistics for already-eligible students, with no automated system or data/technology handling.",
+    "priority": "Low"
+  },
+  {
+    "code": "EEAF",
+    "title": "Use of Buses by Non-Student Groups",
+    "subject_to_review": false,
+    "applicable_modules": [],
+    "rationale": "Purely operational bus-rental scheduling, fees, and application logistics for community groups with no data/technology handling and no student/staff consequential decision.",
+    "priority": "Low"
+  },
+  {
+    "code": "EEAG",
+    "title": "Student Transportation in Private Vehicles",
+    "subject_to_review": false,
+    "applicable_modules": [],
+    "rationale": "Driver/vehicle approval criteria for field-trip transportation are manually administered eligibility checks with no data/technology or automated-decision component.",
+    "priority": "Low"
+  },
+  {
+    "code": "EF",
+    "title": "Food Services",
+    "subject_to_review": false,
+    "applicable_modules": [],
+    "rationale": "General cafeteria operations and nutrition-program oversight policy; the substantive free/reduced-price eligibility determination is delegated entirely to companion policy EFC.",
+    "priority": "Low"
+  },
+  {
+    "code": "EFC",
+    "title": "Free and Reduced Price Food Services",
+    "subject_to_review": true,
+    "applicable_modules": [
+      "B",
+      "C",
+      "F"
+    ],
+    "rationale": "Establishes the district's essential-benefit eligibility determination (free/reduced-price meals) with an application, income-verification, and appeals process squarely within SB 26-189's covered domains.",
+    "priority": "High"
+  },
+  {
+    "code": "EGAD",
+    "title": "Copyright Compliance",
+    "subject_to_review": false,
+    "applicable_modules": [],
+    "rationale": "Copyright-law compliance for reproduction of materials; no decision about a person and no personal-data, monitoring, or automated-system content.",
+    "priority": "Low"
+  },
+  {
+    "code": "EHA",
+    "title": "District Information Technology",
+    "subject_to_review": true,
+    "applicable_modules": [
+      "A",
+      "B",
+      "D",
+      "E"
+    ],
+    "rationale": "Governs acquisition/approval of District technology, student/employee/volunteer data handling and downloading restrictions, and monitoring of technology use, making it the natural locus for an ADMT inventory and vendor-approval process.",
+    "priority": "High"
+  },
+  {
+    "code": "EHB",
+    "title": "Records Retention",
+    "subject_to_review": true,
+    "applicable_modules": [
+      "D"
+    ],
+    "rationale": "Establishes the district's general and litigation-hold records-retention framework that would govern retention of ADMT-related records and logs required by SB 26-189.",
+    "priority": "High"
+  },
+  {
+    "code": "EID",
+    "title": "Compliance with HIPAA",
+    "subject_to_review": true,
+    "applicable_modules": [
+      "B",
+      "D",
+      "E"
+    ],
+    "rationale": "Governs handling of protected health information and delegates development of data-handling safeguards and vendor compliance activities to a privacy official, implicating personal-data domains SB 26-189 regulates.",
+    "priority": "Medium"
+  },
+  {
+    "code": "GBAA",
+    "title": "Harassment or Discrimination of Employees",
+    "subject_to_review": false,
+    "applicable_modules": [],
+    "rationale": "Purely a conduct-standard and complaint-investigation policy enforced through human judgment, with no personnel-data system, technology monitoring, or ADMT-relevant decision process described.",
+    "priority": "Low"
+  },
+  {
+    "code": "GBEA",
+    "title": "Employee Conduct and Ethics, Conflict of Interest, and Familial and Personal Relationships",
+    "subject_to_review": true,
+    "applicable_modules": [
+      "A",
+      "D",
+      "E",
+      "F"
+    ],
+    "rationale": "Contains fingerprint-based CBI/FBI criminal-history screening of candidates and current employees that directly drives hiring rescission, discipline, and dismissal decisions.",
+    "priority": "High"
+  },
+  {
+    "code": "GBEBA",
+    "title": "Staff Dress Code",
+    "subject_to_review": false,
+    "applicable_modules": [],
+    "rationale": "Purely administrative appearance standard with no personnel decision-making process, data handling, or technology component.",
+    "priority": "Low"
+  },
+  {
+    "code": "GBEBD",
+    "title": "Employee Communications",
+    "subject_to_review": false,
+    "applicable_modules": [],
+    "rationale": "General conduct standard for official and off-duty communications enforced through human-judgment discipline, with no data system, monitoring technology, or automated evaluation described.",
+    "priority": "Low"
+  },
+  {
+    "code": "GBEC",
+    "title": "Employee Use and Possession of Drugs and Alcohol",
+    "subject_to_review": false,
+    "applicable_modules": [],
+    "rationale": "Conduct prohibition with human-administered disciplinary consequences; no automated screening, scoring, or data/technology governance is described.",
+    "priority": "Low"
+  },
+  {
+    "code": "GBEC-E",
+    "title": "Acknowledgment and Agreements Regarding Employee Use and Possession of Drugs and Alcohol",
+    "subject_to_review": false,
+    "applicable_modules": [],
+    "rationale": "A signature/acknowledgment exhibit form with no decision-making process or data/technology handling of its own.",
+    "priority": "Low"
+  },
+  {
+    "code": "GBEE",
+    "title": "Employee Use of District Information Technology",
+    "subject_to_review": true,
+    "applicable_modules": [
+      "A",
+      "B",
+      "D",
+      "E"
+    ],
+    "rationale": "Governs District technology use, monitoring without notice, and handling of confidential personnel and student data across District and third-party systems, squarely within SB 26-189's technology-use/monitoring scope.",
+    "priority": "High"
+  },
+  {
+    "code": "GBG",
+    "title": "Violence in the Workplace",
+    "subject_to_review": false,
+    "applicable_modules": [],
+    "rationale": "Incident-reporting and investigation policy with human-judgment discipline; no personnel-data system or automated tool is described.",
+    "priority": "Low"
+  },
+  {
+    "code": "GBGA",
+    "title": "Staff Health",
+    "subject_to_review": true,
+    "applicable_modules": [
+      "A",
+      "D",
+      "F"
+    ],
+    "rationale": "Governs pre-employment medical screening that conditions job offers and fitness-for-duty evaluations that can lead to suspension or termination, involving confidential health-data handling.",
+    "priority": "Medium"
+  },
+  {
+    "code": "GBGA-R",
+    "title": "Staff Health (Regulation)",
+    "subject_to_review": true,
+    "applicable_modules": [
+      "A",
+      "D",
+      "F"
+    ],
+    "rationale": "Details the fitness-for-duty and communicable-disease determination process that can result in suspension, leave, or dismissal, based on confidential medical review data.",
+    "priority": "Medium"
+  },
+  {
+    "code": "GBGB",
+    "title": "Staff Personal Security and Safety",
+    "subject_to_review": false,
+    "applicable_modules": [],
+    "rationale": "Addresses student misconduct toward staff and resulting student discipline, not a consequential employment decision about staff nor any data/technology system.",
+    "priority": "Low"
+  },
+  {
+    "code": "GBGF",
+    "title": "Compliance with Family and Medical Leave Act",
+    "subject_to_review": true,
+    "applicable_modules": [
+      "A",
+      "D",
+      "F"
+    ],
+    "rationale": "Directly governs leave determinations for staff (eligibility, reinstatement, key-employee denial), a covered employment decision category under the Act.",
+    "priority": "High"
+  },
+  {
+    "code": "GBI",
+    "title": "Fair Campaign Practices Compliance",
+    "subject_to_review": false,
+    "applicable_modules": [],
+    "rationale": "An ethics/compliance restriction on use of District resources for campaign activity, with no decision about an individual employee's status and no data/tech system.",
+    "priority": "Low"
+  },
+  {
+    "code": "GBJ",
+    "title": "Personnel Records and Files",
+    "subject_to_review": true,
+    "applicable_modules": [
+      "B",
+      "D"
+    ],
+    "rationale": "Directly governs classification, confidentiality, access, and disclosure of personnel records and evaluation data, core recordkeeping/classification territory under the Act.",
+    "priority": "High"
+  },
+  {
+    "code": "GBL",
+    "title": "Criminal History Record Information",
+    "subject_to_review": true,
+    "applicable_modules": [
+      "A",
+      "D",
+      "E"
+    ],
+    "rationale": "Governs storage, access, and account-management controls for FBI/CBI criminal justice information used in criminal-history determinations about staff.",
+    "priority": "High"
+  },
+  {
+    "code": "GCKAA",
+    "title": "Displaced Teachers",
+    "subject_to_review": true,
+    "applicable_modules": [
+      "A",
+      "D",
+      "F"
+    ],
+    "rationale": "Ties consequential decisions (reassignment denial, reduction-in-force, priority-pool eligibility) to performance evaluation ratings, a covered employment-decision category.",
+    "priority": "Medium"
+  },
+  {
+    "code": "GCQC-GCQD",
+    "title": "Resignation of Instructional Staff/Administrative Staff",
+    "subject_to_review": true,
+    "applicable_modules": [
+      "D"
+    ],
+    "rationale": "Governs resignation processing and mandatory reporting of misconduct-related resignations to CDE, involving personnel record handling tied to a staff separation event.",
+    "priority": "Medium"
+  },
+  {
+    "code": "GDQB",
+    "title": "Resignation of Classified Staff",
+    "subject_to_review": true,
+    "applicable_modules": [
+      "D"
+    ],
+    "rationale": "Governs resignation notice and mandatory CDE reporting of child-related misconduct allegations, involving personnel record handling tied to a staff separation event.",
+    "priority": "Medium"
+  },
+  {
+    "code": "GDQD",
+    "title": "Classified Employee Performance Trial Periods, Discipline and Dismissal",
+    "subject_to_review": true,
+    "applicable_modules": [
+      "A",
+      "D",
+      "F"
+    ],
+    "rationale": "The core policy governing classified-staff performance trial outcomes, discipline, and dismissal, squarely within the Act's covered employment-decision categories.",
+    "priority": "High"
+  },
+  {
+    "code": "GE",
+    "title": "Choice Enrollment of Children of District Employees",
+    "subject_to_review": false,
+    "applicable_modules": [],
+    "rationale": "Governs student enrollment eligibility for employees' children, not a consequential employment decision about staff and no personnel data/technology system.",
+    "priority": "Low"
+  },
+  {
+    "code": "IC/ICA",
+    "title": "School Year/Calendar/Instructional Time",
+    "subject_to_review": false,
+    "applicable_modules": [],
+    "rationale": "Sets calendar length and defines instructional time district-wide; contains no decision about an individual student or staff member.",
+    "priority": "Low"
+  },
+  {
+    "code": "IGA",
+    "title": "Curriculum Development",
+    "subject_to_review": false,
+    "applicable_modules": [],
+    "rationale": "Governs cooperative curriculum development process, not an individualized decision about a student or staff member.",
+    "priority": "Low"
+  },
+  {
+    "code": "IGD",
+    "title": "Curriculum Adoption",
+    "subject_to_review": false,
+    "applicable_modules": [],
+    "rationale": "Establishes Board approval process for new programs/courses at the program level, not a decision about any individual person.",
+    "priority": "Low"
+  },
+  {
+    "code": "IGDA",
+    "title": "Student Activities and Organizations",
+    "subject_to_review": false,
+    "applicable_modules": [],
+    "rationale": "Governs discretionary approval and operation of student clubs/organizations; not a listed consequential decision (admission, placement, grading, graduation, or formal program eligibility).",
+    "priority": "Low"
+  },
+  {
+    "code": "IGF",
+    "title": "Curriculum Review",
+    "subject_to_review": false,
+    "applicable_modules": [],
+    "rationale": "Directs periodic aggregate curriculum evaluation, not an individualized student decision.",
+    "priority": "Low"
+  },
+  {
+    "code": "IGF-R",
+    "title": "Curriculum Review",
+    "subject_to_review": false,
+    "applicable_modules": [],
+    "rationale": "Procedural regulation implementing the multi-year curriculum review cycle; no decision about an individual student.",
+    "priority": "Low"
+  },
+  {
+    "code": "IHA",
+    "title": "Instructional Program",
+    "subject_to_review": false,
+    "applicable_modules": [],
+    "rationale": "Directs teachers to use assessment data to inform instructional strategy generally; does not establish a placement, tracking, or grading determination process.",
+    "priority": "Low"
+  },
+  {
+    "code": "IHAAA",
+    "title": "School-Sponsored Student Publications",
+    "subject_to_review": false,
+    "applicable_modules": [],
+    "rationale": "Governs review/appeal of prohibited student expression in publications, which is not one of the enumerated consequential-decision categories.",
+    "priority": "Low"
+  },
+  {
+    "code": "IHAM",
+    "title": "Health Education",
+    "subject_to_review": false,
+    "applicable_modules": [],
+    "rationale": "Curriculum content and parental exemption notice requirements; no scored or automated decision about a student.",
+    "priority": "Low"
+  },
+  {
+    "code": "IHBA",
+    "title": "Abbreviated School Day",
+    "subject_to_review": true,
+    "applicable_modules": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "rationale": "IEP/504 teams place students with disabilities on abbreviated schedules, a special-education placement decision directly affecting FAPE/LRE.",
+    "priority": "High"
+  },
+  {
+    "code": "IHBG",
+    "title": "Home-Based Education",
+    "subject_to_review": true,
+    "applicable_modules": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "rationale": "A standardized-test percentile score is used as a formulaic cutoff that determines whether a student remains exempt from compulsory attendance or must enroll in school.",
+    "priority": "High"
+  },
+  {
+    "code": "IHCFA",
+    "title": "Elementary-Based Child Care",
+    "subject_to_review": false,
+    "applicable_modules": [],
+    "rationale": "Vendor RFP/selection process for elementary child-care services; not a decision about any individual student's educational status.",
+    "priority": "Low"
+  },
+  {
+    "code": "IJ",
+    "title": "Instructional Resources and Materials",
+    "subject_to_review": false,
+    "applicable_modules": [],
+    "rationale": "Textbook/material approval delegation and standards; not a decision about a student.",
+    "priority": "Low"
+  },
+  {
+    "code": "IJ-AR",
+    "title": "Instructional Resources and Materials",
+    "subject_to_review": false,
+    "applicable_modules": [],
+    "rationale": "Committee procedure for selecting and adopting instructional materials; no individualized student decision.",
+    "priority": "Low"
+  },
+  {
+    "code": "IJL",
+    "title": "Library Materials Selection and Adoptions",
+    "subject_to_review": false,
+    "applicable_modules": [],
+    "rationale": "Sets criteria for library media selection; no decision about an individual student.",
+    "priority": "Low"
+  },
+  {
+    "code": "IJOA",
+    "title": "Field Trips and Other Activities Away from School",
+    "subject_to_review": false,
+    "applicable_modules": [],
+    "rationale": "Governs trip approval and disability accommodations for a single activity; an event-level accommodation, not an educational placement/tracking determination.",
+    "priority": "Low"
+  },
+  {
+    "code": "IJOA-R",
+    "title": "Field Trips",
+    "subject_to_review": false,
+    "applicable_modules": [],
+    "rationale": "Administrative approval procedure for field trips; no consequential decision about a student.",
+    "priority": "Low"
+  },
+  {
+    "code": "IKF-2025",
+    "title": "Graduation and Diploma Requirements",
+    "subject_to_review": true,
+    "applicable_modules": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "rationale": "Diploma issuance is gated on meeting or exceeding numeric cut scores on vendor-administered assessments, a graduation/diploma consequential decision.",
+    "priority": "High"
+  },
+  {
+    "code": "IKF-2017",
+    "title": "Graduation and Diploma Requirements",
+    "subject_to_review": true,
+    "applicable_modules": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "rationale": "Gates graduation and endorsement awards on assessment cut scores and a 3.6 GPA threshold, both formulaic consequential decisions.",
+    "priority": "High"
+  },
+  {
+    "code": "IKFB",
+    "title": "Graduation Exercises",
+    "subject_to_review": false,
+    "applicable_modules": [],
+    "rationale": "Ceremony logistics and neutrality rules; diploma eligibility itself is determined under IKF, not here.",
+    "priority": "Low"
+  },
+  {
+    "code": "IMBB",
+    "title": "Student Participation in Curricular Instruction, Programs and Activities",
+    "subject_to_review": false,
+    "applicable_modules": [],
+    "rationale": "Parent-initiated, human-decided curriculum exemption/appeal process with no scoring, placement, or grading determination.",
+    "priority": "Low"
+  },
+  {
+    "code": "IMDB",
+    "title": "Flag Displays",
+    "subject_to_review": false,
+    "applicable_modules": [],
+    "rationale": "Flag display protocol only; no decision about any person.",
+    "priority": "Low"
+  },
+  {
+    "code": "IMDC",
+    "title": "Religious Observances and Displays",
+    "subject_to_review": false,
+    "applicable_modules": [],
+    "rationale": "Provides a categorical accommodation shielding religious absences from grade penalty but does not itself establish or operate a scored grading decision process.",
+    "priority": "Low"
+  },
+  {
+    "code": "IMDC-R",
+    "title": "Teaching about Religion",
+    "subject_to_review": false,
+    "applicable_modules": [],
+    "rationale": "Applies a three-part constitutional test to curriculum content decisions; not a decision about an individual student.",
+    "priority": "Low"
+  },
+  {
+    "code": "IMA",
+    "title": "Teaching Methods",
+    "subject_to_review": false,
+    "applicable_modules": [],
+    "rationale": "General personalized-instruction philosophy and differentiated teaching methods; not a formal tracking, placement, or grading system.",
+    "priority": "Low"
+  },
+  {
+    "code": "IJ-R",
+    "title": "Instructional Resources and Materials",
+    "subject_to_review": false,
+    "applicable_modules": [],
+    "rationale": "Budget allocation rules for textbooks and materials; no decision about a student.",
+    "priority": "Low"
+  },
+  {
+    "code": "IJK",
+    "title": "Supplementary Materials",
+    "subject_to_review": false,
+    "applicable_modules": [],
+    "rationale": "Approval process for supplementary instructional materials (including assessments as a material type); not a decision about an individual student's status.",
+    "priority": "Low"
+  },
+  {
+    "code": "IKC",
+    "title": "Grade Point Averages/Class Rankings",
+    "subject_to_review": true,
+    "applicable_modules": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "rationale": "Formulaic GPA weighting and decile-based class-rank calculation directly determines each student's academic standing, a grading/ranking consequential decision.",
+    "priority": "High"
+  },
+  {
+    "code": "JBB",
+    "title": "Harassment or Discrimination of Students",
+    "subject_to_review": true,
+    "applicable_modules": [
+      "B",
+      "D",
+      "F"
+    ],
+    "rationale": "Governs harassment/discrimination investigations and determinations of whether misconduct affected a student's IEP/504 FAPE eligibility (a special-education placement decision), with team convening and education-record handling.",
+    "priority": "High"
+  },
+  {
+    "code": "JC",
+    "title": "School Attendance Areas",
+    "subject_to_review": true,
+    "applicable_modules": [
+      "A",
+      "C"
+    ],
+    "rationale": "Establishes each student's neighborhood-school assignment (an enrollment/placement decision) using residence and enrollment data, with community/parent notice on boundary changes.",
+    "priority": "Medium"
+  },
+  {
+    "code": "JEA",
+    "title": "Compulsory Attendance",
+    "subject_to_review": true,
+    "applicable_modules": [
+      "B",
+      "F"
+    ],
+    "rationale": "Includes a grade-retention placement decision honored on parent request, a covered grade/class-assignment matter with a district consultation/review step.",
+    "priority": "Low"
+  },
+  {
+    "code": "JEB",
+    "title": "Entrance Age Requirements",
+    "subject_to_review": true,
+    "applicable_modules": [
+      "A",
+      "B",
+      "F"
+    ],
+    "rationale": "Directly governs kindergarten/first-grade admission and discretionary 'highly advanced gifted' early-entrance determinations, a covered admission/placement decision about individual students.",
+    "priority": "High"
+  },
+  {
+    "code": "JFABB",
+    "title": "Admission of Non-Immigrant Foreign Students",
+    "subject_to_review": true,
+    "applicable_modules": [
+      "A",
+      "B",
+      "E",
+      "F"
+    ],
+    "rationale": "Governs admission eligibility and discretionary denial authority for exchange students, relying on third-party visa/agency vetting (vendor-adjacent) and a covered admission decision.",
+    "priority": "High"
+  },
+  {
+    "code": "JFABD",
+    "title": "Homeless Students",
+    "subject_to_review": true,
+    "applicable_modules": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "F"
+    ],
+    "rationale": "Governs enrollment/placement eligibility determinations for homeless students, confidential handling of housing-status education records, written notice, and a formal appeal/dispute-resolution process to a state coordinator.",
+    "priority": "High"
+  },
+  {
+    "code": "JFABD-R",
+    "title": "Homeless Students (Regulation)",
+    "subject_to_review": true,
+    "applicable_modules": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "F"
+    ],
+    "rationale": "Implements the enrollment placement determination, records-handling, notice, and appeal procedures for homeless students, mirroring the covered decision and human-review elements of Policy JFABD.",
+    "priority": "High"
+  },
+  {
+    "code": "JFBA",
+    "title": "Choice/Open Enrollment",
+    "subject_to_review": true,
+    "applicable_modules": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "rationale": "Directly governs student enrollment/placement through priority-ranked and lottery-based allocation, denial criteria, disability-data restrictions, an online application platform, and a superintendent appeal process.",
+    "priority": "High"
+  },
+  {
+    "code": "JFC",
+    "title": "Student Withdrawal From School/Dropouts",
+    "subject_to_review": true,
+    "applicable_modules": [
+      "B",
+      "C",
+      "D",
+      "F"
+    ],
+    "rationale": "Governs formal dropout classification and reporting to the state along with structured human-review meetings (counselor, principal, parents) regarding a student's continued enrollment status.",
+    "priority": "Medium"
+  },
+  {
+    "code": "JGA",
+    "title": "Assignment of New Students to Classes and Grade Levels",
+    "subject_to_review": true,
+    "applicable_modules": [
+      "A",
+      "B",
+      "C",
+      "E",
+      "F"
+    ],
+    "rationale": "Directly governs grade/class placement decisions based on standardized testing, transfer credits, and principal assessment, with parent notification and a two-tier appeal procedure.",
+    "priority": "High"
+  },
+  {
+    "code": "JHCA",
+    "title": "Open/Closed Campus",
+    "subject_to_review": false,
+    "applicable_modules": [],
+    "rationale": "Purely operational campus-access and visitor-management rules with no enrollment, placement, discipline, or personal-data determination about a specific student.",
+    "priority": "Low"
+  },
+  {
+    "code": "JIBA",
+    "title": "Student Government",
+    "subject_to_review": false,
+    "applicable_modules": [],
+    "rationale": "Advisory student-council governance with principal-delegated decisions on clubs/activities/elections, not a covered consequential decision or personal-data process.",
+    "priority": "Low"
+  },
+  {
+    "code": "JICA",
+    "title": "Student Dress",
+    "subject_to_review": true,
+    "applicable_modules": [
+      "C",
+      "F"
+    ],
+    "rationale": "Dress-code enforcement follows a graduated notice/options process that can escalate to suspension or expulsion, a covered discipline outcome, though not itself data- or technology-driven.",
+    "priority": "Medium"
+  },
+  {
+    "code": "JICDD",
+    "title": "Threat Assessments",
+    "subject_to_review": true,
+    "applicable_modules": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "rationale": "Governs individualized student risk/safety determinations and records disclosure exceptions \u2014 the paradigmatic domain where automated risk-scoring tools raise ADMT concerns, currently handled by human/law-enforcement evaluation.",
+    "priority": "High"
+  },
+  {
+    "code": "JICDE",
+    "title": "Bullying Prevention and Education",
+    "subject_to_review": true,
+    "applicable_modules": [
+      "A",
+      "B",
+      "D",
+      "F"
+    ],
+    "rationale": "Governs bullying investigations and determinations of FAPE impact for IEP/504 students, including student surveys and data collection, with principal investigation and team-convening review.",
+    "priority": "High"
+  },
+  {
+    "code": "JICEC",
+    "title": "Student Distribution of Non-School Materials",
+    "subject_to_review": true,
+    "applicable_modules": [
+      "C",
+      "F"
+    ],
+    "rationale": "Establishes a principal approval/denial process with a defined appeal to the assistant superintendent and ties policy violations to student discipline.",
+    "priority": "Medium"
+  },
+  {
+    "code": "JICF",
+    "title": "Secret Societies/Gang Activity Dress",
+    "subject_to_review": true,
+    "applicable_modules": [
+      "B",
+      "C"
+    ],
+    "rationale": "Governs administrator inferences about gang/secret-society involvement (with nondiscrimination limits on classification) and parent notification, leading to discretionary student discipline.",
+    "priority": "Medium"
+  },
+  {
+    "code": "JICH",
+    "title": "Student Conduct Involving Drugs and Alcohol",
+    "subject_to_review": true,
+    "applicable_modules": [
+      "F"
+    ],
+    "rationale": "Sets a graduated, offense-count-based suspension and expulsion framework directly determining student discipline consequences.",
+    "priority": "High"
+  },
+  {
+    "code": "JICI",
+    "title": "Student Conduct Involving Weapons",
+    "subject_to_review": true,
+    "applicable_modules": [
+      "F"
+    ],
+    "rationale": "Directly governs mandatory/discretionary expulsion and suspension determinations for weapons violations, including a superintendent discretion/override step.",
+    "priority": "High"
+  },
+  {
+    "code": "JICJ",
+    "title": "Student Possession and Use of Personal Communication Devices",
+    "subject_to_review": true,
+    "applicable_modules": [
+      "B",
+      "D",
+      "F"
+    ],
+    "rationale": "Governs device confiscation, academic penalties (grading), and suspension/expulsion consequences, and references documented disability/accommodation plans.",
+    "priority": "High"
+  },
+  {
+    "code": "JIH",
+    "title": "Searches",
+    "subject_to_review": true,
+    "applicable_modules": [
+      "D",
+      "F"
+    ],
+    "rationale": "Establishes human reasonable-suspicion determinations for student searches with disciplinary consequences and requires documentation/handling of seized evidence.",
+    "priority": "High"
+  },
+  {
+    "code": "JJ",
+    "title": "Interscholastic Athletic Training and Personal Conduct Rules",
+    "subject_to_review": true,
+    "applicable_modules": [
+      "F"
+    ],
+    "rationale": "Imposes tiered competition suspension and permanent ineligibility determinations based on violation counts, directly affecting student athletic eligibility.",
+    "priority": "High"
+  },
+  {
+    "code": "JJG",
+    "title": "Contests for Students",
+    "subject_to_review": false,
+    "applicable_modules": [],
+    "rationale": "Governs program-level approval of contest opportunities for classes/grade levels rather than any consequential decision about an individual student or staff member.",
+    "priority": "Low"
+  },
+  {
+    "code": "JJID",
+    "title": "Student Physicals for School Athletics",
+    "subject_to_review": true,
+    "applicable_modules": [
+      "B"
+    ],
+    "rationale": "Conditions individual student athletic eligibility on a medical certification record, a low-discretion compliance gate rather than a discretionary decision process.",
+    "priority": "Low"
+  },
+  {
+    "code": "JK",
+    "title": "Student Discipline",
+    "subject_to_review": true,
+    "applicable_modules": [
+      "B",
+      "D",
+      "F"
+    ],
+    "rationale": "Central discipline policy governing suspension, disability-related placement changes, FERPA-bound sharing of discipline data, and a mandatory manifestation-determination human-review step.",
+    "priority": "High"
+  },
+  {
+    "code": "JKA",
+    "title": "Physical Intervention, Restraint, Seclusion and Time-Out",
+    "subject_to_review": true,
+    "applicable_modules": [
+      "C",
+      "D",
+      "F"
+    ],
+    "rationale": "Governs high-stakes restraint/seclusion decisions about individual students, requiring written parent notice, incident-report recordkeeping, and annual superintendent review.",
+    "priority": "High"
+  },
+  {
+    "code": "JKB",
+    "title": "Detention of Students",
+    "subject_to_review": true,
+    "applicable_modules": [
+      "C",
+      "F"
+    ],
+    "rationale": "Authorizes an administrator's disciplinary detention decision about an individual student with a required prior parent notification.",
+    "priority": "High"
+  },
+  {
+    "code": "JKBA",
+    "title": "Disciplinary Removal from Classroom",
+    "subject_to_review": true,
+    "applicable_modules": [
+      "C",
+      "D",
+      "F"
+    ],
+    "rationale": "Governs in-school-suspension-style classroom removal decisions requiring administrator review, family notice, and behavior-plan recordkeeping.",
+    "priority": "High"
+  },
+  {
+    "code": "JKC",
+    "title": "Discipline of Habitually Disruptive Students",
+    "subject_to_review": true,
+    "applicable_modules": [
+      "C",
+      "D",
+      "F"
+    ],
+    "rationale": "Establishes a records-based habitually-disruptive designation with written notice requirements, student-file documentation, and principal review culminating in suspension/expulsion.",
+    "priority": "High"
+  },
+  {
+    "code": "JKD-JKE",
+    "title": "Suspension/Expulsion of Students",
+    "subject_to_review": true,
+    "applicable_modules": [
+      "C",
+      "D",
+      "F"
+    ],
+    "rationale": "Core suspension/expulsion policy weighing individual student factors (age, disciplinary history, disability status) and providing superintendent determination with board appeal.",
+    "priority": "High"
+  },
+  {
+    "code": "JKD-JKE-R",
+    "title": "Procedures Regarding Suspension/Expulsion of Students",
+    "subject_to_review": true,
+    "applicable_modules": [
+      "C",
+      "D",
+      "F"
+    ],
+    "rationale": "Implements the full due-process notice, evidentiary hearing, and hearing-officer human-review procedure for suspension and expulsion decisions.",
+    "priority": "High"
+  },
+  {
+    "code": "JKDA-JKEA",
+    "title": "Grounds for Suspension/Expulsion of Students",
+    "subject_to_review": true,
+    "applicable_modules": [
+      "F"
+    ],
+    "rationale": "Defines the substantive grounds/criteria used to determine suspension or expulsion, including a required human safety-threat determination for young students.",
+    "priority": "High"
+  },
+  {
+    "code": "JLCB",
+    "title": "IMMUNIZATION OF STUDENTS",
+    "subject_to_review": true,
+    "applicable_modules": [
+      "A",
+      "D"
+    ],
+    "rationale": "Governs individualized health-exemption determinations affecting attendance eligibility and requires retained medical/exemption documentation, warranting an ADMT inventory check and recordkeeping alignment.",
+    "priority": "Low"
+  },
+  {
+    "code": "JLCD",
+    "title": "ADMINISTERING MEDICINE TO STUDENTS/ASTHMA, ALLERGY AND ANAPHYLAXIS",
+    "subject_to_review": true,
+    "applicable_modules": [
+      "A",
+      "B",
+      "D"
+    ],
+    "rationale": "Establishes case-by-case health/medical determinations (self-carry authorization, individualized Health Plans) and maintains sensitive student medical records requiring PII classification and ADMT inventory review.",
+    "priority": "Medium"
+  },
+  {
+    "code": "JLCDB",
+    "title": "ADMINISTERING MEDICAL MARIJUANA TO QUALIFIED STUDENTS",
+    "subject_to_review": true,
+    "applicable_modules": [
+      "A",
+      "D"
+    ],
+    "rationale": "Governs individualized medical-eligibility determinations and confidential medical documentation for qualified students, requiring an ADMT inventory check and recordkeeping oversight.",
+    "priority": "Low"
+  },
+  {
+    "code": "JLCDC",
+    "title": "MEDICALLY NECESSARY TREATMENT IN SCHOOL SETTING",
+    "subject_to_review": true,
+    "applicable_modules": [
+      "A",
+      "C",
+      "D",
+      "F"
+    ],
+    "rationale": "Creates a formal team-based consequential health/educational-access decision process with parent notice, hearing, and appeal rights that must be reconciled with SB 26-189's meaningful human-review and override requirements.",
+    "priority": "High"
+  },
+  {
+    "code": "JLCDC-R",
+    "title": "AUTHORIZING PRIVATE HEALTH-CARE SPECIALISTS FOR TREATMENT",
+    "subject_to_review": true,
+    "applicable_modules": [
+      "B",
+      "D"
+    ],
+    "rationale": "Implements JLCDC's individual treatment determinations and imposes FERPA/HIPAA confidentiality and consent/documentation obligations tied to a student's health record and treatment access.",
+    "priority": "Medium"
+  },
+  {
+    "code": "JLCD-R",
+    "title": "ADMINISTERING MEDICINE TO STUDENTS",
+    "subject_to_review": true,
+    "applicable_modules": [
+      "D"
+    ],
+    "rationale": "Sets detailed individual student medication-administration recordkeeping, retention, and error-reporting requirements constituting protected student health records.",
+    "priority": "Low"
+  },
+  {
+    "code": "JLDAC",
+    "title": "SCREENING/TESTING OF STUDENTS",
+    "subject_to_review": true,
+    "applicable_modules": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "F"
+    ],
+    "rationale": "Directly regulates student screening/testing and psychological assessment, mandating advance notice, consent exceptions, PII protection, and parental review/objection rights central to SB 26-189's covered domain and duties.",
+    "priority": "High"
+  },
+  {
+    "code": "JLIB",
+    "title": "STUDENT DISMISSAL PRECAUTIONS",
+    "subject_to_review": false,
+    "applicable_modules": [],
+    "rationale": "Purely operational identity-verification procedure for early dismissal with no automated decision-making, education-record handling, or enumerated consequential-decision domain implicated.",
+    "priority": "Low"
+  },
+  {
+    "code": "JLIE",
+    "title": "STUDENT VEHICLE USE AND PARKING",
+    "subject_to_review": false,
+    "applicable_modules": [],
+    "rationale": "Manual, non-automated parking-privilege and search procedure that does not itself make a covered consequential decision (any resulting discipline is adjudicated under separate discipline policies).",
+    "priority": "Low"
+  },
+  {
+    "code": "JQ",
+    "title": "STUDENT FEES, FINES AND CHARGES",
+    "subject_to_review": false,
+    "applicable_modules": [],
+    "rationale": "Administrative fee-schedule and waiver policy with no automated decision-making or personal data/technology handling; consequences are financial/administrative rather than an enumerated consequential decision.",
+    "priority": "Low"
+  },
+  {
+    "code": "JRA-JRC",
+    "title": "STUDENT RECORDS/RELEASE OF INFORMATION ON STUDENTS",
+    "subject_to_review": true,
+    "applicable_modules": [
+      "B",
+      "C",
+      "D",
+      "F"
+    ],
+    "rationale": "Comprehensive FERPA education-records policy governing access, amendment appeals, disclosure, and annual notice, squarely within SB 26-189's recordkeeping, notice, and human-review/correction duties.",
+    "priority": "High"
+  },
+  {
+    "code": "JRCB",
+    "title": "PRIVACY AND PROTECTION OF CONFIDENTIAL STUDENT RECORD INFORMATION",
+    "subject_to_review": true,
+    "applicable_modules": [
+      "B",
+      "D",
+      "E",
+      "F"
+    ],
+    "rationale": "Governs confidential student PII security/retention, holds school-service-contract vendors accountable for misuse, and provides a parent complaint/appeal process, directly matching SB 26-189's recordkeeping, vendor-binding, and human-review duties.",
+    "priority": "High"
+  },
+  {
+    "code": "JS",
+    "title": "STUDENT USE OF DISTRICT INFORMATION TECHNOLOGY",
+    "subject_to_review": true,
+    "applicable_modules": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "rationale": "Governs pervasive technology monitoring, AI tool use, student data handling, and technology-related discipline consequences, implicating ADMT inventory, PII classification, vendor tools, and human review of resulting discipline.",
+    "priority": "High"
+  },
+  {
+    "code": "JT",
+    "title": "YOUTH SUICIDE PREVENTION",
+    "subject_to_review": true,
+    "applicable_modules": [
+      "A",
+      "D",
+      "F"
+    ],
+    "rationale": "Mandates suicide-risk screening and mental-health assessment of students, a covered screening/health domain, with specialist human review and cross-referenced records obligations.",
+    "priority": "High"
+  }
+]

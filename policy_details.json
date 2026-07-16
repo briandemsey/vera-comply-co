@@ -1,0 +1,174 @@
+{
+  "modnames": {
+    "A": "ADMT Inventory",
+    "B": "Classification & FERPA Crosswalk",
+    "C": "Notice & Parent Access",
+    "D": "Recordkeeping",
+    "E": "Procurement & Vendor Management",
+    "F": "Human Review & Oversight"
+  },
+  "worked_policies": {
+    "JKD-JKE": {
+      "examination": "This policy governs suspension and expulsion \u2014 a consequential decision affecting a student's access to an education opportunity, which is a covered domain under SB 26-189. It falls in scope the moment any automated tool (a behavior or attendance flag, a risk score, an AI-assisted threat or behavior assessment) materially influences the decision. The current policy is silent on automated systems.",
+      "gap": "No requirement that a trained human with override authority review any automated input; no notice to the student or parent that an automated system informed the decision; no post-adverse-outcome disclosure; and no three-year record of the decision.",
+      "updated": "Automated decision-making technology. Where any automated decision-making technology materially influences a suspension or expulsion decision, the decision shall be subject to meaningful human review by a designated, trained administrator who has authority to approve, modify, or override it and who does not default to the system's output. The District shall provide the student and parent or guardian clear and conspicuous notice that such technology was used, deliver the post-adverse-outcome disclosure required by C.R.S. 6-1-1704(3) through the District's FERPA notice and student-record processes, and retain records of the decision for at least three years.",
+      "test": [
+        [
+          "F",
+          "Statutory",
+          true
+        ],
+        [
+          "C",
+          "Provisional",
+          true
+        ],
+        [
+          "D",
+          "Statutory",
+          true
+        ],
+        [
+          "A",
+          "Statutory",
+          true
+        ]
+      ]
+    },
+    "JLDAC": {
+      "examination": "This policy governs screening and testing of students, where results drive placement, intervention, or eligibility \u2014 consequential education decisions. Universal screeners (including READ Act / SB 25-200 dyslexia screeners) produce predictive scores and classifications, which makes them likely covered automated decision-making technology. In scope.",
+      "gap": "Screeners are not treated as automated decision technology; there is no validity gate against the READ Act technical criteria; no notice that a predictive screener informed a placement; and no human review of a screener-driven placement.",
+      "updated": "Screeners as automated decision-making technology. A universal screener or assessment that produces a predictive score, classification, or ranking used to determine a student's placement, intervention, or eligibility shall be treated as a covered automated decision-making technology. Before adoption the District shall verify the screener meets the READ Act technical criteria, including validity, classification accuracy, and a public technical manual with research-based cutoff points. A placement or intervention materially influenced by such a screener shall be subject to meaningful human review with authority to override, and the District shall provide notice and, on an adverse outcome, the disclosure required by C.R.S. 6-1-1704(3).",
+      "test": [
+        [
+          "E",
+          "Statutory",
+          true
+        ],
+        [
+          "F",
+          "Statutory",
+          true
+        ],
+        [
+          "C",
+          "Provisional",
+          true
+        ],
+        [
+          "A",
+          "Statutory",
+          true
+        ],
+        [
+          "B",
+          "Statutory",
+          true
+        ]
+      ]
+    },
+    "JRA-JRC": {
+      "examination": "This policy governs education records, parent and eligible-student access, amendment, and disclosure to third parties \u2014 the FERPA backbone that SB 26-189's education safe harbors ride on. It is in scope because it must extend to the personal data used by automated systems, to the Act's three-year decision records, and to vendor terms for automated tools.",
+      "gap": "The policy does not address personal data used by automated decision systems, the three-year ADMT decision records (which have no FERPA analog), or routing of ADMT correction and human review; vendor-disclosure terms lack the direct-control and use limits required for automated systems.",
+      "updated": "Personal data used in automated decisions. For any consequential decision materially influenced by automated decision-making technology, the District shall treat the personal data used as an education record subject to this policy; provide the parent or eligible student access to and correction of that data through the District's existing inspection, review, and amendment procedures; and retain records of the decision for at least three years as required by C.R.S. 6-1-1703 \u2014 a duty that has no FERPA equivalent. Any vendor receiving such data shall be bound to the District's direct control over the records and to use and re-disclosure limits.",
+      "test": [
+        [
+          "B",
+          "Statutory",
+          true
+        ],
+        [
+          "C",
+          "Statutory",
+          true
+        ],
+        [
+          "D",
+          "Statutory",
+          true
+        ],
+        [
+          "F",
+          "Statutory",
+          true
+        ]
+      ]
+    },
+    "JS": {
+      "examination": "This policy already contains an Artificial Intelligence section \u2014 but it governs students' use of AI tools, not the District's use of automated decision-making technology to make consequential decisions. It is in scope, and the existing AI content is the wrong subject: it needs a district-as-deployer section.",
+      "gap": "The current AI language addresses student conduct only. Nothing addresses the District itself deploying automated systems that make or guide consequential decisions, nor the notice, human review, records, and vendor terms that use would require.",
+      "updated": "District use of automated decision-making technology. Separate from students' use of AI tools addressed above, where the District itself uses automated decision-making technology to make, guide, or assist a consequential decision about a student or staff member, that use is governed by the District's SB 26-189 policy: the system shall be inventoried, subject to meaningful human review with authority to override, disclosed to affected persons by notice, and documented in records retained for at least three years; vendors shall be bound to FERPA and Colorado student-data terms.",
+      "test": [
+        [
+          "A",
+          "Statutory",
+          true
+        ],
+        [
+          "C",
+          "Provisional",
+          true
+        ],
+        [
+          "D",
+          "Statutory",
+          true
+        ],
+        [
+          "E",
+          "Statutory",
+          true
+        ],
+        [
+          "F",
+          "Statutory",
+          true
+        ]
+      ]
+    },
+    "GDQD": {
+      "examination": "This policy governs classified-employee performance, discipline, and dismissal. Employment is a covered domain and dismissal is a consequential decision, so the policy is in scope if any automated tool \u2014 performance scoring, attendance or productivity analytics \u2014 materially influences the outcome.",
+      "gap": "No requirement of meaningful human review with override authority over automated performance inputs; no notice to the employee that such technology was used; no retained record of the decision.",
+      "updated": "Automated decision-making technology in employment decisions. Where automated decision-making technology materially influences a performance, discipline, or dismissal decision, the decision shall be subject to meaningful human review by a designated supervisor with authority to approve, modify, or override it and who does not default to the system's output; the employee shall receive notice that such technology was used; and the District shall retain records of the decision for at least three years.",
+      "test": [
+        [
+          "F",
+          "Statutory",
+          true
+        ],
+        [
+          "C",
+          "Provisional",
+          true
+        ],
+        [
+          "D",
+          "Statutory",
+          true
+        ],
+        [
+          "A",
+          "Statutory",
+          true
+        ]
+      ]
+    },
+    "IKC": {
+      "examination": "This policy governs grade-point-average weighting and decile class ranking \u2014 a computational score used in consequential decisions (class rank affects honors, scholarships, and admissions, all education opportunities). It raises the threshold question SB 26-189 forces every district to answer: is a fixed GPA/rank formula covered ADMT, or an excluded non-machine-learning calculation? It is in scope because the District must make and record that determination.",
+      "gap": "The policy makes no classification determination and says nothing about what happens if a machine-learning or AI tool is introduced into grade generation or ranking.",
+      "updated": "Classification of grade and ranking computations. The District's grade-point-average and class-ranking calculations are fixed arithmetic computations that do not use machine learning or foundation models and are therefore not, by themselves, covered automated decision-making technology under C.R.S. 6-1-1701(2). If any machine-learning or artificial-intelligence tool is used to generate, adjust, weight, or rank grades in a manner that materially influences a consequential decision, that tool shall be treated as covered and governed by the District's SB 26-189 policy.",
+      "test": [
+        [
+          "A",
+          "Provisional",
+          true
+        ],
+        [
+          "B",
+          "Provisional",
+          true
+        ]
+      ]
+    }
+  }
+}

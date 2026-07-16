@@ -1,0 +1,1401 @@
+{
+  "criteria": [
+    {
+      "id": "A1",
+      "module": "A",
+      "module_name": "ADMT Inventory",
+      "term": "ADMT identification",
+      "hook": "C.R.S. 6-1-1701(2)(a)",
+      "statement": "Identify every technology the District uses that processes personal data and generates predictions, recommendations, classifications, rankings, or scores used to make, guide, or assist a decision about an individual.",
+      "source": "Statute",
+      "status": "Statutory",
+      "artifact": "ADMT register entry per system",
+      "verify_note": "",
+      "ag_test_tier": "Statutory",
+      "pass_semantics": "Hard requirement \u2014 must fully pass; defensible today.",
+      "must_pass": true,
+      "context_only": false,
+      "pass_condition": "Policy requires the district to identify and inventory every automated decision-making technology it uses that generates predictions, recommendations, classifications, rankings, or scores used to make, guide, or assist a decision about an individual.",
+      "evidence_required": "An inventory/identification obligation naming automated or algorithmic systems.",
+      "measurement_method": "Detect an inventory duty AND reference to automated/algorithmic decision systems.",
+      "cues": [
+        [
+          "inventory",
+          "identify",
+          "catalog",
+          "register",
+          "maintain a list",
+          "list of"
+        ],
+        [
+          "automated decision",
+          "admt",
+          "algorithm",
+          "artificial intelligence",
+          "ai system",
+          "ai tool",
+          "predictive",
+          "scoring system",
+          "machine learning"
+        ]
+      ],
+      "gap_labels": [
+        "an inventory/identification duty",
+        "reference to automated decision systems"
+      ],
+      "revision": "The District shall identify and maintain an inventory of every automated decision-making technology it uses to make, guide, or assist a decision about a student."
+    },
+    {
+      "id": "A2",
+      "module": "A",
+      "module_name": "ADMT Inventory",
+      "term": "Covered-ADMT determination",
+      "hook": "6-1-1701(5),(13)",
+      "statement": "For each ADMT, determine whether it is used to materially influence a consequential decision (a non-de-minimis factor affecting the outcome); if so it is a covered ADMT.",
+      "source": "Statute + AG rules",
+      "status": "Provisional",
+      "artifact": "Coverage determination memo per system",
+      "verify_note": "AG may set presumptions/objective indicators for 'materially influence' \u2014 6-1-1706(5)(b); track rulemaking.",
+      "ag_test_tier": "Provisional",
+      "pass_semantics": "Built to the standard we expect the AG to set; subject to final rules.",
+      "must_pass": true,
+      "context_only": false,
+      "pass_condition": "Policy provides a method to determine which systems are 'covered' \u2014 i.e., materially influence a consequential decision (a non-de-minimis factor affecting the outcome).",
+      "evidence_required": "A materiality/coverage determination step.",
+      "measurement_method": "Detect a materiality test tied to consequential decisions.",
+      "cues": [
+        [
+          "materially influence",
+          "material factor",
+          "non-de-minimis",
+          "affects the decision",
+          "significant factor",
+          "relied upon"
+        ],
+        [
+          "consequential decision",
+          "covered system",
+          "covered admt"
+        ]
+      ],
+      "gap_labels": [
+        "a materiality test",
+        "tie to consequential decisions"
+      ],
+      "revision": "For each system, the District shall determine whether it materially influences a consequential decision, and if so treat it as a covered system under this policy."
+    },
+    {
+      "id": "A3",
+      "module": "A",
+      "module_name": "ADMT Inventory",
+      "term": "Education consequential-decision scope",
+      "hook": "6-1-1701(6)(a),(3)(b)(I),(IX)",
+      "statement": "Determine which District decisions fall in the covered domain 'education enrollment or an education opportunity,' applying the exclusions for routine academic administration/student support (IX), classroom personalization, and low-stakes/routine processes (I).",
+      "source": "Statute + AG rules + comments",
+      "status": "Contested",
+      "artifact": "Scope determination keyed to decision type",
+      "verify_note": "Live battleground; AG considerations Q IV.2.4 seeks education sector-specific guidance; commenters urge broad construction \u2014 build to broad reading.",
+      "ag_test_tier": "Contested",
+      "pass_semantics": "Defensible reading taken where commenters/AG framing disagree; flagged for reconciliation.",
+      "must_pass": false,
+      "context_only": false,
+      "pass_condition": "Policy scopes which education decisions are consequential (enrollment or an education opportunity) and distinguishes routine academic administration and classroom personalization that are excluded.",
+      "evidence_required": "An education-domain scope statement with the routine-administration carve-out.",
+      "measurement_method": "Detect education consequential-decision scoping.",
+      "cues": [
+        [
+          "consequential decision",
+          "materially influence"
+        ],
+        [
+          "education",
+          "enrollment",
+          "placement",
+          "eligibility",
+          "gifted",
+          "special education",
+          "discipline",
+          "opportunity"
+        ]
+      ],
+      "gap_labels": [
+        "a consequential-decision definition",
+        "the education decisions in scope"
+      ],
+      "revision": "Consequential decisions in education include enrollment and education opportunities such as placement, eligibility, and program access; routine academic administration and classroom personalization that do not materially influence such decisions are excluded."
+    },
+    {
+      "id": "A4",
+      "module": "A",
+      "module_name": "ADMT Inventory",
+      "term": "Dyslexia-screener flag",
+      "hook": "READ Act 22-7-1208(9),1209(2.5); 6-1-1701(2)",
+      "statement": "Flag SB 25-200 universal K-3 dyslexia screeners as candidate covered ADMT (they produce predictive scores/classifications about students), pending materially-influence analysis.",
+      "source": "Statute (READ Act)",
+      "status": "Provisional",
+      "artifact": "Screener inventory entry + coverage note",
+      "verify_note": "Dual clock lands 2027-28; coverage turns on materially-influence.",
+      "ag_test_tier": "Provisional",
+      "pass_semantics": "Built to the standard we expect the AG to set; subject to final rules.",
+      "must_pass": true,
+      "context_only": false,
+      "pass_condition": "Policy flags predictive screeners (including SB 25-200 / READ Act dyslexia screeners) as candidate covered systems pending a materiality analysis.",
+      "evidence_required": "Named treatment of screeners/predictive assessments as candidate ADMT.",
+      "measurement_method": "Detect screener + coverage treatment.",
+      "cues": [
+        [
+          "screener",
+          "screening",
+          "dyslexia",
+          "read act",
+          "interim assessment",
+          "predictive assessment",
+          "risk score"
+        ],
+        [
+          "covered",
+          "admt",
+          "automated",
+          "materially"
+        ]
+      ],
+      "gap_labels": [
+        "identification of predictive screeners",
+        "their treatment as candidate covered systems"
+      ],
+      "revision": "Universal screeners that produce predictive scores or classifications about students, including READ Act dyslexia screeners, shall be evaluated as candidate covered systems."
+    },
+    {
+      "id": "A5",
+      "module": "A",
+      "module_name": "ADMT Inventory",
+      "term": "Living inventory maintenance",
+      "hook": "6-1-1703",
+      "statement": "Maintain the ADMT inventory as a current register that feeds recordkeeping and re-screens on developer material updates.",
+      "source": "Statute",
+      "status": "Statutory",
+      "artifact": "Versioned inventory register",
+      "verify_note": "",
+      "ag_test_tier": "Statutory",
+      "pass_semantics": "Hard requirement \u2014 must fully pass; defensible today.",
+      "must_pass": true,
+      "context_only": false,
+      "pass_condition": "Policy requires the inventory to be maintained as a current register and re-reviewed on developer material updates.",
+      "evidence_required": "An ongoing-maintenance / update obligation for the inventory.",
+      "measurement_method": "Detect maintenance cadence + update trigger.",
+      "cues": [
+        [
+          "maintain",
+          "update",
+          "current",
+          "annually",
+          "periodically",
+          "review the inventory",
+          "keep up to date"
+        ],
+        [
+          "inventory",
+          "register",
+          "list"
+        ]
+      ],
+      "gap_labels": [
+        "an inventory-maintenance duty",
+        "a review/update trigger"
+      ],
+      "revision": "The District shall keep the inventory current and re-review each system upon notice of a material update or modification from its developer."
+    },
+    {
+      "id": "B1",
+      "module": "B",
+      "module_name": "Classification & FERPA Crosswalk",
+      "term": "Decision/domain classification",
+      "hook": "6-1-1701(3),(6)",
+      "statement": "For each covered ADMT, classify the decision type and the covered domain it touches.",
+      "source": "Statute",
+      "status": "Statutory",
+      "artifact": "Classification table",
+      "verify_note": "",
+      "ag_test_tier": "Statutory",
+      "pass_semantics": "Hard requirement \u2014 must fully pass; defensible today.",
+      "must_pass": true,
+      "context_only": false,
+      "pass_condition": "Policy classifies each covered system by decision type and covered domain.",
+      "evidence_required": "A classification/categorization step per system.",
+      "measurement_method": "Detect classification tied to decision type/domain.",
+      "cues": [
+        [
+          "classif",
+          "categor",
+          "characteriz"
+        ],
+        [
+          "decision type",
+          "covered domain",
+          "domain",
+          "use case"
+        ]
+      ],
+      "gap_labels": [
+        "a classification step",
+        "classification by decision type or domain"
+      ],
+      "revision": "For each covered system, the District shall classify the decision type and the covered domain it affects."
+    },
+    {
+      "id": "B2",
+      "module": "B",
+      "module_name": "Classification & FERPA Crosswalk",
+      "term": "FERPA-subject determination",
+      "hook": "6-1-1701(11); 20 U.S.C. 1232g",
+      "statement": "Confirm the District is subject to FERPA (it will be), which conditions the availability of the Part-17 FERPA safe harbors.",
+      "source": "Statute (FERPA)",
+      "status": "Statutory",
+      "artifact": "FERPA-subject attestation",
+      "verify_note": "",
+      "ag_test_tier": "Statutory",
+      "pass_semantics": "Hard requirement \u2014 must fully pass; defensible today.",
+      "must_pass": true,
+      "context_only": false,
+      "pass_condition": "Policy establishes that the district is subject to FERPA, conditioning the Part-17 FERPA safe harbors.",
+      "evidence_required": "A statement of FERPA applicability.",
+      "measurement_method": "Detect FERPA applicability language.",
+      "cues": [
+        [
+          "ferpa",
+          "family educational rights and privacy"
+        ]
+      ],
+      "gap_labels": [
+        "a statement of FERPA applicability"
+      ],
+      "revision": "The District is an educational agency subject to the Family Educational Rights and Privacy Act (FERPA); FERPA processes are used to satisfy the notice and correction duties of this policy where available."
+    },
+    {
+      "id": "B3",
+      "module": "B",
+      "module_name": "Classification & FERPA Crosswalk",
+      "term": "Notice safe-harbor (per system)",
+      "hook": "6-1-1704(9)",
+      "statement": "Determine, per covered ADMT, whether notice/disclosure can be satisfied through the District's FERPA notices and student-record access procedures.",
+      "source": "Statute",
+      "status": "Statutory",
+      "artifact": "Safe-harbor determination per system",
+      "verify_note": "'System-by-system' reading per direction; confirm.",
+      "ag_test_tier": "Statutory",
+      "pass_semantics": "Hard requirement \u2014 must fully pass; defensible today.",
+      "must_pass": true,
+      "context_only": false,
+      "pass_condition": "Policy determines, per covered system, whether notice/disclosure is satisfied through the district's FERPA notices and student-record access procedures.",
+      "evidence_required": "A per-system FERPA notice safe-harbor determination.",
+      "measurement_method": "Detect FERPA-notice routing tied to systems.",
+      "cues": [
+        [
+          "ferpa notice",
+          "annual notice",
+          "student record access"
+        ],
+        [
+          "notice",
+          "disclos"
+        ]
+      ],
+      "gap_labels": [
+        "FERPA notice procedures",
+        "their use to satisfy ADMT notice"
+      ],
+      "revision": "For each covered system, the District shall determine whether the notice and disclosure duties are satisfied through its existing FERPA notices and student-record access procedures."
+    },
+    {
+      "id": "B4",
+      "module": "B",
+      "module_name": "Classification & FERPA Crosswalk",
+      "term": "Rights safe-harbor (per system)",
+      "hook": "6-1-1705(2)",
+      "statement": "Determine, per covered ADMT, whether correction and human review can be satisfied through existing student-record inspection/review/amendment and district appeal processes.",
+      "source": "Statute",
+      "status": "Statutory",
+      "artifact": "Safe-harbor determination per system",
+      "verify_note": "",
+      "ag_test_tier": "Statutory",
+      "pass_semantics": "Hard requirement \u2014 must fully pass; defensible today.",
+      "must_pass": true,
+      "context_only": false,
+      "pass_condition": "Policy determines, per covered system, whether correction and human review are satisfied through existing student-record inspection/review/amendment and district appeal processes.",
+      "evidence_required": "A per-system FERPA rights safe-harbor determination.",
+      "measurement_method": "Detect FERPA amendment/appeal routing.",
+      "cues": [
+        [
+          "inspect",
+          "review",
+          "amend"
+        ],
+        [
+          "student record",
+          "education record"
+        ],
+        [
+          "appeal",
+          "complaint"
+        ]
+      ],
+      "gap_labels": [
+        "record inspection/amendment procedures",
+        "a district appeal/complaint process"
+      ],
+      "revision": "For each covered system, correction and human-review duties shall be satisfied through the District's student-record inspection, review, and amendment procedures and its complaint or appeal process."
+    },
+    {
+      "id": "B5",
+      "module": "B",
+      "module_name": "Classification & FERPA Crosswalk",
+      "term": "FERPA school-official fit",
+      "hook": "34 C.F.R. 99.31(a)(1)",
+      "statement": "Confirm each vendor ADMT fits the FERPA school-official exception: legitimate educational interest, institutional function, district direct control, and use/re-disclosure limits.",
+      "source": "Statute (FERPA)",
+      "status": "Statutory",
+      "artifact": "School-official exception checklist per vendor",
+      "verify_note": "",
+      "ag_test_tier": "Statutory",
+      "pass_semantics": "Hard requirement \u2014 must fully pass; defensible today.",
+      "must_pass": true,
+      "context_only": false,
+      "pass_condition": "Policy requires each vendor system to fit the FERPA school-official exception: legitimate educational interest, institutional function, district direct control, and use/re-disclosure limits.",
+      "evidence_required": "School-official-exception conditions in vendor terms.",
+      "measurement_method": "Detect school-official exception controls.",
+      "cues": [
+        [
+          "school official",
+          "legitimate educational interest"
+        ],
+        [
+          "direct control",
+          "under the control",
+          "control over"
+        ],
+        [
+          "re-disclos",
+          "redisclos",
+          "use and re-disclosure",
+          "not use for any other"
+        ]
+      ],
+      "gap_labels": [
+        "the school-official / legitimate-educational-interest basis",
+        "district direct control",
+        "use and re-disclosure limits"
+      ],
+      "revision": "Each vendor system that accesses education records shall qualify under the FERPA school-official exception, with a legitimate educational interest, the District's direct control over records, and binding use and re-disclosure limits."
+    },
+    {
+      "id": "B6",
+      "module": "B",
+      "module_name": "Classification & FERPA Crosswalk",
+      "term": "Colorado student-data overlay",
+      "hook": "C.R.S. 22-16-108/109/110",
+      "statement": "Confirm each vendor qualifies and is bound as a 'school service contract provider' under the Student Data Transparency and Security Act (transparency, use limits, security, destruction).",
+      "source": "Statute (state)",
+      "status": "Statutory",
+      "artifact": "22-16 compliance checklist per vendor",
+      "verify_note": "Pull 22-16-103 definitions when drafting.",
+      "ag_test_tier": "Statutory",
+      "pass_semantics": "Hard requirement \u2014 must fully pass; defensible today.",
+      "must_pass": true,
+      "context_only": false,
+      "pass_condition": "Policy binds vendors as 'school service contract providers' under the Colorado Student Data Transparency and Security Act (C.R.S. 22-16).",
+      "evidence_required": "22-16 school-service-contract-provider obligations in vendor terms.",
+      "measurement_method": "Detect 22-16 provider binding.",
+      "cues": [
+        [
+          "school service contract provider",
+          "student data transparency",
+          "22-16",
+          "student data privacy"
+        ],
+        [
+          "provider",
+          "vendor",
+          "contract"
+        ]
+      ],
+      "gap_labels": [
+        "reference to Colorado student-data law (22-16)",
+        "binding vendors as school service contract providers"
+      ],
+      "revision": "Vendors handling student data shall be bound as school service contract providers under the Colorado Student Data Transparency and Security Act (C.R.S. 22-16)."
+    },
+    {
+      "id": "C1",
+      "module": "C",
+      "module_name": "Notice & Parent Access",
+      "term": "Point-of-interaction notice",
+      "hook": "6-1-1704(1)",
+      "statement": "Provide clear-and-conspicuous notice before using a covered ADMT to materially influence a consequential decision, with instructions to obtain further information.",
+      "source": "Statute",
+      "status": "Statutory",
+      "artifact": "Notice template",
+      "verify_note": "",
+      "ag_test_tier": "Statutory",
+      "pass_semantics": "Hard requirement \u2014 must fully pass; defensible today.",
+      "must_pass": true,
+      "context_only": false,
+      "pass_condition": "Policy requires clear and conspicuous notice before a covered system is used to materially influence a consequential decision.",
+      "evidence_required": "A pre-use notice duty.",
+      "measurement_method": "Detect notice + before/prior + clarity.",
+      "cues": [
+        [
+          "notice",
+          "inform",
+          "notif"
+        ],
+        [
+          "before",
+          "prior to",
+          "in advance"
+        ],
+        [
+          "clear and conspicuous",
+          "conspicuous",
+          "plain"
+        ]
+      ],
+      "gap_labels": [
+        "a notice duty",
+        "that notice precedes the decision",
+        "a clear-and-conspicuous standard"
+      ],
+      "revision": "Before a covered system is used to materially influence a consequential decision affecting a student, the District shall provide clear and conspicuous notice to the affected consumer."
+    },
+    {
+      "id": "C2",
+      "module": "C",
+      "module_name": "Notice & Parent Access",
+      "term": "Public-posting option",
+      "hook": "6-1-1704(2)",
+      "statement": "May satisfy the notice duty via a prominent public notice reasonably accessible/proximate at points of consumer interaction.",
+      "source": "Statute",
+      "status": "Statutory",
+      "artifact": "Public notice page",
+      "verify_note": "",
+      "ag_test_tier": "Statutory",
+      "pass_semantics": "Hard requirement \u2014 must fully pass; defensible today.",
+      "must_pass": true,
+      "context_only": false,
+      "pass_condition": "Policy allows compliance via a prominent public notice reasonably accessible at points of interaction.",
+      "evidence_required": "A public-posting notice option.",
+      "measurement_method": "Detect public/posted notice.",
+      "cues": [
+        [
+          "public notice",
+          "posted",
+          "website",
+          "publicly available",
+          "prominent"
+        ],
+        [
+          "notice",
+          "point of interaction",
+          "point of contact"
+        ]
+      ],
+      "gap_labels": [
+        "a public/posted notice option",
+        "accessibility at points of interaction"
+      ],
+      "revision": "The District may satisfy the notice duty through a prominent public notice reasonably accessible at points of consumer interaction."
+    },
+    {
+      "id": "C3",
+      "module": "C",
+      "module_name": "Notice & Parent Access",
+      "term": "Post-adverse-outcome disclosure",
+      "hook": "6-1-1704(3)",
+      "statement": "Within 30 days of an adverse-outcome decision, provide a plain-language description, the ADMT's role, a process to request information (name, version, developer, data categories), and an explanation of consumer rights.",
+      "source": "Statute + AG rules",
+      "status": "Provisional",
+      "artifact": "Adverse-outcome disclosure template",
+      "verify_note": "Content further shaped by AG rules due 1/1/2027 \u2014 6-1-1704(4); AG considerations Q IV.2.",
+      "ag_test_tier": "Provisional",
+      "pass_semantics": "Built to the standard we expect the AG to set; subject to final rules.",
+      "must_pass": true,
+      "context_only": false,
+      "pass_condition": "Policy requires, within 30 days of an adverse outcome, a plain-language description, the system's role, a process to request information, and an explanation of consumer rights.",
+      "evidence_required": "A 30-day post-adverse-outcome disclosure with the required elements.",
+      "measurement_method": "Detect adverse + 30 days + explanation.",
+      "cues": [
+        [
+          "adverse"
+        ],
+        [
+          "30 day",
+          "thirty day",
+          "within 30",
+          "within thirty"
+        ],
+        [
+          "plain language",
+          "description",
+          "explain",
+          "role of",
+          "how to request",
+          "rights"
+        ]
+      ],
+      "gap_labels": [
+        "an adverse-outcome trigger",
+        "the 30-day timeframe",
+        "the required disclosure elements"
+      ],
+      "revision": "Within thirty days after an adverse outcome materially influenced by a covered system, the District shall provide a plain-language description of the decision, the system's role, a simple process to request further information, and an explanation of the consumer's rights."
+    },
+    {
+      "id": "C4",
+      "module": "C",
+      "module_name": "Notice & Parent Access",
+      "term": "FERPA-routed notice",
+      "hook": "6-1-1704(9)",
+      "statement": "Where FERPA-subject, deliver notice/disclosure through FERPA notices and student-record access procedures (parent/guardian/eligible student); no separate process required.",
+      "source": "Statute",
+      "status": "Statutory",
+      "artifact": "FERPA-integrated notice procedure",
+      "verify_note": "",
+      "ag_test_tier": "Statutory",
+      "pass_semantics": "Hard requirement \u2014 must fully pass; defensible today.",
+      "must_pass": true,
+      "context_only": false,
+      "pass_condition": "Policy routes notice and disclosure through FERPA notices and student-record access procedures.",
+      "evidence_required": "FERPA-routed notice/disclosure.",
+      "measurement_method": "Detect FERPA + notice routing.",
+      "cues": [
+        [
+          "ferpa"
+        ],
+        [
+          "notice",
+          "disclos",
+          "student record"
+        ]
+      ],
+      "gap_labels": [
+        "FERPA processes",
+        "their use for notice and disclosure"
+      ],
+      "revision": "Notice and post-adverse-outcome disclosures shall be delivered through the District's FERPA notices and student-record access procedures, including notice to a parent, guardian, or eligible student."
+    },
+    {
+      "id": "C5",
+      "module": "C",
+      "module_name": "Notice & Parent Access",
+      "term": "Accessibility",
+      "hook": "6-1-1704(8)",
+      "statement": "Provide notices/disclosures reasonably accessible to consumers with disabilities and limited English proficiency.",
+      "source": "Statute",
+      "status": "Statutory",
+      "artifact": "Accessibility conformance note",
+      "verify_note": "",
+      "ag_test_tier": "Statutory",
+      "pass_semantics": "Hard requirement \u2014 must fully pass; defensible today.",
+      "must_pass": true,
+      "context_only": false,
+      "pass_condition": "Policy makes notices reasonably accessible to consumers with disabilities and limited English proficiency.",
+      "evidence_required": "Accessibility and language-access provisions.",
+      "measurement_method": "Detect accessibility + language access.",
+      "cues": [
+        [
+          "accessib",
+          "disabilit",
+          "ada",
+          "assistive"
+        ],
+        [
+          "language",
+          "english proficiency",
+          "translat",
+          "primary language"
+        ]
+      ],
+      "gap_labels": [
+        "disability accessibility",
+        "language access for limited-English proficiency"
+      ],
+      "revision": "Notices and disclosures shall be reasonably accessible to consumers with disabilities and available to consumers with limited English proficiency in a language they understand."
+    },
+    {
+      "id": "C6",
+      "module": "C",
+      "module_name": "Notice & Parent Access",
+      "term": "Parent/eligible-student access",
+      "hook": "6-1-1705(1)(a)(I); 34 C.F.R. 99.20-.21; C.R.S. 22-16-112",
+      "statement": "Provide parent/guardian/eligible-student access to, and a mechanism to request correction of, personal data, consistent with FERPA and the 22-16 parent-rights/complaint provisions.",
+      "source": "Statute (Part 17 + FERPA + state)",
+      "status": "Statutory",
+      "artifact": "Access & complaint procedure",
+      "verify_note": "",
+      "ag_test_tier": "Statutory",
+      "pass_semantics": "Hard requirement \u2014 must fully pass; defensible today.",
+      "must_pass": true,
+      "context_only": false,
+      "pass_condition": "Policy provides parent/guardian/eligible-student access to, and a mechanism to request correction of, personal data.",
+      "evidence_required": "Parent/eligible-student access and correction rights.",
+      "measurement_method": "Detect parent access + correction.",
+      "cues": [
+        [
+          "parent",
+          "guardian",
+          "eligible student"
+        ],
+        [
+          "access",
+          "inspect",
+          "review"
+        ],
+        [
+          "correct",
+          "amend",
+          "request change"
+        ]
+      ],
+      "gap_labels": [
+        "parent/guardian/eligible-student access",
+        "a correction mechanism"
+      ],
+      "revision": "A parent, guardian, or eligible student may access the personal data used in a decision and request correction of materially inaccurate data through the District's established process."
+    },
+    {
+      "id": "D1",
+      "module": "D",
+      "module_name": "Recordkeeping",
+      "term": "Three-year decision records",
+      "hook": "6-1-1703",
+      "statement": "Retain, for at least three years after each consequential decision, records reasonably necessary to demonstrate Part-17 compliance. No FERPA safe harbor applies to this duty.",
+      "source": "Statute",
+      "status": "Statutory",
+      "artifact": "Records retention schedule + store",
+      "verify_note": "Standalone duty \u2014 the hardest; no FERPA analog.",
+      "ag_test_tier": "Statutory",
+      "pass_semantics": "Hard requirement \u2014 must fully pass; defensible today.",
+      "must_pass": true,
+      "context_only": false,
+      "pass_condition": "Policy requires retaining records for at least three years after each consequential decision.",
+      "evidence_required": "A 3-year (or longer) retention obligation tied to decisions.",
+      "measurement_method": "Detect retention + three years.",
+      "cues": [
+        [
+          "retain",
+          "retention",
+          "keep",
+          "preserve"
+        ],
+        [
+          "three year",
+          "3 year",
+          "3-year",
+          "36 month"
+        ]
+      ],
+      "gap_labels": [
+        "a records-retention duty",
+        "the three-year minimum"
+      ],
+      "revision": "The District shall retain, for at least three years after each consequential decision, records reasonably necessary to demonstrate compliance with this policy."
+    },
+    {
+      "id": "D2",
+      "module": "D",
+      "module_name": "Recordkeeping",
+      "term": "Record contents",
+      "hook": "6-1-1703",
+      "statement": "Records include covered-ADMT version identifiers, changelogs, and documentation of material mitigation changes.",
+      "source": "Statute",
+      "status": "Statutory",
+      "artifact": "Record schema",
+      "verify_note": "",
+      "ag_test_tier": "Statutory",
+      "pass_semantics": "Hard requirement \u2014 must fully pass; defensible today.",
+      "must_pass": true,
+      "context_only": false,
+      "pass_condition": "Policy specifies records include system version identifiers, changelogs, and documentation of material mitigation changes.",
+      "evidence_required": "A record-contents specification.",
+      "measurement_method": "Detect versioning/changelog record contents.",
+      "cues": [
+        [
+          "version",
+          "changelog",
+          "identifier",
+          "system version"
+        ],
+        [
+          "record",
+          "document",
+          "log"
+        ]
+      ],
+      "gap_labels": [
+        "specified record contents",
+        "version identifiers / changelogs"
+      ],
+      "revision": "Retained records shall include covered-system version identifiers, changelogs, and documentation of material mitigation changes."
+    },
+    {
+      "id": "D3",
+      "module": "D",
+      "module_name": "Recordkeeping",
+      "term": "Data security & destruction",
+      "hook": "C.R.S. 22-16-107/110",
+      "statement": "Maintain a data-security policy and vendor data-destruction practices consistent with the Student Data Transparency and Security Act.",
+      "source": "Statute (state)",
+      "status": "Statutory",
+      "artifact": "Security policy + destruction log",
+      "verify_note": "",
+      "ag_test_tier": "Statutory",
+      "pass_semantics": "Hard requirement \u2014 must fully pass; defensible today.",
+      "must_pass": true,
+      "context_only": false,
+      "pass_condition": "Policy maintains a data-security policy and vendor data-destruction consistent with C.R.S. 22-16.",
+      "evidence_required": "Security and destruction provisions.",
+      "measurement_method": "Detect security + destruction.",
+      "cues": [
+        [
+          "security",
+          "safeguard",
+          "protect",
+          "encrypt"
+        ],
+        [
+          "destr",
+          "dispos",
+          "delete",
+          "purge"
+        ]
+      ],
+      "gap_labels": [
+        "a data-security policy",
+        "data-destruction practices"
+      ],
+      "revision": "The District shall maintain a data-security policy and require vendor data destruction consistent with the Colorado Student Data Transparency and Security Act."
+    },
+    {
+      "id": "D4",
+      "module": "D",
+      "module_name": "Recordkeeping",
+      "term": "Enforcement-ready evidencing",
+      "hook": "6-1-1703; 6-1-1706",
+      "statement": "Ensure records are sufficient to demonstrate compliance to the Attorney General (sole enforcer).",
+      "source": "Statute",
+      "status": "Statutory",
+      "artifact": "Compliance evidence index",
+      "verify_note": "",
+      "ag_test_tier": "Statutory",
+      "pass_semantics": "Hard requirement \u2014 must fully pass; defensible today.",
+      "must_pass": true,
+      "context_only": false,
+      "pass_condition": "Policy ensures records are sufficient to demonstrate compliance to the Attorney General.",
+      "evidence_required": "A demonstrate-compliance/audit-readiness provision.",
+      "measurement_method": "Detect compliance-evidence readiness.",
+      "cues": [
+        [
+          "demonstrate compliance",
+          "audit",
+          "evidence of compliance",
+          "upon request"
+        ],
+        [
+          "record",
+          "documentation"
+        ]
+      ],
+      "gap_labels": [
+        "a demonstrate-compliance duty",
+        "audit-ready records"
+      ],
+      "revision": "Records shall be organized and sufficient to demonstrate compliance to the Attorney General upon request."
+    },
+    {
+      "id": "E1",
+      "module": "E",
+      "module_name": "Procurement & Vendor Management",
+      "term": "Developer documentation intake",
+      "hook": "6-1-1702(1)",
+      "statement": "Obtain and retain developer documentation: intended and known-harmful uses, training-data categories (to the extent known), known limitations/risks, and appropriate-use/monitoring/human-review instructions.",
+      "source": "Statute",
+      "status": "Statutory",
+      "artifact": "Developer documentation file per ADMT",
+      "verify_note": "Developer duty; deployer must secure receipt (1702(1)(e) withholding notice).",
+      "ag_test_tier": "Statutory",
+      "pass_semantics": "Hard requirement \u2014 must fully pass; defensible today.",
+      "must_pass": true,
+      "context_only": false,
+      "pass_condition": "Policy requires obtaining developer documentation: intended and known-harmful uses, training-data categories, known limitations, and use/monitoring/human-review instructions.",
+      "evidence_required": "A developer-documentation intake requirement.",
+      "measurement_method": "Detect developer documentation intake.",
+      "cues": [
+        [
+          "developer",
+          "vendor documentation",
+          "documentation from"
+        ],
+        [
+          "intended use",
+          "known limitation",
+          "training data",
+          "instructions",
+          "harmful use"
+        ]
+      ],
+      "gap_labels": [
+        "a developer-documentation intake duty",
+        "the required documentation elements"
+      ],
+      "revision": "Before deploying a covered system, the District shall obtain the developer's documentation of intended and known-harmful uses, training-data categories, known limitations, and instructions for appropriate use, monitoring, and human review."
+    },
+    {
+      "id": "E2",
+      "module": "E",
+      "module_name": "Procurement & Vendor Management",
+      "term": "FERPA contract controls",
+      "hook": "34 C.F.R. 99.31(a)(1),99.33",
+      "statement": "Vendor contract imposes District direct control over records and purpose-limitation / use-&-re-disclosure limits (no reuse or resale).",
+      "source": "Statute (FERPA)",
+      "status": "Statutory",
+      "artifact": "Contract clause set",
+      "verify_note": "",
+      "ag_test_tier": "Statutory",
+      "pass_semantics": "Hard requirement \u2014 must fully pass; defensible today.",
+      "must_pass": true,
+      "context_only": false,
+      "pass_condition": "Vendor contracts impose district direct control and purpose-limitation / no-reuse / no-resale on records.",
+      "evidence_required": "Direct-control and purpose-limitation clauses.",
+      "measurement_method": "Detect control + purpose limits.",
+      "cues": [
+        [
+          "direct control",
+          "under the control",
+          "control over"
+        ],
+        [
+          "purpose",
+          "use only",
+          "not reuse",
+          "no resale",
+          "not sell",
+          "re-disclos"
+        ]
+      ],
+      "gap_labels": [
+        "district direct control",
+        "purpose-limitation / no-reuse terms"
+      ],
+      "revision": "Vendor contracts shall place education records under the District's direct control and limit their use to the contracted purpose, prohibiting reuse, resale, or re-disclosure."
+    },
+    {
+      "id": "E3",
+      "module": "E",
+      "module_name": "Procurement & Vendor Management",
+      "term": "22-16 provider terms",
+      "hook": "C.R.S. 22-16-108/109/110",
+      "statement": "Vendor contract meets school-service-contract-provider transparency, use-limitation, security, and destruction duties.",
+      "source": "Statute (state)",
+      "status": "Statutory",
+      "artifact": "Contract clause set",
+      "verify_note": "",
+      "ag_test_tier": "Statutory",
+      "pass_semantics": "Hard requirement \u2014 must fully pass; defensible today.",
+      "must_pass": true,
+      "context_only": false,
+      "pass_condition": "Vendor contracts meet 22-16 transparency, use-limitation, security, and destruction duties.",
+      "evidence_required": "22-16 contract terms.",
+      "measurement_method": "Detect 22-16 provider contract terms.",
+      "cues": [
+        [
+          "school service contract",
+          "22-16",
+          "student data transparency"
+        ],
+        [
+          "security",
+          "destr",
+          "use limit",
+          "transparen"
+        ]
+      ],
+      "gap_labels": [
+        "reference to 22-16 provider duties",
+        "transparency/security/destruction terms"
+      ],
+      "revision": "Vendor contracts shall satisfy the transparency, use-limitation, security, and destruction duties required of school service contract providers under C.R.S. 22-16."
+    },
+    {
+      "id": "E4",
+      "module": "E",
+      "module_name": "Procurement & Vendor Management",
+      "term": "Screener validity gate",
+      "hook": "READ Act 22-7-1209(2.5)",
+      "statement": "Procurement gate screens dyslexia/predictive screeners against the \u00a71209(2.5) technical criteria (validity, classification accuracy, public technical manual, research-based cutoff points).",
+      "source": "Statute (READ Act)",
+      "status": "Statutory",
+      "artifact": "Screener validity checklist",
+      "verify_note": "Also supports construct-validity concerns raised by commenters.",
+      "ag_test_tier": "Statutory",
+      "pass_semantics": "Hard requirement \u2014 must fully pass; defensible today.",
+      "must_pass": true,
+      "context_only": false,
+      "pass_condition": "Procurement screens predictive screeners against the READ Act \u00a71209(2.5) technical criteria (validity, classification accuracy, public technical manual, cutoff points).",
+      "evidence_required": "A screener-validity procurement gate.",
+      "measurement_method": "Detect validity screening for screeners.",
+      "cues": [
+        [
+          "validity",
+          "reliab",
+          "classification accuracy",
+          "technical manual",
+          "normed",
+          "cutoff"
+        ],
+        [
+          "screener",
+          "assessment",
+          "vendor",
+          "predictive"
+        ]
+      ],
+      "gap_labels": [
+        "a validity/technical-criteria gate",
+        "its application to screeners"
+      ],
+      "revision": "Before adopting a screener or predictive assessment, the District shall verify it meets the READ Act technical criteria, including validity, classification accuracy, and a public technical manual with research-based cutoff points."
+    },
+    {
+      "id": "E5",
+      "module": "E",
+      "module_name": "Procurement & Vendor Management",
+      "term": "Indemnification-void check",
+      "hook": "6-1-1707(7)",
+      "statement": "Ensure contracts do not purport to indemnify against Colorado Anti-Discrimination Act liability arising from covered-ADMT decisions (such terms are void as against public policy).",
+      "source": "Statute",
+      "status": "Statutory",
+      "artifact": "Contract review note",
+      "verify_note": "",
+      "ag_test_tier": "Statutory",
+      "pass_semantics": "Hard requirement \u2014 must fully pass; defensible today.",
+      "must_pass": true,
+      "context_only": false,
+      "pass_condition": "Contracts do not indemnify against Colorado Anti-Discrimination Act liability from covered-system decisions.",
+      "evidence_required": "An indemnification-limitation provision.",
+      "measurement_method": "Detect indemnification + anti-discrimination.",
+      "cues": [
+        [
+          "indemnif",
+          "hold harmless",
+          "defend"
+        ],
+        [
+          "discrimination",
+          "anti-discrimination",
+          "civil rights"
+        ]
+      ],
+      "gap_labels": [
+        "attention to indemnification clauses",
+        "the anti-discrimination carve-out"
+      ],
+      "revision": "No contract shall indemnify, defend, or hold harmless a party against liability under the Colorado Anti-Discrimination Act arising from a covered-system decision; such terms are void as against public policy."
+    },
+    {
+      "id": "E6",
+      "module": "E",
+      "module_name": "Procurement & Vendor Management",
+      "term": "Material-update handling",
+      "hook": "6-1-1702(2)",
+      "statement": "Process developer notices of material updates and modifications; trigger re-inventory and re-classification.",
+      "source": "Statute",
+      "status": "Statutory",
+      "artifact": "Update-handling procedure",
+      "verify_note": "",
+      "ag_test_tier": "Statutory",
+      "pass_semantics": "Hard requirement \u2014 must fully pass; defensible today.",
+      "must_pass": true,
+      "context_only": false,
+      "pass_condition": "Policy processes developer notices of material updates and triggers re-inventory and re-classification.",
+      "evidence_required": "An update-handling procedure.",
+      "measurement_method": "Detect update notice + re-assessment.",
+      "cues": [
+        [
+          "update",
+          "modif",
+          "new version",
+          "release notes",
+          "patch"
+        ],
+        [
+          "re-inventory",
+          "re-assess",
+          "re-evaluat",
+          "re-classif",
+          "review"
+        ]
+      ],
+      "gap_labels": [
+        "handling of developer update notices",
+        "a re-inventory/re-classification trigger"
+      ],
+      "revision": "On receiving a developer notice of a material update or modification, the District shall re-inventory and re-classify the affected system."
+    },
+    {
+      "id": "F1",
+      "module": "F",
+      "module_name": "Human Review & Oversight",
+      "term": "Reviewer override authority",
+      "hook": "6-1-1701(15)",
+      "statement": "Designate a human reviewer with authority to approve, modify, or override the consequential decision.",
+      "source": "Statute",
+      "status": "Statutory",
+      "artifact": "Reviewer designation + authority record",
+      "verify_note": "",
+      "ag_test_tier": "Statutory",
+      "pass_semantics": "Hard requirement \u2014 must fully pass; defensible today.",
+      "must_pass": true,
+      "context_only": false,
+      "pass_condition": "Policy designates a trained human reviewer with explicit authority to approve, modify, or override a consequential decision materially influenced by a covered system, who does not default to the output.",
+      "evidence_required": "A reviewer with named override authority, training, and non-deference.",
+      "measurement_method": "Detect reviewer + override authority + training + non-default.",
+      "cues": [
+        [
+          "reviewer",
+          "review",
+          "human review",
+          "official",
+          "designat",
+          "responsible"
+        ],
+        [
+          "override",
+          "overturn",
+          "reverse",
+          "modify",
+          "authority to approve",
+          "final authority"
+        ],
+        [
+          "train",
+          "qualified",
+          "competent"
+        ],
+        [
+          "not default",
+          "independent judgment",
+          "not rely solely",
+          "shall not defer",
+          "own determination"
+        ]
+      ],
+      "gap_labels": [
+        "a designated reviewer",
+        "authority to approve, modify, or override",
+        "reviewer training",
+        "non-deference to the system output"
+      ],
+      "revision": "A consequential decision materially influenced by a covered system shall be reviewed by a designated, trained District official who has authority to approve, modify, or override the decision and who does not default to the system's output."
+    },
+    {
+      "id": "F2",
+      "module": "F",
+      "module_name": "Human Review & Oversight",
+      "term": "Reviewer independence & training",
+      "hook": "6-1-1701(15)(a)-(c)",
+      "statement": "The reviewer considers relevant available primary evidence, is trained to conduct the review, and does not default to the system output.",
+      "source": "Statute",
+      "status": "Statutory",
+      "artifact": "Training records + review protocol",
+      "verify_note": "",
+      "ag_test_tier": "Statutory",
+      "pass_semantics": "Hard requirement \u2014 must fully pass; defensible today.",
+      "must_pass": true,
+      "context_only": false,
+      "pass_condition": "Policy requires the reviewer to consider primary evidence, be trained, and not default to the system output.",
+      "evidence_required": "Reviewer-quality conditions.",
+      "measurement_method": "Detect primary evidence + training + non-default.",
+      "cues": [
+        [
+          "primary evidence",
+          "underlying evidence",
+          "original record",
+          "source material"
+        ],
+        [
+          "train",
+          "qualified"
+        ],
+        [
+          "not default",
+          "independent",
+          "not rely solely"
+        ]
+      ],
+      "gap_labels": [
+        "consideration of primary evidence",
+        "reviewer training",
+        "non-deference to the output"
+      ],
+      "revision": "The reviewer shall consider the relevant available primary evidence, be trained to conduct the review, and shall not default to the system's output."
+    },
+    {
+      "id": "F3",
+      "module": "F",
+      "module_name": "Human Review & Oversight",
+      "term": "Reviewer information access",
+      "hook": "6-1-1701(15)(d)",
+      "statement": "The reviewer has access to understand the output's intended use, material limitations, input categories, and principal factors, without trade-secret disclosure.",
+      "source": "Statute",
+      "status": "Statutory",
+      "artifact": "Information-access checklist",
+      "verify_note": "",
+      "ag_test_tier": "Statutory",
+      "pass_semantics": "Hard requirement \u2014 must fully pass; defensible today.",
+      "must_pass": true,
+      "context_only": false,
+      "pass_condition": "Policy gives the reviewer access to understand the system's intended use, material limitations, input categories, and principal factors.",
+      "evidence_required": "Reviewer information-access conditions.",
+      "measurement_method": "Detect access to system understanding.",
+      "cues": [
+        [
+          "intended use",
+          "limitation",
+          "input",
+          "principal factor",
+          "how the system works",
+          "material limitation"
+        ],
+        [
+          "understand",
+          "access to information",
+          "provided with"
+        ]
+      ],
+      "gap_labels": [
+        "reviewer access to system information",
+        "understanding of use/limitations/factors"
+      ],
+      "revision": "The reviewer shall have access to information sufficient to understand the system's intended use, material limitations, categories of inputs, and the principal factors used to generate its output."
+    },
+    {
+      "id": "F4",
+      "module": "F",
+      "module_name": "Human Review & Oversight",
+      "term": "Review & reconsideration on adverse outcome",
+      "hook": "6-1-1705(1)(a)(II)",
+      "statement": "On an adverse outcome, provide an opportunity for meaningful human review and reconsideration, to the extent commercially reasonable.",
+      "source": "Statute + AG rules",
+      "status": "Provisional",
+      "artifact": "Reconsideration procedure",
+      "verify_note": "'Commercially reasonable' shaped by AG rules due 1/1/2027 \u2014 6-1-1705(3); commenters propose proportionality factors.",
+      "ag_test_tier": "Provisional",
+      "pass_semantics": "Built to the standard we expect the AG to set; subject to final rules.",
+      "must_pass": true,
+      "context_only": false,
+      "pass_condition": "Policy provides, on an adverse outcome, an opportunity for meaningful human review and reconsideration to the extent commercially reasonable.",
+      "evidence_required": "An adverse-outcome reconsideration right.",
+      "measurement_method": "Detect adverse + human reconsideration.",
+      "cues": [
+        [
+          "adverse"
+        ],
+        [
+          "reconsider",
+          "re-examine",
+          "review again",
+          "appeal"
+        ],
+        [
+          "human",
+          "person",
+          "official"
+        ]
+      ],
+      "gap_labels": [
+        "an adverse-outcome trigger",
+        "a human reconsideration opportunity"
+      ],
+      "revision": "On an adverse outcome, the affected consumer shall have an opportunity for meaningful human review and reconsideration of the decision, to the extent commercially reasonable."
+    },
+    {
+      "id": "F5",
+      "module": "F",
+      "module_name": "Human Review & Oversight",
+      "term": "Data correction",
+      "hook": "6-1-1705(1)(a)(I),(c)",
+      "statement": "Provide correction of factually incorrect or materially inaccurate personal data; correction of opinions, predictions, scores, or protected evaluations is not required.",
+      "source": "Statute",
+      "status": "Statutory",
+      "artifact": "Correction procedure",
+      "verify_note": "",
+      "ag_test_tier": "Statutory",
+      "pass_semantics": "Hard requirement \u2014 must fully pass; defensible today.",
+      "must_pass": true,
+      "context_only": false,
+      "pass_condition": "Policy provides correction of factually inaccurate personal data (not opinions, predictions, scores, or protected evaluations).",
+      "evidence_required": "A data-correction right with the evaluation carve-out.",
+      "measurement_method": "Detect correction of inaccurate data.",
+      "cues": [
+        [
+          "correct",
+          "amend",
+          "rectif",
+          "fix"
+        ],
+        [
+          "inaccurate",
+          "incorrect",
+          "erroneous",
+          "personal data"
+        ]
+      ],
+      "gap_labels": [
+        "a data-correction right",
+        "its focus on factually inaccurate data"
+      ],
+      "revision": "A consumer may request correction of factually incorrect or materially inaccurate personal data used in a decision; correction of opinions, predictions, scores, or protected evaluations is not required."
+    },
+    {
+      "id": "F6",
+      "module": "F",
+      "module_name": "Human Review & Oversight",
+      "term": "FERPA-routed review/correction",
+      "hook": "6-1-1705(2)",
+      "statement": "Where FERPA-subject, satisfy correction and human review through existing student-record inspection/review/amendment and district complaint/appeal processes.",
+      "source": "Statute",
+      "status": "Statutory",
+      "artifact": "FERPA-integrated review procedure",
+      "verify_note": "",
+      "ag_test_tier": "Statutory",
+      "pass_semantics": "Hard requirement \u2014 must fully pass; defensible today.",
+      "must_pass": true,
+      "context_only": false,
+      "pass_condition": "Policy routes correction and human review through FERPA amendment and district complaint/appeal processes.",
+      "evidence_required": "FERPA-routed correction/review.",
+      "measurement_method": "Detect FERPA amendment/appeal routing for review.",
+      "cues": [
+        [
+          "ferpa",
+          "student record",
+          "education record"
+        ],
+        [
+          "amend",
+          "correct",
+          "review",
+          "appeal",
+          "complaint"
+        ]
+      ],
+      "gap_labels": [
+        "FERPA amendment/appeal processes",
+        "their use for correction and review"
+      ],
+      "revision": "Correction and human-review requests shall be handled through the District's FERPA student-record amendment and complaint or appeal processes."
+    },
+    {
+      "id": "F7",
+      "module": "F",
+      "module_name": "Human Review & Oversight",
+      "term": "Oversight audit discipline",
+      "hook": "6-1-1701(15)(c); AG Q; comments",
+      "statement": "Document internal audits evidencing that reviewers do not default to the system output (e.g., a planted-error catch-rate program), anticipating the AG's 'meaningful review' standard.",
+      "source": "Comment record + AG rules",
+      "status": "Contested",
+      "artifact": "Audit program record",
+      "verify_note": "Differentiator; AG considerations consumer-rights Q1; Substrate Rec 2; Brown. Not yet required \u2014 provisional.",
+      "ag_test_tier": "Contested",
+      "pass_semantics": "Defensible reading taken where commenters/AG framing disagree; flagged for reconciliation.",
+      "must_pass": false,
+      "context_only": false,
+      "pass_condition": "Policy documents internal audits (e.g., a planted-error catch-rate program) evidencing that reviewers do not default to the system output.",
+      "evidence_required": "An oversight-audit program.",
+      "measurement_method": "Detect audit/monitoring of reviewer performance.",
+      "cues": [
+        [
+          "audit",
+          "monitor",
+          "quality assurance",
+          "catch rate",
+          "spot check",
+          "sampl"
+        ],
+        [
+          "review",
+          "oversight",
+          "reviewer",
+          "human review"
+        ]
+      ],
+      "gap_labels": [
+        "an oversight-audit program",
+        "its focus on reviewer performance"
+      ],
+      "revision": "The District shall periodically audit its human-review process \u2014 for example, by measuring how often reviewers catch known errors \u2014 to demonstrate that reviewers do not default to the system's output."
+    },
+    {
+      "id": "X1",
+      "module": "X",
+      "module_name": "Enforcement & Risk (context)",
+      "term": "Sole enforcer / no private right",
+      "hook": "6-1-1706(1)(b),1709",
+      "statement": "Part 17 is enforced exclusively by the Attorney General; it creates no new private right of action.",
+      "source": "Statute",
+      "status": "Statutory",
+      "artifact": "Risk memo",
+      "verify_note": "",
+      "ag_test_tier": "Statutory",
+      "pass_semantics": "Hard requirement \u2014 must fully pass; defensible today.",
+      "must_pass": true,
+      "context_only": true
+    },
+    {
+      "id": "X2",
+      "module": "X",
+      "module_name": "Enforcement & Risk (context)",
+      "term": "Right to cure",
+      "hook": "6-1-1706(3)",
+      "statement": "A 60-day cure follows a notice of violation unless the violation is knowing or repeated; the cure provision repeals 1/1/2030.",
+      "source": "Statute",
+      "status": "Statutory",
+      "artifact": "Risk memo",
+      "verify_note": "",
+      "ag_test_tier": "Statutory",
+      "pass_semantics": "Hard requirement \u2014 must fully pass; defensible today.",
+      "must_pass": true,
+      "context_only": true
+    },
+    {
+      "id": "X3",
+      "module": "X",
+      "module_name": "Enforcement & Risk (context)",
+      "term": "Residual anti-discrimination exposure",
+      "hook": "6-1-1706(4),1707",
+      "statement": "Existing Colorado Anti-Discrimination Act remedies (which carry private enforcement) are preserved; covered-ADMT disparate impact is the residual private-litigation channel.",
+      "source": "Statute",
+      "status": "Statutory",
+      "artifact": "Risk memo",
+      "verify_note": "",
+      "ag_test_tier": "Statutory",
+      "pass_semantics": "Hard requirement \u2014 must fully pass; defensible today.",
+      "must_pass": true,
+      "context_only": true
+    },
+    {
+      "id": "X4",
+      "module": "X",
+      "module_name": "Enforcement & Risk (context)",
+      "term": "Effective date",
+      "hook": "SB 26-189 \u00a75",
+      "statement": "Effective 1/1/2027; applies to consequential decisions made on or after that date.",
+      "source": "Statute",
+      "status": "Statutory",
+      "artifact": "Compliance calendar",
+      "verify_note": "",
+      "ag_test_tier": "Statutory",
+      "pass_semantics": "Hard requirement \u2014 must fully pass; defensible today.",
+      "must_pass": true,
+      "context_only": true
+    }
+  ]
+}

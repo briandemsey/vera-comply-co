@@ -1,0 +1,835 @@
+===== POLICY EBAB — Hazardous Substances =====
+
+PURPOSE AND SCOPE
+The District commits to maintaining an environment for students, staff, and the general public that is as free as reasonably possible of known hazardous substances. "Hazardous substances" are defined by reference to the federal Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (CERCLA), as amended, and its implementing regulations.
+
+ENVIRONMENTAL AND SAFETY COORDINATOR
+The superintendent appoints an environmental and safety coordinator responsible for: (1) ensuring District compliance with federal, state, and local hazardous substance laws; (2) ensuring compliance with the Poudre School District Crisis Response and Management Manual as it relates to hazardous substances; (3) providing education and training to District employees and students regarding compliance and crisis response procedures; and (4) serving as liaison with federal, state, and local regulators on hazardous substance matters.
+
+INVENTORY AND MATERIAL SAFETY DATA SHEETS
+Each District site must conduct an annual identification and inventory of chemicals and hazardous substances used in construction, building/grounds maintenance, custodial services, arts, crafts, industrial arts, music, science, and other work activities involving chemicals. The coordinator assists with and bears responsibility for disposal of unidentified chemicals and suspected hazardous substances. The coordinator also oversees completion and maintenance of Material Safety Data Sheets (MSDS) at each site, maintaining a complete set at a central location "readily available for review and use by District employees; by police, fire and emergency service authorities; and by the general public as permitted or required by law."
+
+ACCEPTANCE, STORAGE, DISPOSAL, AND TRANSFER
+The District shall not accept donations of chemicals or hazardous substances. When hazardous substances are no longer needed, they may be declared waste; the coordinator arranges storage, disposal, and/or transfer in accordance with governing federal, state, and local laws and maintains written documentation of all disposals. Federal and state law provides exemptions from certain regulatory requirements for conditionally exempt small quantity generators, and the District seeks to preserve this status where reasonably possible in its disposal decisions. The coordinator designates storage areas for substances that are or might become hazardous, and for hazardous waste awaiting disposal. All containers must be labeled with (1) date received, (2) shelf life, and (3) expiration date, if any; where space permits, the oldest substances should be used first. The coordinator also ensures that transfer and transportation of hazardous materials comply with governing federal, state, and local laws.
+
+TRAINING AND EMERGENCY RESPONSE
+The coordinator ensures that staff and students with reasonably foreseeable use of or contact with hazardous substances receive training on appropriate use, handling, storage, disposal, and transfer of such substances, and on the District's emergency response and evacuation procedures. Emergency response follows the Poudre School District Crisis Response and Management Manual.
+
+ADOPTION AND REVISION HISTORY
+Adopted by the Board: April 1989. Revised by the Board to conform with practice: May 22, 1995. Revised by the Board: May 13, 1996. Revised by the Superintendent: June 23, 2009.
+
+LEGAL REFERENCES
+42 U.S.C. 9601 et seq.; C.R.S. 25-15-101 et seq.; C.R.S. 29-22-101 et seq.; C.R.S. 42-20-101 et seq.
+
+FLAGGED TOPIC REVIEW
+This policy contains no mention of information technology systems, records retention timelines, electronic monitoring or surveillance, HIPAA, transportation eligibility, food-service/free-or-reduced-price meal eligibility, copyright, or any automated decision system, algorithm, artificial intelligence, machine learning, scoring, or predictive tool.
+
+
+===== POLICY EBBA — Prevention of Disease/Infection Transmission =====
+
+SOURCE ANOMALY NOTE
+The PDF retrieved from the District's designated URL for policy code EBBA carries the header "EBBA - PREVENTION OF DISEASE/INFECTION TRANSMISSION," but the body text of the document, verified across two independent fetches (including verbatim quotation of the opening sentences and the adoption/revision date block), is entirely about accident reporting procedures rather than disease or infection transmission prevention. Because the primary URL did not fail or 404 (it returned a valid, consistently-reproduced document), no fallback fetch was attempted per instructions. The content below is transcribed faithfully as found at the source, with this discrepancy flagged rather than silently corrected or fabricated. Note that a separate, substantively different regulation document exists at EBBA-R and does address actual disease/infection transmission procedures (see below).
+
+PURPOSE
+"Adequate and prompt accident reporting is essential if similar accidents are to be prevented." The Board requires that accident reports be filed for incidents occurring on school grounds or involving District vehicles, students, volunteers, visitors, or staff during school-sponsored or authorized business trips. Reports are required "regardless of whether injuries or property damage are immediately apparent." Prompt reporting is described as "vital in assuring the district staff, students, and others of insurance coverage."
+
+PROCEDURES
+The risk manager must establish filing procedures ensuring that reports capture: (1) details useful for preventing future accidents; (2) information needed for insurance claims; and (3) details potentially relevant to litigation.
+
+ADOPTION AND REVISION HISTORY
+Adopted: February 1975. Revised: February 1982. Revised: January 1986. Revised: May 1988. Revised to conform with practice: May 22, 1995. Revised: May 13, 1996.
+
+FLAGGED TOPIC REVIEW
+No mention found of information technology systems, records retention timelines, electronic monitoring or surveillance, HIPAA, transportation eligibility, food-service/free-or-reduced-price meal eligibility, copyright, or any automated decision system, algorithm, artificial intelligence, machine learning, scoring, or predictive tool.
+
+
+===== POLICY EBBA-R — Prevention of Disease/Infection Transmission =====
+
+DOCUMENT OVERVIEW
+This regulation (accompanying policy EBBA) addresses infection control procedures for staff handling blood and bodily substances, specifically "Handling Body Fluids and Substances." Issued May 22, 1995; revised February 27, 1998 and January 26, 2000.
+
+CORE PRINCIPLE
+"All blood and other body fluids should be considered as potentially infectious," without distinguishing between individuals with known infections and those who are asymptomatic or pathogen-free.
+
+POTENTIALLY INFECTIOUS BODY FLUIDS
+Blood is identified as "the single most important source of infection." Additional substances of concern include semen, vaginal fluids, feces, wound drainage, urine, vomit, respiratory secretions, saliva, and any visibly blood-contaminated fluid.
+
+UNIVERSAL PRECAUTIONS
+Staff must assume all body fluids are infectious and use appropriate personal protective equipment (PPE) in all situations where blood or bodily fluid contact may occur. One exception is permitted: employees may temporarily forgo PPE "under rare and extraordinary circumstances" using good judgment, with the understanding that this increases safety risk.
+
+PERSONAL PROTECTIVE EQUIPMENT STANDARDS
+Gloves must be maintained in emergency response kits at accessible locations and worn when treating nosebleeds or bleeding cuts, during diaper changes and handling of soiled clothing, when contacting contaminated laundry, and during disinfection/cleanup of contaminated surfaces or broken objects. Cuts, sores, or non-intact skin (e.g., chapped hands, torn cuticles) must be covered with gloves or finger cots. Pocket face masks should be used and kept available for mouth-to-mouth resuscitation.
+
+HAND WASHING PROTOCOL
+Hand washing is described as "the single most important technique for preventing the spread of infectious disease," with no available substitute. Proper technique requires soap and water with vigorous washing under running water for approximately 15-30 seconds using circular motions and friction, covering front and back hand surfaces, between fingers, knuckles, around fingernails, under nail beds, and entire wrists. Required hand-washing occasions include: before and after eating, drinking, or smoking; before and after bathroom use; before care begins and between care/first-aid delivery; before and after assisting with feeding or food preparation; before handling clean equipment or utensils; after handling soiled garments, diapers, or assisting with toileting/diapering; after bodily secretion contact; after disposable glove removal; and "when in doubt."
+
+DISINFECTION REQUIREMENTS
+Hepatitis B virus (HBV) and HIV are identified as "two of the most common bloodborne pathogens hazards." HBV is described as "highly stable" and capable of remaining viable on environmental surfaces for up to seven days, unlike HIV. Bloodborne pathogens can transmit via contaminated objects such as broken glass. Work surface decontamination procedures require: washing contaminated surfaces and non-disposable items with standard disinfectants using aerosol germicide cleaners; placing contaminated clothing in plastic-lined, covered containers; washing contaminated clothing and linen in hot water with detergent; placing contaminated tissues, paper towels, and disposable items in plastic bags before safe disposal; never picking up broken glass by hand, but sweeping it into a pan using a broom while wearing gloves during disposal; and using individual judgment for barriers in unpredictable situations, with barriers recommended whenever bodily fluid or substance contact is anticipated.
+
+HIV/AIDS INFORMATION
+The regulation states: it is extremely difficult to be infected with HIV/AIDS, and intact-skin exposure to blood is a highly unlikely transmission route; transmission requires blood, semen, or vaginal secretions entering the bloodstream of a noninfected person; other substances (saliva, tears, urine, feces) have extremely minimal or no detectable virus levels; no documented cases exist of HIV transmission via mouth-to-mouth resuscitation; and HIV is easily destroyed by common disinfectants.
+
+ADDENDUM I — TRANSMISSION CONCERNS BY BODY SUBSTANCE SOURCE
+Blood (cuts/abrasions, nosebleeds, menses, contaminated needles): organisms of concern are Hepatitis B virus, Hepatitis C virus, HIV/AIDS, and Cytomegalovirus; transmission occurs via bloodstream inoculation through hand cuts/abrasions or direct bloodstream inoculation.
+Feces (incontinence): organisms of concern are Hepatitis A virus, Salmonella bacteria, and Shigella bacteria; transmission occurs via oral inoculation from contaminated hands.
+Respiratory secretions (saliva, nasal discharge): organisms of concern are the common cold virus, influenza virus, and Epstein-Barr virus; transmission occurs via oral inoculation from contaminated hands.
+Vomitus: organism of concern is gastrointestinal viruses (e.g., Norwalk virus); transmission occurs via oral inoculation from contaminated hands.
+Urine (incontinence): organism of concern is Cytomegalovirus; transmission occurs via bloodstream inoculation through hand cuts and abrasions.
+Semen/vaginal fluids: organisms of concern are Hepatitis B virus, Hepatitis C virus, HIV/AIDS, and Gonococcus bacteria; transmission occurs via sexual contact (intercourse).
+
+SPECIAL NOTES
+The regulation emphasizes that no reported HIV/AIDS transmission cases involve feces, respiratory secretions, vomitus, or urine sources, and reiterates the primacy of hand washing. Epstein-Barr virus is noted as causing a mononucleosis-like illness.
+
+FLAGGED TOPIC REVIEW
+No mention found of information technology systems, records retention timelines, electronic monitoring or surveillance, HIPAA, transportation eligibility, food-service/free-or-reduced-price meal eligibility, copyright, or any automated decision system, algorithm, artificial intelligence, machine learning, scoring, or predictive tool.
+
+
+===== POLICY EBCB — Fire and Emergency Evacuation Response Drills =====
+
+GENERAL COMPLIANCE OBLIGATIONS
+The District shall cooperate with local fire department officials regarding building inspections and evacuation procedures, and must comply with local, state, and federal fire and safety regulations to ensure the safety of students, employees, and members of the public. All unsafe conditions must be reported to the Customer Support Center.
+
+ORIENTATION AND TRAINING
+Orientation programs for employees and students must include instruction about each school's emergency plan and equipment use, with particular attention to: fire alarm activation procedures; location of fire extinguishers; location of fire alarm boxes or stations; fire extinguisher usage appropriate to building types; "the usual exits, lines of travel, and/or other emergency procedures that students in every classroom shall be expected to follow in case of fire, earthquake, civil defense, or other emergency"; alternate sites and procedures if primary exits are blocked; first aid equipment location and use; and fire-safe room locations where applicable. Emergency exit information must be posted in each room, "clearly printed in large letters on a sign posted next to the doors in each room."
+
+FIRE DRILL PROCEDURES AND AUTHORITY
+Fire drill procedures are developed jointly by the District and the local fire department. The fire department has authority to conduct unannounced drills at any time and shall notify the superintendent "if practicable" in advance. Sufficient fire drills must be held at each site to ensure students and employees thoroughly understand proper procedures and evacuation routes; all students and employees must evacuate the building during every fire drill.
+
+FIRE DRILL SCHEDULE
+First semester: one announced drill is required during the first four weeks, pre-planned by the principal, plus at least one unannounced drill between October 1 and November 30. Second semester scheduling depends on the results of the first unannounced drill: if results are satisfactory, only one additional drill is required in the first month of the second semester; if results are unsatisfactory, "a minimum of one additional fire drill per month shall be held until satisfactory results are obtained." Summer school: a minimum of one required fire drill must be held during the summer school session at each school holding summer school.
+
+REPORTING REQUIREMENTS
+A report of each fire drill must be made to the superintendent or designee after the first four weeks of school and after each subsequent fire drill during the school year. Reports must include the date, time of day, evacuation duration, general evaluation, unusual conditions, and special mention of "the equipment, alarm systems, exits, or other circumstances that in any way limit the complete exit of the school."
+
+ADOPTION AND REVISION HISTORY
+Adopted by the Board: August 11, 1997. Revised by the Superintendent: December 1, 2008.
+
+CROSS REFERENCES
+KDE, Crisis Management and Prevention.
+
+FLAGGED TOPIC REVIEW
+No mention found of information technology systems, records retention timelines, electronic monitoring or surveillance, HIPAA, transportation eligibility, food-service/free-or-reduced-price meal eligibility, copyright, or any automated decision system, algorithm, artificial intelligence, machine learning, scoring, or predictive tool.
+
+
+===== POLICY EBCE — School Closings and Cancellations =====
+
+DOCUMENT STATUS
+Adopted by the Board: May 22, 1995 (current practice codified). Revised by the Board: April 28, 1997. Revised by the Superintendent: December 17, 2007.
+
+AUTHORITY AND CORE PRINCIPLE
+The superintendent has the authority to close schools or dismiss them early "in the event of hazardous weather or other emergencies" that threaten student or staff safety, health, or welfare.
+
+DECISION-MAKING FRAMEWORK
+Closure determinations may be non-uniform across the district owing to its "large and diverse geographic area," where "weather conditions may vary greatly within the District" — for example, a storm concentrated in the foothills may result in closure of only the mountain schools. Parents retain independent authority to determine that conditions are too hazardous for their child's attendance, delayed arrival, or early dismissal; class time missed as a result of such parental determinations "shall be dealt with and accounted for as an excused absence."
+
+SEVERE WEATHER RESPONSE PROCEDURES
+For a moderate snowstorm, snow removal personnel begin plowing "in sufficient time to ensure safe parking and pedestrian movement for normal morning operations," while transportation personnel concurrently assess storm severity and area road conditions, analyzing data from the National Weather Service and area emergency services. Weather and road information must be delivered to the superintendent before 5:00 a.m., with a final decision made not later than 5:30 a.m.; communication to personnel and media begins immediately thereafter. Full-day closures occur "under extreme circumstances if conditions are such that it would be unusually hazardous for students to walk and/or be bused to school." When conditions are "severe but not serious enough to close schools," the superintendent may announce a two-hour late start: schools open two hours later than normal, bus riders are picked up two hours later than normal, and District employees report one hour later than normal unless otherwise directed.
+
+PUBLIC NOTIFICATION
+Closure and delay information is broadcast via television channels 2, 4, 7, 9, 10, and 31, and radio stations KCOL, EAGLE, BEAR, KCSU, KIIX, KLOV, KOA, KOOL 105, KTRR (TRI-102), KUAD, KUNC, and KWBI; information is also made available by e-mail. District personnel are instructed to consider broadcast information accurate and not to call television or radio stations or the District switchboard, because "Support Services Center telephone lines must be kept open for emergency communications."
+
+MID-DAY EMERGENCY CLOSURES
+Storms commencing during the school day are assessed as they occur. When a midday closure becomes necessary, information is passed to all locations via the emergency telephone calling chain, and administrators must ensure sufficient staff remain on site until all students have been released to a safe mode of transportation home.
+
+LEGAL REFERENCES
+C.R.S. 22-32-109(1)(n); C.R.S. 22-33-104.
+
+CROSS REFERENCES
+JLIB, Student Dismissal Precautions.
+
+FLAGGED TOPIC REVIEW
+No mention found of information technology systems, records retention timelines, electronic monitoring or surveillance, HIPAA, or food-service/free-or-reduced-price meal eligibility, copyright, or any automated decision system, algorithm, artificial intelligence, machine learning, scoring, or predictive tool. Transportation is discussed only in the operational sense of bus pickup delays and safe release of students to transportation home, not in terms of transportation program eligibility determinations.
+
+
+===== POLICY EC — Property Management =====
+
+PURPOSE
+District property (grounds, buildings, facilities) represents a substantial public investment and must be "efficiently utilized, economically managed, and properly maintained in accordance with governing federal, state and local laws and applicable District policies and regulations."
+
+GENERAL RESPONSIBILITIES
+The superintendent or designee(s) must establish administrative guidelines and procedures and maintain general oversight of: facilities planning, design, and construction; facilities and grounds; property management; custodial services; utilities management and environmental services; transportation; food services; and safety, security, and emergency planning.
+
+GOVERNING PRINCIPLES FOR MANAGEMENT, MAINTENANCE, AND PROTECTION OF DISTRICT PROPERTY
+District property management must comply with all governing laws, District policies, and regulations. Any material change in the intended use of District grounds, buildings, or other facilities must be approved by the superintendent or the superintendent's designee. All remodeling, retrofitting, renovations, repairs, modifications, additions, and improvements must be coordinated through the Operations Department and comply with applicable building codes and specifications; Operations staff must collaborate with site managers regarding the nature/scope, funding, timeline, operational impact, and prioritization of such projects.
+
+LEGAL REFERENCES
+6 CCR 1010-6, Rules 1-101 et seq. through 10-101 et seq.
+
+CROSS REFERENCES
+CFD, Site-Based Management; DJB, Purchasing Procedures.
+
+ADOPTION DATE
+Approved by the Superintendent: October 13, 2008.
+
+FLAGGED TOPIC REVIEW
+The policy lists "transportation" and "food services" among the operational areas subject to superintendent oversight and administrative guidelines, but does not itself set out transportation or food-service/free-or-reduced-price meal eligibility criteria. No mention found of information technology systems, records retention timelines, electronic monitoring or surveillance, HIPAA, copyright, or any automated decision system, algorithm, artificial intelligence, machine learning, scoring, or predictive tool.
+
+
+===== POLICY ECAB — Securing District Facilities =====
+
+ACCESS CONTROL SYSTEM
+The superintendent or designee must establish "an adequate key and access control system for entry to District facilities and areas within District facilities when they are not open to the public."
+
+ISSUANCE OF ACCESS CREDENTIALS
+Keys, access cards, and security codes "shall be issued only to those employees, individuals or entities that require access pursuant to their employment or contract with the District."
+
+ACCESS CONTROL RESTRICTIONS
+No individual with issued credentials may release or loan a key, access card, and/or security code from their possession to anyone for any reason. Duplicate keys shall not be made.
+
+LOSS REPORTING
+Loss of a key, access card, and/or security code must be reported immediately to the building principal or site/department access manager, and to the District's Customer Support Center.
+
+PHYSICAL SECURITY MEASURES
+Alarm systems and other devices that protect buildings against illegal entry and vandalism shall be installed where appropriate. Employment of security personnel requires superintendent approval "in situations where special risks are involved."
+
+AFTER-HOURS SECURITY
+Employees leaving a building after hours must ensure the building is secure prior to their exit.
+
+ADOPTION AND REVISION HISTORY
+Adopted April 1972. Revised June 1982, August 1982, June 1988, September 9, 1996, January 9, 2006, and April 26, 2010.
+
+LEGAL REFERENCES
+C.R.S. 18-4-503; C.R.S. 18-4-504.
+
+CROSS REFERENCES
+KF, Use of District Facilities.
+
+FLAGGED TOPIC REVIEW
+The policy addresses physical access control (keys, access cards, security codes, alarm systems) but contains no explicit mention of information technology systems as a distinct subject, records retention timelines, electronic monitoring or surveillance (beyond generic reference to "alarm systems and other devices"), HIPAA, transportation eligibility, food-service/free-or-reduced-price meal eligibility, copyright, or any automated decision system, algorithm, artificial intelligence, machine learning, scoring, or predictive tool.
+
+
+===== POLICY ECAC — Vandalism =====
+
+FUNDING AND COMMUNITY RESPONSIBILITY
+School buildings and grounds are maintained through community tax dollars, making vandalism damage a shared fiscal burden. The Board urges all citizens, students, and law enforcement to report vandalism incidents and to identify responsible parties.
+
+REPORTING OBLIGATIONS
+District employees must report all known vandalism incidents to their school's principal or site manager, including the names of suspected perpetrators when available.
+
+AUTHORIZATION TO PURSUE LEGAL ACTION
+The superintendent, assistant superintendents, principal, or their designee may sign criminal complaints against persons suspected of vandalizing school property.
+
+STUDENT CONSEQUENCES
+Students who willfully or maliciously destroy school property through vandalism or arson, or who create safety hazards, may be referred to law enforcement. "Students who are caught vandalizing school property may be suspended and/or expelled."
+
+DAMAGE RECOVERY
+The Board intends to pursue monetary damages from vandals and their parents or guardians as permitted by law.
+
+ADOPTION AND REVISION HISTORY
+Adopted May 22, 1995. Revised September 9, 1996.
+
+FLAGGED TOPIC REVIEW
+No mention found of information technology systems, records retention timelines, electronic monitoring or surveillance, HIPAA, transportation eligibility, food-service/free-or-reduced-price meal eligibility, copyright, or any automated decision system, algorithm, artificial intelligence, machine learning, scoring, or predictive tool.
+
+===== POLICY ECAF — Electronic Monitoring and Surveillance =====
+
+AUTHORIZATION AND SCOPE
+The Board of Education authorizes the District to use video and audio-visual cameras at District facilities, in and around District buildings, and on District transportation vehicles, as well as monitoring of communications across District tools, services, and infrastructure (including the District telephone system). The superintendent or designee must approve all monitoring/surveillance systems before acquisition, and the Chief Technology Officer must approve any network connections associated with such systems. The policy was adopted April 22, 2008 (effective July 1, 2008) and has been revised May 26, 2009; April 28, 2015; and May 27, 2025 (this most recent revision effective July 1, 2025).
+
+USE OF CAMERAS
+Video and audio-visual cameras may be used to monitor and record students, staff, and other persons at District facilities on a year-round basis, "at any and all times, whether or not school is in session." Deployment covers District buildings, grounds in and around buildings, and District transportation vehicles.
+
+NOTICE REQUIREMENTS
+Where audio-visual recording (i.e., recording that captures both video and audio) is used, the District must give "sufficient notice ... to reasonably inform them of the monitoring and recording." Notice may be satisfied through posted signage in monitored areas.
+
+PRIVACY LIMITS
+Cameras are expressly prohibited "in restrooms, locker facilities or other areas where students, staff, and/or other persons have a reasonable expectation of privacy." This is a hard carve-out from the general camera-use authorization.
+
+TELEPHONE MONITORING AND RECORDING
+Communications over the District's telephone system "may be monitored and/or recorded at any time in compliance with applicable state law." Any resulting recordings are District property. Access to telephone recordings requires the requester to demonstrate "a legitimate need to do so, as determined by the superintendent, director of student safety & emergency management, or their designee(s)."
+
+USE, STORAGE, AND SECURITY OF RECORDINGS
+Video, audio, and audio-visual recordings may be used as evidence that a student, staff member, or other person has engaged in behavior relevant to disciplinary, investigatory, or other District proceedings. Recordings are and remain the property of the District.
+
+STUDENT EDUCATION RECORDS
+The District will comply with all applicable law regarding student education records as it pertains to video, audio, and audio-visual recordings, including obligations arising under the Family Educational Rights and Privacy Act (20 U.S.C. 1232g), which is cited as a legal reference for this policy.
+
+RETENTION
+Video and audio recordings must be "maintained in their original form for at least seven (7) calendar days after the initial recording." This baseline retention period is extended where "an incident has occurred in which a recording may be relevant to an investigation," in which case the relevant recording must be preserved beyond the seven-day floor — specifically, materials tied to an investigation must be preserved "until the investigation and any resulting legal proceedings and/or disciplinary action is finally concluded."
+
+ACCESS AND VIEWING PROCEDURES
+Video and audio-visual recordings "are and shall remain the property of the District." Authorized District officials with a legitimate need may view recordings without additional approval. Non-District officials (which may include parents, law enforcement, or other outside parties) seeking access must submit a written request within seven (7) calendar days of the incident, specifying the reason for the request. Approved viewings occur only at specified District locations, with a designated District supervisor/administrator present to oversee the viewing.
+
+DOCUMENTATION AND LOGS
+The District maintains written logs tracking all access to and viewing of recordings, including the date of access, the reason given for the request, and identifying information about who accessed or viewed the recording.
+
+AUTOMATED / AI ANALYSIS — NONE FOUND
+FLAG: Repeated, targeted review of this policy's full text found NO language anywhere in ECAF referencing artificial intelligence, machine learning, algorithms, automated or algorithmic analysis, predictive analytics, facial recognition, weapons detection, gunshot detection, video analytics, or any other automated/smart-technology processing applied to camera footage, telephone recordings, or network/device monitoring data. The policy addresses only camera placement/notice, telephone monitoring, storage, retention, and manual (human-reviewed) access/viewing procedures.
+
+LEGAL REFERENCES AND CROSS-REFERENCES
+Legal references: 20 U.S.C. 1232g (FERPA); C.R.S. 24-72-204 (Colorado Open Records Act exceptions). Cross-referenced District policies: GBJ, GDQD, JK, JRCB, JRA/JRC, KI.
+
+ADOPTION HISTORY
+Adopted: April 22, 2008 (effective July 1, 2008). Revised: May 26, 2009; April 28, 2015; May 27, 2025 (effective July 1, 2025).
+
+
+===== POLICY ECF — Energy Conservation =====
+
+PURPOSE
+The Poudre School District ("the District") believes it can make positive, tangible, environmental change while educating stakeholders and fostering community stewardship. The District's primary objective under this policy is to establish healthful, safe, and productive learning environments while practicing environmental sustainability and fiscal responsibility.
+
+RESPONSIBILITY
+Implementation of this policy is the responsibility of every District employee and student. The success of the District's energy conservation efforts depends on cooperation at all levels of the organization, not solely on facilities or administrative staff.
+
+DISTRICT COMMITMENTS
+The District commits to: (1) providing leadership in developing energy use ethics and awareness of energy costs among staff and students; (2) demonstrating a commitment to responsible stewardship of natural, physical, material, and financial resources; and (3) making energy efficiency and resource management major considerations in the planning, construction, and renovation of District facilities.
+
+ADMINISTRATIVE DUTIES
+The superintendent or designee shall develop short- and long-range energy conservation and efficiency strategies for the District; monitor and evaluate the implementation of those strategies; maintain accurate records of energy consumption and associated costs; provide the Board and community with progress updates on sustainability goals; and implement a Sustainability Management Plan designed to integrate sustainability principles into both curriculum and day-to-day District operations.
+
+ADOPTION AND REVISION HISTORY
+This policy was adopted by the Board of Education on September 8, 1996, and subsequently revised by the superintendent on January 19, 2009, and again on December 15, 2023.
+
+CROSS-REFERENCES
+Related Policy: DJ — Purchasing.
+
+FLAGGED-TOPIC REVIEW
+This policy contains no mention of information technology systems, records retention timelines, electronic monitoring or surveillance, HIPAA, transportation eligibility, food-service/free-reduced-price eligibility, copyright, or any automated decision system, algorithm, artificial intelligence, machine learning, scoring, or predictive tool. The only records obligation identified is a general duty to "maintain accurate energy consumption and cost records," with no specified retention period.
+
+
+===== POLICY EDE — Waste Management and Recycling =====
+
+PURPOSE
+The Poudre School District commits to integrating resource conservation and waste reduction into its operations, balanced against the needs of the academic program and the requirements of sound financial management.
+
+WASTE REDUCTION STRATEGIES
+The District pursues decreased waste generation through four principal approaches: reducing the consumption of materials; fully using all materials prior to disposal; minimizing the use of non-biodegradable products where feasible; and reusing and recycling all materials to the fullest extent possible.
+
+INTERAGENCY COOPERATION
+The District shall collaborate with governmental and private entities on recycling initiatives to the extent practicable and within the bounds of sound financial management.
+
+WASTE RECOVERY PARTICIPATION
+As waste recovery systems develop within the community, the District commits to participating by appropriately separating and allowing recovery of recyclable waste products, subject to constraints of practicability and financial viability.
+
+PROCUREMENT OF RECYCLED PRODUCTS
+When economically viable and when quality standards are met, the District shall purchase recycled products, and shall encourage both private and public suppliers to offer such recycled-content options.
+
+ADOPTION AND REVISION HISTORY
+This policy was adopted by the Board of Education on September 9, 1996, and revised by the superintendent on June 23, 2009.
+
+CROSS-REFERENCES
+Related Policy: DJB — Purchasing Procedures.
+
+FLAGGED-TOPIC REVIEW
+This policy contains no mention of information technology systems, records retention timelines, electronic monitoring or surveillance, HIPAA, transportation eligibility, food-service/free-reduced-price eligibility, copyright, or any automated decision system, algorithm, artificial intelligence, machine learning, scoring, or predictive tool.
+
+
+===== POLICY EEA-EEB — District Transportation Services and Vehicle Use =====
+
+DRIVER AUTHORIZATION REQUIREMENTS
+District transportation vehicles may only be operated by District employees who simultaneously satisfy three conditions: the employee must be properly licensed as required by law; the employee must have successfully completed all required training, as determined by the director of transportation; and the employee must meet requirements for District insurance coverage when driving the transportation vehicle, as determined by the risk manager.
+
+BUS USE PRIORITIZATION
+District buses shall be prioritized for use in the following sequence: (1) student transportation to and from school; (2) student transportation to and from CHSAA (Colorado High School Activities Association) activities; (3) student transportation to and from curricular activities away from school; (4) student transportation to and from non-CHSAA extracurricular activities away from school; and (5) non-student group transportation.
+
+CONTRACTED TRANSPORTATION
+The director of transportation may contract for external transportation services when a shortage of qualified bus drivers exists, or when regular bus service is impractical for a specific route or activity. Any such contracted transportation services shall comply with governing law and all relevant District policies and regulations.
+
+ADOPTION HISTORY
+This policy was adopted October 26, 2015.
+
+CROSS-REFERENCES
+Related Policies: EEAA, EEAEAA, EEAF, GBEC, IJOA. Legal Reference: C.R.S. 22-32-122.
+
+FLAGGED-TOPIC REVIEW
+This policy contains no mention of information technology systems, records retention timelines, electronic monitoring or surveillance, HIPAA, transportation eligibility criteria (eligibility thresholds are addressed instead in Policy EEAA), food-service/free-reduced-price eligibility, copyright, or any automated decision system, algorithm, artificial intelligence, machine learning, scoring, or predictive tool.
+
+
+===== POLICY EEAA — Transportation Students To and From School =====
+
+PURPOSE AND ELIGIBILITY FRAMEWORK
+This policy governs the District's obligation to transport eligible students residing within District boundaries to and from their assigned neighborhood school. Eligibility for District-provided transportation turns on specific, school-level-dependent distance thresholds measured between the student's residence and the neighborhood school.
+
+DISTANCE ELIGIBILITY THRESHOLDS
+The District provides transportation to a student's neighborhood school only when the student's residence exceeds the following minimum distances from that school:
+- Senior high school students: transportation eligibility begins at a residence-to-school distance of two miles.
+- Middle school students: transportation eligibility begins at a residence-to-school distance of one and one-half miles.
+- Elementary school students: transportation eligibility begins at a residence-to-school distance of one mile.
+Students whose residences fall within (i.e., closer than) these distance thresholds are, as a general rule, not eligible for District-provided transportation to their neighborhood school and are responsible for arranging their own transportation, except as otherwise provided by this policy, otherwise determined by the director of transportation, or otherwise required by law. This carve-out means the director of transportation retains discretion to extend eligibility below the stated thresholds (for example, for hazardous walking conditions or other individualized circumstances), and that legal requirements (such as those applicable to students with disabilities) can independently create an entitlement to transportation regardless of distance.
+
+DISTANCE MEASUREMENT METHODOLOGY
+Distance for eligibility purposes is measured from a student's residence to the property line of the neighborhood school via accessible roadways and/or adequate walkways, as determined by the director of transportation. This vests the director of transportation with authority to determine what counts as an "accessible roadway" or "adequate walkway" for measurement purposes, which functions as the operative determination procedure for eligibility disputes tied to distance or route safety.
+
+SELF-TRANSPORT OBLIGATION BELOW THRESHOLD
+Students whose homes fall within or below the applicable distance threshold for their school level bear responsibility for their own transportation to and from school, subject to the exceptions described above (policy-based exceptions, director of transportation determinations, or legal mandates such as special-education transportation requirements).
+
+CHOICE SCHOOL TRANSPORTATION
+Students attending a "choice" school (i.e., a school other than their assigned neighborhood school) may access District buses only on a space-available basis, and only if authorized and as determined by the director of transportation. The District retains discretion to alternatively provide transportation for choice-school students at its own option, but is not obligated to do so as a matter of course; choice-school transportation is explicitly secondary in priority to neighborhood-school transportation.
+
+BUS BOARDING ACCESS CONTROLS
+Only students formally assigned to a given bus route, or students carrying a bus pass signed by their school principal or the principal's designee, may board a District bus. Bus operators are charged with enforcing capacity limits strictly, meaning a validly issued bus pass does not override capacity constraints.
+
+DETERMINATION AUTHORITY
+Across the eligibility framework, the director of transportation is the consistently designated decision-maker: determining required training for drivers (cross-referenced in EEA-EEB), determining whether a road or walkway counts as "accessible" or "adequate" for distance measurement, determining exceptions to the self-transport obligation, and determining choice-school space availability and authorization.
+
+CROSS-REFERENCES
+This policy interacts directly with EEA-EEB (District Transportation Services and Vehicle Use), which lists EEAA among its cross-references, and with EEAEC/EEAEC-R (Student Conduct on School Buses), under which bus-stop assignment and bus-pass issuance procedures further operationalize the boarding-access rules described above.
+
+FLAGGED-TOPIC REVIEW
+Transportation eligibility is the core subject matter of this policy and is rendered in full above (distance thresholds, measurement methodology, self-transport obligations, choice-school rules, and boarding-access controls). No other flagged topics — information technology systems, records retention timelines, electronic monitoring or surveillance, HIPAA, food-service/free-reduced-price eligibility, copyright, or any automated decision system, algorithm, artificial intelligence, machine learning, scoring, or predictive tool — are mentioned anywhere in this policy.
+
+
+===== POLICY EEAEAA — Drug and Alcohol Testing for Drivers with CDL =====
+
+APPLICABILITY AND PURPOSE
+This policy, titled "Drug and Alcohol Use By and Testing For Drivers With a Commercial Driver's License (CDL)," applies to all bus operators and other District drivers operating motor vehicles requiring a CDL. It implements the federal drug and alcohol testing program intended to prevent accidents and injuries arising from substance misuse. The policy states it reflects federal drug testing requirements but does not modify or limit the procedures set out in federal regulation; District personnel must adhere to the detailed provisions of federal regulation directly.
+
+DEFINITIONS
+"Tests" refers to both drug and alcohol tests unless context specifies otherwise. "Drug" and "controlled substance" are used interchangeably and include marijuana, cocaine, opiates, phencyclidine (PCP), and amphetamines (including methamphetamines). "On the job" means, for nonexempt employees, while being paid by the District, and for exempt employees, while under District control or supervision performing tasks, functions, or duties at the District's request or for the District's benefit.
+
+PROHIBITED CONDUCT
+No driver shall have a prohibited alcohol concentration (0.02 or greater) in the body while on the job. No driver shall have any detectable quantity of a controlled substance in the body while on the job, except when authorized by a physician. No driver shall possess or consume alcohol, or possess or use a controlled substance (except as authorized by a physician), while on the job or on-call, on school premises or assigned sites, driving a District vehicle or personal vehicle on District business, or participating in school-sponsored or sanctioned activities. No driver shall consume alcohol during the four hours prior to driving. No driver shall consume alcohol during the eight hours following a motor vehicle accident. An exception applies to the controlled-substance prohibitions when a physician has advised that the substance does not adversely affect safe operation and has provided a written statement to that effect to the driver's supervisor.
+
+REQUIRED TESTING CATEGORIES
+Drivers are subject to pre-employment/pre-duty, reasonable-suspicion, random, post-accident, return-to-duty, and follow-up testing under federal regulations. Alcohol testing uses an evidential breath testing device; controlled-substance testing uses a urine specimen analyzed by a U.S. Department of Health and Human Services-certified laboratory.
+
+PRE-EMPLOYMENT TESTING
+Testing is administered after a position offer but before the first performance of a safety-sensitive function, and also applies to employees seeking transfer into safety-sensitive positions. Employment is conditional on negative alcohol and drug test results and on the driver signing a waiver releasing pertinent testing information from previous employers.
+
+POST-ACCIDENT TESTING
+Tests are conducted as soon after an accident as practicable on drivers who were performing safety-sensitive functions if the accident involved loss of human life, and/or who received a state or local citation for a moving traffic violation arising from the accident. No driver may use alcohol for eight hours after an accident or until the post-accident alcohol test, whichever occurs first. If the alcohol test is not administered within two hours, or the drug test not administered within 32 hours, the District must prepare and maintain records explaining why. Tests administered by authorized federal, state, or local officials can fulfill these requirements if they conform to legal requirements and are obtained by the District, though breath tests validate only alcohol testing and cannot satisfy controlled-substance testing obligations. The District must provide all drivers with post-accident testing requirements before they operate a commercial motor vehicle.
+
+RANDOM TESTING
+Tests are conducted on a random basis at unannounced times throughout the year. Alcohol tests are conducted just before, during, or just after performance of a safety-sensitive function. Drug tests do not require immediate time proximity to performing safety-sensitive functions; upon notification, drivers must proceed to the collection site to provide a urine specimen. Selection uses a scientifically valid random process ensuring each driver has an equal chance of selection each time selections are made, with the number of drivers selected set per federal regulation.
+
+REASONABLE-SUSPICION TESTING
+Tests are conducted when a properly trained supervisor or District official has reasonable suspicion of a violation, based on specific, contemporaneous, articulable observations concerning the driver's appearance, behavior, speech, breath, and/or body odors (which may include chronic and withdrawal effects of controlled substances). Alcohol testing on this basis is authorized only if the observations were made during, just before, or just after the work-day period requiring alcohol compliance; must be administered within two hours of the reasonable-suspicion determination (with the District documenting any delay); attempts terminate after eight hours; and the test cannot be conducted by the person who determined reasonable suspicion existed. The supervisor or official must create a written record of the observations within 24 hours of the observed behavior or before test results are released, whichever is earlier.
+
+RETURN-TO-DUTY AND FOLLOW-UP TESTING
+Before reinstatement, a driver undergoes a drug or alcohol test. For a drug violation, the employee cannot return to a safety-sensitive function until the return-to-duty drug test produces a verified negative result; for an alcohol violation, the employee cannot return until the return-to-duty alcohol test produces a verified result meeting federal and District standards. Drivers found to have violated the prohibitions and identified by a substance abuse professional as needing assistance are subject to unannounced follow-up testing as directed, with alcohol follow-up testing conducted just before, during, or just after performance of safety-sensitive functions. At least six follow-up tests are required in the first 12 months following return to duty, with frequency thereafter set by the substance abuse professional.
+
+CONSEQUENCES OF A POSITIVE TEST
+A confirmed prohibited alcohol concentration or controlled-substance presence (absent physician authorization) results in immediate removal from safety-sensitive functions per federal regulation; other disciplinary action up to and including discharge; a required substance abuse professional evaluation before reinstatement; required compliance with rehabilitation; and a return-to-duty test with verified, satisfactory results. A driver prohibited from safety-sensitive functions may be assigned to non-safety-sensitive functions until returning to duty. The Board retains authority consistent with state and federal law to discipline or discharge any employee whose current alcohol or drug use adversely affects job qualifications and/or performance. The District is not required under federal law to provide rehabilitation, pay for substance abuse treatment, or reinstate an employee. All reinstatement, termination, or dismissal decisions follow applicable District policies and negotiated agreements.
+
+RECORD RETENTION AND ACCESS
+The District maintains testing records in compliance with federal regulations in a secure location with controlled access. No specific retention period (e.g., a number of years) is stated in the rendered text — the obligation is expressed only as "compliance with federal regulations." With the driver's consent, the District may obtain testing information from a previous employer. A driver is entitled to obtain copies of records pertaining to their own alcohol or controlled-substance use, including test information, upon written request, and such records are made available to a subsequent employer upon the driver's written request.
+
+NOTIFICATION REQUIREMENTS
+Each driver receives educational materials explaining 49 C.F.R. Part 382 requirements and District policy, and employee organization representatives are notified of the materials' availability. Required content includes: designated District persons to answer questions; categories of drivers subject to testing; information about safety-sensitive functions sufficient to clarify compliance periods; specific prohibited conduct; testing circumstances; testing procedures protecting the driver, testing integrity, and result validity; the requirement to submit to compliant tests; the definition of refusal and its consequences; violation consequences including immediate removal and referral/evaluation/treatment procedures; consequences for alcohol concentration of 0.02 or greater but less than 0.04; and information on drug/alcohol effects on health, work, and personal life, problem signs and symptoms, and intervention methods. Each driver signs a statement certifying receipt of these materials. The District informs drivers before testing if reasonably possible. For pre-employment tests, the District notifies the driver of results if requested within 60 calendar days of the employment application disposition notice. For positive random, reasonable-suspicion, or post-accident tests, the District notifies the driver and identifies the verified controlled substance(s). Upon employee request, the District forwards the duplicate specimen to a laboratory of the employee's choice, so long as it is Department of Health and Human Services certified.
+
+MEDICATION RESTRICTIONS
+No driver shall use contraindicated medications for commercial vehicle operation unless a licensed physician provides a written release stating the medication does not adversely affect safe operation, with the driver providing the release to the supervisor before performing a safety-sensitive function.
+
+REFUSAL TO TEST
+Refusing to submit to a required controlled-substance or alcohol test is prohibited conduct. Refusal is defined as: failure to provide adequate breath for alcohol testing without a valid medical explanation after receiving notice; failure to provide adequate urine for controlled-substance testing without a valid medical explanation after notification; or engaging in conduct that clearly obstructs the testing process.
+
+ENFORCEMENT
+Drivers refusing post-accident, random, reasonable-suspicion, return-to-duty, or follow-up tests cannot perform or continue safety-sensitive functions and face disciplinary action up to and including discharge. Drivers otherwise violating the prohibitions receive contact information for substance abuse professionals for evaluation and resolution programs and are subject to disciplinary action up to and including discharge. Substance abuse professionals determining a driver needs assistance cannot refer the driver to private practices, persons, or organizations in which the professional has a financial interest, except as permitted by law.
+
+PROGRAM ADMINISTRATION
+The Director of Transportation Services, with risk manager approval and coordination by the executive director of human resources, establishes the controlled-substance and alcohol testing program to fulfill federal requirements. Supervisors receive proper training in administering the testing program, and employees receive required federal notifications.
+
+ADOPTION AND REVISION HISTORY
+Adopted November 1994; revised March 25, 1996; revised October 13, 1997; revised August 23, 1999.
+
+LEGAL REFERENCES
+49 U.S.C. 2717 et seq. (Omnibus Transportation Employee Testing Act of 1991); 49 C.F.R. Part 40 (Procedures for Transportation Workplace Drug and Alcohol Testing Programs); 49 C.F.R. Part 382 (Controlled Substance and Alcohol Use and Testing); 49 C.F.R. Part 391 (Qualification of Drivers); C.R.S. 42-2-501 et seq. (Commercial Driver's License Act); 8 CCR 1507-1 (Colorado Department of Public Safety Rules).
+
+CROSS-REFERENCES
+Related Policies: EEAEA (Bus Operator Requirements, Training, and Responsibilities); GBEC (Employee Use and Possession of Drugs and Alcohol); GDQD-R (Discipline, Suspension, and Dismissal of Support Staff).
+
+FLAGGED-TOPIC REVIEW
+Records retention is addressed only generically ("compliance with federal regulations," secure location, controlled access) with no specific retention period stated. No mention of information technology systems, electronic monitoring/surveillance, HIPAA, transportation eligibility, food-service/free-reduced-price eligibility, copyright, or any automated decision system, algorithm, artificial intelligence, machine learning, scoring, or predictive tool.
+
+
+===== POLICY EEAEAA-R — Drug and Alcohol Testing for District CDL Drivers =====
+
+PURPOSE AND SCOPE
+This regulation implements testing for all drivers operating vehicles requiring a commercial driver's license (CDL), including bus operators, to prevent accidents and injuries resulting from the misuse of alcohol and controlled substances by drivers. It adheres to federal law requirements under 49 C.F.R. Part 382 and states explicitly that it is "not intended in any way to modify or limit the procedures for drug and alcohol testing specifically addressed in federal regulation."
+
+DEFINITIONS
+"Drugs/controlled substances" means marijuana, cocaine, opiates, phencyclidine (PCP), and amphetamines (including methamphetamines). "Tests" includes both drug and alcohol tests unless context specifies otherwise. "Safety-sensitive functions" means functions performed by CDL drivers for the District.
+
+PRE-EMPLOYMENT TESTS
+Administered before performance of any safety-sensitive function, required after a position offer, and also required of transfer applicants. Employment is conditional on negative results and a signed waiver permitting release of previous-employer testing information.
+
+POST-ACCIDENT TESTS
+Conducted as soon after an accident as practicable on drivers who were performing safety-sensitive functions when the accident involved loss of human life, or who received a citation for a moving traffic violation arising from the accident. A driver is prohibited from alcohol use for the eight hours after the accident or until undergoing a post-accident alcohol test, whichever occurs first. The alcohol test must occur within two hours and the drug test within 32 hours; the District must document reasons for any delay. Breath tests validate only alcohol testing, not controlled-substance obligations. The District must provide drivers with post-accident procedures prior to operation.
+
+RANDOM TESTS
+Conducted on a random basis at unannounced times throughout the year. Alcohol tests are conducted just before, during, or just after safety-sensitive functions; drug tests carry no requirement of immediate time proximity to work. Selection uses a scientifically valid random process giving each driver an equal opportunity for selection, with the number of drivers tested set per federal regulation.
+
+REASONABLE-SUSPICION TESTS
+Required when a properly trained supervisor or District official has reasonable suspicion that a driver has violated the District's alcohol or drug prohibitions, based on specific, contemporaneous, articulable observations of appearance, behavior, speech, breath, or body odors, including chronic and withdrawal effects. For alcohol testing, the observations must occur during, just before, or just after work hours when alcohol prohibitions apply; the test must occur within two hours of the determination; attempts terminate after eight hours; and the test cannot be conducted by the person who determined reasonable suspicion existed. A written record of observations is required within 24 hours of the observed behavior or before drug test results are released, whichever is earlier.
+
+RETURN-TO-DUTY TESTS
+Required before driver reinstatement. A drug violation requires a verified negative result; an alcohol violation requires a result meeting federal and District standards. On-call/emergency employees must notify their supervisor if unable to perform due to substance use; a single such absence is generally not disciplined, but "multiple absences caused by the use of controlled substances or alcohol may be treated as other absences pursuant to district policy."
+
+FOLLOW-UP TESTS
+Unannounced testing as directed by the substance abuse professional for drivers identified as needing assistance, with alcohol testing conducted just before, during, or just after safety-sensitive function performance. A minimum of six follow-up tests is required in the first 12 months following the driver's return to duty.
+
+RECORDS MANAGEMENT
+Records are maintained "under strict confidentiality and released only in accordance with law." Drivers may request copies of their own personal records in writing. Records are released to subsequent employers or other identified persons only upon the driver's express written authorization. No specific numeric retention period is stated in the rendered text.
+
+NOTIFICATION REQUIREMENTS
+Each driver receives educational materials covering: designated District personnel to answer questions; categories of affected drivers; safety-sensitive functions and compliance periods; prohibited-conduct specifics; testing circumstances; testing procedures protecting driver rights and result integrity; the mandatory testing requirement; the definition of refusal and its consequences; violation consequences including immediate removal and referral procedures; consequences for alcohol concentration of 0.02 or greater but less than 0.04; and information on drug/alcohol health and life effects, symptom recognition, and intervention methods (confrontation, employee assistance program referral, administrative referral). Each driver must sign a statement certifying receipt of these materials. The District informs drivers before testing when reasonably possible. Result notification: for pre-employment tests, upon request within 60 calendar days of the employment disposition notification; for random/reasonable-suspicion/post-accident tests, positive results only, specifying the controlled substance(s) verified. An employee may request that the duplicate specimen be forwarded to any laboratory of the employee's choosing, so long as it is Department of Health and Human Services certified.
+
+MEDICATION RESTRICTIONS
+Drivers using medications contraindicated for commercial vehicle operation must obtain a written release from a licensed physician stating the substance does not adversely affect safe operation, and must provide the release to their supervisor before performing safety-sensitive functions.
+
+REFUSAL DEFINITIONS
+Refusal to submit to testing is prohibited conduct, defined as: failure to provide adequate breath for alcohol testing without a valid medical explanation after notice; failure to provide adequate urine for a controlled-substance test without a valid medical explanation after notification; or engaging in conduct that clearly obstructs the testing process.
+
+ENFORCEMENT AND DISCIPLINE
+For test refusals, the driver is not allowed to perform or continue safety-sensitive functions and is subject to disciplinary action up to and including discharge. For other violations, the District provides substance abuse professional contact information and treatment program details, and the driver is subject to disciplinary action up to and including discharge; substance abuse professionals cannot refer drivers to private practices, persons, or organizations in which they have a financial interest except as allowed by law. Before returning to safety-sensitive duties, the District ensures the employee has been evaluated by a substance abuse professional, has complied with recommended treatment, has taken a return-to-duty test showing an alcohol concentration level of less than 0.02 (and no detectable controlled substances absent physician authorization), and is subject to follow-up testing as described above.
+
+REVISION HISTORY
+Approved May 13, 1996; reviewed December 1997.
+
+FLAGGED-TOPIC REVIEW
+Records are described as maintained under strict confidentiality with no specific numeric retention timeline stated. No mention of information technology systems, electronic monitoring/surveillance, HIPAA, transportation eligibility, food-service/free-reduced-price eligibility, copyright, or any automated decision system, algorithm, artificial intelligence, machine learning, scoring, or predictive tool.
+
+
+===== POLICY EEAEC — Student Conduct on School Buses =====
+
+CORE PRINCIPLE
+Bus ridership constitutes a privilege, not a right, requiring student adherence to the Student Code of Conduct, District policies, and established regulations governing bus stops and bus services.
+
+STUDENT OBLIGATIONS
+Students must comply with the District's Student Code of Conduct and with bus operator directions at all times relating to school bus use.
+
+OPERATOR RESPONSIBILITIES
+The bus operator bears responsibility for student safety during boarding, riding, and exiting the vehicle.
+
+SUSPENSION AUTHORITY
+The Transportation Department or a school administrator may suspend a student's bus-riding privilege in accordance with the District's accompanying regulations (see EEAEC-R) and upon direct authorization of the director of transportation or an authorized designee.
+
+SUPERVISION RESPONSIBILITIES
+Principals and site managers are responsible for supervising students waiting for buses at schools, while parents/guardians are responsible for supervising students at bus stops away from school; both groups are expected to collaborate to address student conduct issues.
+
+CROSS-REFERENCES
+Related Policies: ADG (Animals in District Facilities and Vehicles); JIC (Student Conduct, and subcodes); JK (Student Discipline, and subcodes).
+
+FLAGGED-TOPIC REVIEW
+This policy contains no mention of information technology systems, records retention timelines, electronic monitoring or surveillance, HIPAA, transportation eligibility, food-service/free-reduced-price eligibility, copyright, or any automated decision system, algorithm, artificial intelligence, machine learning, scoring, or predictive tool.
+
+
+===== POLICY EEAEC-R — Student Conduct on School Buses =====
+
+REGULATORY SCOPE
+This regulation governs students riding Poudre School District buses; students are responsible for knowing and following all applicable rules.
+
+AT THE BUS STOP
+Students must arrive no later than five minutes before the scheduled bus arrival time. As the bus approaches, students must remain out of the roadway, staying on sidewalks, road shoulders, or other safe locations. Students and their parents/guardians/caregivers bear responsibility for any damage to personal or public property occurring at bus stops.
+
+ON THE BUS
+Students must cooperate with bus operators and follow directions immediately upon first instruction. Students must remain seated, face forward with feet positioned in front of them, and display courtesy and respect toward other passengers. Noise levels must be kept low; screaming and loud distractions are prohibited; students must be silent at railroad crossings.
+
+DISCIPLINARY PROCEDURES FOR CONDUCT VIOLATIONS
+Discipline for bus-conduct violations is cumulative and progressive. The Transportation Department and school administrators may suspend riding privileges at any time depending on the severity and nature of the infraction. The progressive steps are: (1) Verbal Warning — the bus operator provides a verbal warning, and all counseling is documented; (2) Written Warning — if conduct continues, the Transportation Department issues a written warning to the parent/guardian/caregiver, with notification to the school administrator; (3) Short-Term Suspension — at the discretion of the Transportation Department and school administrator, a student may be suspended from riding privileges for one to five days for continued prohibited conduct, with parents/guardians/caregivers receiving advance notice; and (4) Extended Suspension — students who fail to respond to the above discipline steps face extended suspension periods, the length of which is determined jointly by the Transportation Department and school administrator. Student behavior at bus stops and on buses is also subject to the District Code of Conduct; violations may result in discipline beyond loss of bus privileges, including suspension and/or expulsion from school.
+
+BUS TRANSPORTATION AFTER SCHOOL DISMISSAL
+Buses follow annual routing schedules set by the transportation director and depart no earlier than five minutes after the final dismissal bell. Students must provide approved District identification when entering and exiting buses. Buses do not return to school for students who arrive late to loading zones.
+
+STUDENT ASSIGNMENT TO BUS STOPS
+Eligible students who apply and receive approval are assigned to specific bus stops by the Transportation Department; students must be picked up and dropped off at their assigned stops. Students requesting guest transportation or a stop other than their assigned stop must submit a note from a parent/guardian/caregiver to the school office; such requests are honored only if compliant with policy, the Student Code of Conduct, and bus capacity constraints. Principals or their designees issue official bus passes, and bus operators accept only official passes issued by the school office or the Transportation Department — not parent notes directly.
+
+UNSAFE ITEMS
+Items brought on buses are subject to review by the bus operator for safety, and the operator may refuse transportation of any item determined unsafe. Prohibited items explicitly listed include: firearms, explosives, flammables, knives or other sharp instruments, weapons, scooters, skateboards, longboards, animals (except as required by law and Policy ADG), glass containers or other items that can break or shatter, tobacco products, vape pens, alcohol, unauthorized drugs (as defined in Policy JICH), coolers over eight quarts in size, laser pointers, and any other items — including large instruments and/or projects — that cannot be held on the student's lap or stored in a sports bag or backpack.
+
+SEVERE WEATHER
+Students should expect and dress for potential bus service delays during severe weather.
+
+CROSS-REFERENCES
+Related Policies: ADG (animal transportation exceptions); JICH (unauthorized drug definitions); the District Code of Conduct; and applicable Colorado Department of Education (CDE) regulations.
+
+REVISION HISTORY
+Codified 1994; approved May 22, 1995; revised August 14, 1995; February 9, 1998; August 15, 1998; August 23, 1999; October 11, 2004; April 23, 2007 (effective July 1, 2007); June 11, 2013 (effective July 1, 2013); and May 27, 2025 (effective July 1, 2025).
+
+FLAGGED-TOPIC REVIEW
+This regulation contains no mention of information technology systems, records retention timelines, electronic monitoring or surveillance, HIPAA, transportation eligibility criteria (eligibility itself is governed by Policy EEAA; this regulation governs only conduct and assigned-stop logistics for already-eligible/assigned students), food-service/free-reduced-price eligibility, copyright, or any automated decision system, algorithm, artificial intelligence, machine learning, scoring, or predictive tool.
+
+===== POLICY EEAF — Use of Buses by Non-Student Groups =====
+
+PURPOSE AND GENERAL POLICY
+The Board establishes that district vehicles should serve primarily district purposes, and the district will not acquire new vehicles or hire additional personnel for the purpose of transporting non-students or non-employees. Existing buses may nonetheless be made available to non-student groups of at least five persons, with special consideration given to groups comprised of a majority of persons 65 years of age or older. Buses may also assist governmental agencies for emergency or overflow transportation needs. In all cases, non-student use may not impair or interfere with student transportation. Groups and agencies using buses shall be billed for direct and indirect costs of such use, and only authorized district employees may operate the buses.
+
+PROGRAM ADMINISTRATION RESPONSIBILITY
+The director of transportation is responsible for approving and scheduling the availability of district buses for non-student use.
+
+SCHEDULING
+The director of transportation determines when buses are available for non-student use. Non-student use may not be combined with, or allowed to interfere with: (1) student transportation to, from, or between schools; (2) student transportation for school activities and functions; (3) emergency student transportation; (4) bus maintenance and service time; and (5) standby bus availability required for student purposes.
+
+LIMITATIONS ON USE — PROHIBITED ACTIVITIES
+Buses shall not be used for activities that advocate social or political change through violence; advocate doctrines subversive to the United States Constitution, the Colorado Constitution, or applicable federal, state, or local law; organize secret subversive organizations; assist fundraising for any of the foregoing prohibited purposes; violate district policy or any law; conflict with district programs; or jeopardize the safety, security, supervision, or property of the district.
+
+LIMITATIONS ON USE — NON-DISCRIMINATION
+Users shall not unlawfully discriminate on the basis of race, color, religion, or other protected characteristics, and groups requesting bus use must be open to participation by all lawfully eligible persons.
+
+LIMITATIONS ON USE — GROUP SIZE AND AGE CONSIDERATION
+Groups of fewer than five persons are not approved for non-student bus use. Special consideration is given to applications from groups comprised of a majority of persons age 65 or older.
+
+LIMITATIONS ON USE — GEOGRAPHIC, EQUIPMENT, AND FUEL RESTRICTIONS
+Out-of-state travel is not permitted. Buses may not be used on roads that would cause undue wear or damage to the vehicle or that require equipment inappropriate for the bus. Use will be denied if the fuel consumption required would adversely affect the district's own fuel availability.
+
+LIMITATIONS ON USE — HOLIDAY RESTRICTIONS
+District buses shall not be available for use by non-student groups on days designated as official paid holidays for district employees (e.g., Memorial Day, Fourth of July, Labor Day, Thanksgiving, Christmas, etc.) or on the weekends immediately preceding or following such paid holidays. A non-use calendar reflecting these blackout dates is published annually by the Customer Support Center.
+
+LIMITATIONS ON USE — CANCELLATION
+Use is subject to cancellation by the district in the event of adverse road, weather, or other conditions. Advance payments made by the group are refunded upon such cancellation.
+
+APPLICATION FOR USE — TIMELINE
+Applications for non-student bus use must be submitted to the Transportation Department at least 30 calendar days prior to the requested date of use.
+
+APPLICATION FOR USE — AGREEMENT EXECUTION
+A district "Bus Rental Agreement" must be executed by an authorized representative of the requesting group at least ten (10) days prior to the scheduled trip.
+
+APPLICATION FOR USE — PAYMENT RESPONSIBILITY
+A representative of the requesting group assumes personal responsibility for all fees associated with the use. Groups must agree to remit all relevant fees, and advance payment may be required by the district. The total amount charged is adjusted based on the actual hours and miles of use.
+
+APPLICATION FOR USE — ADDITIONAL COSTS
+Incidental costs, including but not limited to alternative transportation in the event of a breakdown, and feeding and housing of users or other related costs, are the responsibility of the group using the bus. Groups also bear the cost of repairs or cleaning required beyond ordinary wear from use.
+
+APPLICATION FOR USE — SUPERVISORY PERSONNEL
+The director of transportation may require district supervisory personnel to accompany a group during use of the bus.
+
+APPLICATION FOR USE — FEE DETERMINATION
+Fees for non-student use are determined, consistent with the terms of this policy, by the district's director of transportation in consultation with the district's executive director of finance. Fee schedules are reviewed and adjusted periodically and made available through the Transportation Department.
+
+APPLICATION FOR USE — INSURANCE FOR NON-RESIDENT GROUPS
+Where a group is comprised of a majority of nonresidents, the group is required to provide a certificate of insurance naming the district as an additional insured. The risk manager determines the required coverage limits and conditions, which are periodically reviewed and adjusted.
+
+GUIDELINES FOR APPEAL
+A group whose application is denied by the director of transportation may file a written appeal to the superintendent. The decision of the superintendent is final.
+
+DOCUMENT HISTORY
+Adopted April 1972; revised January 1977, August 1979, May 1982, May 1988, April 1994, August 14, 1995, and November 11, 1996; reviewed October 13, 1997; revised April 22, 2008 and January 12, 2016.
+
+LEGAL REFERENCE
+C.R.S. 22-32-128.
+
+FLAGGED-ITEM REVIEW
+No mention was found in this policy of information technology systems, records retention timelines, electronic monitoring or surveillance, HIPAA, transportation eligibility criteria (beyond the group-use rules described above), food-service or free/reduced-price eligibility, copyright, or any automated decision system, algorithm, artificial intelligence, machine learning, scoring, or predictive tool.
+
+
+===== POLICY EEAG — Student Transportation in Private Vehicles =====
+
+SCOPE AND APPLICABILITY
+This policy governs the transportation of students in private vehicles to and/or from field trips and other activities away from school, as defined in district policy IJOA. The policy explicitly does not apply to: (1) a parent or guardian who transports only that parent's or guardian's own children, or (2) a student who transports only himself or herself with no other passengers.
+
+GENERAL RULES — PERMISSION REQUIREMENT
+A district permission form must be signed by the parent or guardian of a student before that student may be transported in a private vehicle to and/or from a field trip or activity.
+
+GENERAL RULES — DRIVER AUTHORIZATION
+A driver must complete a district application form, satisfy all provisions set out under the Approved Drivers section of this policy, and receive written authorization from the school principal or the principal's designee before transporting students.
+
+GENERAL RULES — VEHICLE REQUIREMENTS
+Any private vehicle used to transport students must satisfy all provisions set out under the Approved Vehicles section of this policy.
+
+GENERAL RULES — COMPLIANCE AND DISCIPLINE
+A driver who fails to comply with this policy may be prohibited from transporting students. A district employee driver who violates this policy is subject to discipline up to and including termination. A district student driver who violates this policy is subject to discipline under the Student Code of Conduct.
+
+APPROVED DRIVERS — ELIGIBLE CATEGORIES
+Approved drivers must be (a) district employees, (b) district students, or (c) authorized volunteers who are qualified and registered as provided under district policy KJ.
+
+APPROVED DRIVERS — LICENSE REQUIREMENT
+A driver must hold a valid, current driver's license that permits transport of students and operation of the specific approved vehicle being used.
+
+APPROVED DRIVERS — INSURANCE
+A driver must carry automobile insurance with coverage for operation of the approved vehicle as required under Colorado law.
+
+APPROVED DRIVERS — PHYSICAL AND MENTAL FITNESS
+A driver may not have physical or mental impairments that would prevent safe operation of the vehicle or compliance with applicable laws.
+
+APPROVED DRIVERS — SAFETY COMPLIANCE
+Drivers must require all passengers to wear seatbelts or other restraints as required by law at all times, and must operate the approved vehicle in accordance with governing laws.
+
+APPROVED DRIVERS — MOTOR VEHICLE REPORT AND DRIVING RECORD
+Approved drivers must provide a motor vehicle report upon request from the risk manager and must maintain a driving record that meets standards established by the risk manager.
+
+APPROVED VEHICLES — CAPACITY
+An approved vehicle may have a seating capacity of no more than ten (10) passengers, including the driver.
+
+APPROVED VEHICLES — CONDITION
+An approved vehicle must be in safe and reliable working condition and must be maintained in compliance with applicable laws.
+
+DOCUMENT HISTORY
+Adopted April 1972; revised June 1982, August 1982, June 1988, April 1994, March 25, 1996, and October 13, 1997; revised by the superintendent November 30, 2015.
+
+LEGAL AND CROSS REFERENCES
+Legal references: C.R.S. 22-32-113 and 22-32-114. Cross references: policy GBEC (Employee Drug/Alcohol Use); policy IJOA (Field Trips); policies JKDA/JKEA (Suspension/Expulsion); policy KJ (Volunteers).
+
+FLAGGED-ITEM REVIEW
+No mention was found of information technology systems, records retention timelines, electronic monitoring or surveillance, HIPAA, food-service or free/reduced-price eligibility, copyright, or any automated decision system, algorithm, artificial intelligence, machine learning, scoring, or predictive tool. The policy's only "eligibility" content concerns driver and vehicle approval criteria as described above, not a public-benefit determination.
+
+
+===== POLICY EF — Food Services =====
+
+POLICY OVERVIEW
+The district operates a food service program, supervised by a director of food service, that utilizes National School Lunch Program resources to provide free and reduced-price meals and to promote balanced student nutrition.
+
+PROGRAM OBJECTIVES — NUTRITIONAL STANDARDS
+The food service program shall provide a school lunch program that meets the nutritional needs of all students in grades preschool through 12.
+
+PROGRAM OBJECTIVES — FOOD SAFETY AND QUALITY
+Food shall be prepared and maintained in such a way as to protect its maximum nutritive value and safeguard it against contamination.
+
+PROGRAM OBJECTIVES — SERVICE ENVIRONMENT
+The program shall serve breakfast and lunch for all students in a friendly, healthy, and physically adequate environment.
+
+PROGRAM OBJECTIVES — RESOURCE ALLOCATION
+Program-accrued funds shall be used for improving the quality of meals and for purchasing and maintaining supplies, services, and equipment.
+
+OPERATIONAL RESPONSIBILITIES — DIRECTOR AND PRINCIPAL COORDINATION
+The director of food service cooperates with building principals to ensure the food service program functions properly at each school.
+
+OPERATIONAL RESPONSIBILITIES — CAFETERIA SUPERVISION
+Principals are responsible for providing student supervision in school cafeterias.
+
+OPERATIONAL RESPONSIBILITIES — PERSONNEL ACCESS
+Only district food service workers and authorized student helpers are permitted behind the serving counter during lunch periods.
+
+OPERATIONAL RESPONSIBILITIES — PERSONAL USE PROHIBITION
+No food shall be taken from the kitchen or cafeteria for personal use.
+
+LEGAL REFERENCE
+C.R.S. 22-32-120.
+
+FLAGGED-ITEM REVIEW
+No mention was found in this policy of information technology systems, records retention timelines, electronic monitoring or surveillance, HIPAA, transportation eligibility, copyright, or any automated decision system, algorithm, artificial intelligence, machine learning, scoring, or predictive tool. This policy references free and reduced-price meals only in general terms; the detailed eligibility/determination procedure is set out in companion policy EFC below.
+
+
+===== POLICY EFC — Free and Reduced Price Food Services =====
+
+POLICY OVERVIEW
+This policy establishes the district's procedures for determining student eligibility for free and reduced-price meals under federal school nutrition programs, and governs the administration of that public-benefit determination.
+
+ELIGIBILITY DETERMINATION — ANNUAL REVIEW
+Student eligibility for free or reduced-price meals is determined annually by the director of food service or the director's designee. Eligibility determinations must be renewed each school year through this annual review process.
+
+ELIGIBILITY DETERMINATION — INCOME STANDARD
+The district must abide by the current income poverty guidelines issued by the U.S. Office of Management and Budget, as adjusted by the Secretary of the U.S. Department of Agriculture, in determining whether a household's income qualifies a student for free or reduced-price meals. (The policy incorporates the federal guideline figures by reference rather than restating specific dollar thresholds, which are updated annually by USDA.)
+
+APPLICATION AND NOTICE
+Free and reduced-price eligibility application forms, together with program requirements, must be provided annually to parents or guardians so that households may apply for a determination of eligibility.
+
+VERIFICATION
+Eligibility determinations are made against the income application submitted by the household under the applicable USDA/OMB income standards described above; the director of food service or designee is responsible for administering this determination process each year.
+
+APPEALS PROCEDURE
+A parent or guardian who disagrees with an eligibility determination has a two-level appeal available: (1) an initial appeal to the director of food service; and (2) if unresolved, a further appeal to the executive director of operations, conducted through a hearing process in accordance with the procedures described in Section 9 of the National School Lunch Act, as amended.
+
+NON-DISCRIMINATION PROTECTIONS
+The policy explicitly prohibits any practice that would stigmatize students who are determined eligible for free or reduced-price meals, including through separate cafeteria sections, separate serving lines, separate entrances, distinct methods of exchanging meal tickets/payment, or different lunch-period timing for eligible students as compared to other students.
+
+CONFIDENTIALITY
+Names of students receiving free or reduced-price meals shall be maintained as confidential records and shall not be used by the district for any purpose other than administration of the meal program, unless use or disclosure is otherwise authorized by law.
+
+FLAGGED-ITEM REVIEW
+No mention was found in this policy of information technology systems, records retention timelines beyond the annual eligibility-renewal cycle described above, electronic monitoring or surveillance, HIPAA, transportation eligibility, copyright, or any automated decision system, algorithm, artificial intelligence, machine learning, scoring, or predictive tool. Note: this is a public-benefit (food-service) eligibility determination policy; the eligibility criteria (annual USDA/OMB income-guideline standard), application/notice process, and two-level appeals procedure are captured in full above as priority content.
+
+
+===== POLICY EGAD — Copyright Compliance =====
+
+DOCUMENT STATUS
+Two-page policy, adopted March 1986, revised May 1988 and November 27, 1995.
+
+CORE OBLIGATIONS — DISTRICT COMPLIANCE REQUIREMENT
+The district shall comply with the 1976 copyright law (Title 17, U.S. Code), and with all guidelines and additions thereto.
+
+CORE OBLIGATIONS — EMPLOYEE RESPONSIBILITY
+All district employees are expected to adhere to the provisions of the law, rules, and regulations governing copyrighted materials, across all formats including print, software, audiovisual materials, music, and electronic data.
+
+AUTHORIZED USES — ARCHIVAL COPYING
+Under Public Law 96-517, owners of computer programs may make copies for archival/backup purposes only.
+
+AUTHORIZED USES — EDUCATIONAL OFF-AIR TAPING
+Educational off-air taping is governed by guidelines established by Congressman Robert Kastenmeier (published in the Congressional Record, October 1981).
+
+LIABILITY AND ENFORCEMENT — EMPLOYEE LIABILITY
+School employees who violate the copyright law or these regulations are liable for their own actions; the district will not extend legal or insurance protection to an employee found to have committed a copyright violation.
+
+LIABILITY AND ENFORCEMENT — IMPLEMENTATION RESPONSIBILITY
+Building principals and district-level program directors are responsible for establishing enforcement practices consistent with the district's "Copyright: Guidelines for Use of Copyrighted Materials."
+
+REQUIRED NOTICES — AT PHOTOCOPY MACHINES
+A required notice must be posted stating: "The copyright law of the United States (Title 17 U.S. Code) governs the making of photocopies or other reproductions of copyrighted material."
+
+REQUIRED NOTICES — AT MEDIA/EQUIPMENT CENTERS
+A required notice must be posted stating: "The copyright law of the United States (Title 17 U.S. Code) governs the making of reproductions of copyrighted material."
+
+FLAGGED-ITEM REVIEW
+No mention was found in this policy of information technology systems (beyond the general reference to "electronic data" as a covered material format), records retention timelines, electronic monitoring or surveillance, HIPAA, transportation eligibility, food-service or free/reduced-price eligibility, or any automated decision system, algorithm, artificial intelligence, machine learning, scoring, or predictive tool.
+
+===== POLICY EHA — District Information Technology =====
+
+DEFINITIONS
+"District information technology" includes District computers, personal communication devices ("PCDs"), e-mail, and Internet access. "Computer" encompasses all District computer systems, networks, hardware, peripherals, and software. "PCD" includes "all District cell phones, smart phones, tablets, cameras, audio/video recorders" and similar District-owned equipment.
+
+ADMINISTRATIVE RESPONSIBILITY
+The executive director of information technology administers this policy and is authorized to establish supporting guidelines and procedures as needed to implement it.
+
+EMPLOYEE, VOLUNTEER AND STUDENT USE OF DISTRICT INFORMATION TECHNOLOGY
+"Each time an employee, school volunteer or student uses a District computer or network, they shall be required to acknowledge the terms and conditions governing their use of District information technology as specified in Policies GBEE and JS." The superintendent and the executive director of information technology determine which devices employees and volunteers may use. Supervisory personnel approve the level of account access granted to their staff. Volunteer use of District technology is limited to work necessary to carry out assigned volunteer services.
+
+MONITORING AND BANDWIDTH MANAGEMENT
+Technology support staff monitor usage of District information technology to help ensure it is being used for work-related or education-related purposes consistent with Policies GBEE and JS, and to confirm that "network bandwidth usage and e-mail and file storage on District computers and PCDs is not excessive." The IT department is authorized to "set and revise network bandwidth usage and e-mail and file storage limits" as it determines necessary.
+
+RETENTION, CONFIDENTIALITY, INSPECTION AND MANAGEMENT OF ELECTRONIC RECORDS
+"District records in electronic form shall be retained in accordance with the retention requirements specified in District Policy EHB" (cross-reference to the District's Records Retention policy). Student e-mail is purged annually (at fiscal year-end) unless applicable law, District policy, or District operational needs require otherwise. In order to help ensure confidentiality of student and personnel information and to protect against identity theft, "the executive director of information technology shall establish rules governing the types of student, employee and volunteer information that may not be downloaded onto District computers, PCDs and other portable technology, third-party servers and cloud-based resources."
+
+DISTRICT, SCHOOL AND PROGRAM WEBSITES
+The executive director of communications oversees District-level (non-school) websites; building principals oversee their individual school websites. "All website content is the property of Poudre School District R-1." All website content — including written material, pictures, audio, and video — must comply with governing law and with District policies, regulations, vision, and mission. The superintendent retains ultimate authority over website content, and technology support personnel have full access to revise or remove content as needed.
+
+INTERNET
+"Technology protection measures that block or filter Internet material that is obscene, child pornography or otherwise harmful to minors, as provided by law, shall be utilized on all District computers and PCDs through which students may gain Internet access." Filtering may be temporarily disabled for legitimate research or other lawful purposes if approved by the superintendent, an assistant superintendent, the curriculum director, or a school principal; for students, disabling requires supervision by a licensed administrator or teacher. Disabling is not permitted where the executive director of information technology determines it would create an "unacceptable risk of malware compromising the District's system."
+
+ACQUISITION, DEVELOPMENT AND MAINTENANCE OF DISTRICT INFORMATION TECHNOLOGY
+"The acquisition, development and contracted use of District information technology shall be approved in advance by the executive director of information technology in all cases where it needs to be integrated or compatible with existing District information technology." Advance approval is "strongly encouraged" for other technology acquisitions even where integration is not required. Technology acquired without required approval may not receive IT service or support from the District.
+
+AUTOMATED / AI TOOLS — NONE FOUND
+FLAG: Targeted review of the full text found NO language referencing artificial intelligence, generative AI, machine learning, algorithms, algorithmic tools, automated decision-making, predictive analytics, or similar automated/smart-technology tools anywhere in EHA. The only automated/technical control mechanisms described are (a) content-filtering/blocking "technology protection measures" for obscene material and child pornography under the INTERNET section, and (b) bandwidth/storage usage limits and monitoring under the employee/volunteer/student use section — neither is described as AI-based, algorithmic, or predictive.
+
+LEGAL REFERENCES AND CROSS-REFERENCES
+Cross-referenced District policies include GBEE, JS, and EHB (records retention).
+
+ADOPTION HISTORY
+Adopted: January 27, 1997. Revised: March 1, 2010; October 31, 2011; March 2, 2015.
+
+
+===== POLICY EHB — Records Retention =====
+
+PURPOSE AND GENERAL RETENTION STANDARD
+"All District records except audio and video recordings, regardless of their location, shall be retained for the periods specified in the Colorado School District Records Management Manual prepared by the Colorado State Archives, as may be amended from time to time, unless a longer retention period is specified in state or federal law." This means the substantive category-by-category retention schedule for the great majority of District records (student records, personnel/employment records, financial and payroll records, contracts, correspondence, IT/network logs, minutes, etc.) is incorporated by reference to the external Colorado School District Records Management Manual rather than reproduced as a table inside the EHB policy text itself; where state or federal law prescribes a longer period than the Manual for a given record type, the longer period controls.
+
+RETENTION SCHEDULE — AUDIO AND VIDEO RECORDINGS (EXPRESS EXCEPTION TO THE GENERAL STANDARD)
+Audio and/or video recordings of Board of Education meetings: retained for one (1) year.
+Audio and/or video recordings of executive sessions (of the Board): retained for only ninety (90) days.
+Audio and/or video recordings of hearings concerning employment matters and student matters: retained "until the time for appeal has expired or until all appeals have been exhausted."
+All other audio and/or video recordings: retained "until no longer needed."
+
+RECORDS CENTER AND ADMINISTRATIVE STRUCTURE
+"The District Records Center shall be the central repository and storage facility for all records the District is required to maintain but which are no longer needed at the District's schools and other sites." A records manager maintains a current copy of the Colorado School District Records Management Manual and assists District schools and other sites in complying with the Manual's retention requirements. The director of records and risk management is responsible for developing and enforcing procedures for the proper handling, storage, and destruction of records received at the Records Center.
+
+LITIGATION HOLD
+"Whenever the District is a party in litigation or reasonably anticipates being a party in litigation, every Board member and employee in possession of hard copy or electronic documents, e-mails and/or other records relevant to the litigation or reasonably anticipated litigation shall retain all such documents, e-mails and other records until otherwise directed by the District's director of records and risk management, legal and policy counsel, or outside legal counsel." This litigation-hold obligation overrides normal retention/destruction schedules (including the Manual-based schedule and the audio/video periods above) for any implicated records until released by one of the named authorities.
+
+CROSS-REFERENCE
+EHA (District Information Technology) cross-references EHB as the controlling authority for retention of District electronic records, stating that "District records in electronic form shall be retained in accordance with the retention requirements specified in District Policy EHB."
+
+ADOPTION HISTORY
+Adopted: January 27, 1997. Revised: June 11, 2007.
+
+
+===== POLICY EID — Compliance with HIPAA =====
+
+POLICY STATEMENT
+"EID - COMPLIANCE WITH THE HEALTH INSURANCE PORTABILITY AND ACCOUNTABILITY ACT." The Board of Education directs the Superintendent, or the Superintendent's designee, to take steps to ensure District compliance with the Health Insurance Portability and Accountability Act of 1996 ("HIPAA").
+
+PRIVACY OFFICIAL DESIGNATION AND DUTIES
+The Superintendent must designate a privacy official to monitor the District's HIPAA compliance activities. The privacy official's duties include conducting periodic audits of District records and reviewing HIPAA regulations and regulatory revisions to determine their applicability to District operations. The privacy official also determines when adoption or revision of administrative policies and procedures — and their implementation — is appropriate to maintain compliance.
+
+IMPLEMENTATION ACTIVITIES
+Compliance implementation, as directed through the privacy official, encompasses: record-keeping procedures; preparation of necessary compliance documents; employee training; and "all other activities necessary to ensure compliance" with HIPAA.
+
+SCOPE LIMITATIONS OF THIS POLICY TEXT
+FLAG (for corpus completeness): The EID policy document itself is a short, high-level Board policy. It does not itself enumerate which specific District programs, departments, or data sets are treated as HIPAA-covered; it does not itself specify technical/administrative/physical safeguards, use-and-disclosure limits, patient/student rights (access, amendment, accounting of disclosures), breach-notification procedures or timelines, or electronic health record (EHR) system requirements. Per the policy's own terms, those operational details are delegated to the privacy official to develop via "administrative policies and procedures" that are adopted/revised outside of this Board policy text. No automated, algorithmic, or AI-related processing of health data is mentioned anywhere in this document.
+
+LEGAL REFERENCES
+P.L. 104-191 (1996) [HIPAA]; 42 U.S.C. 1320d - 1320d-8; 65 Fed. Reg. 50312-50372; 65 Fed. Reg. 82462-82829; 63 Fed. Reg. 43242-43280; 67 Fed. Reg. 53182-53273.
+
+CROSS-REFERENCE
+GBCD (Fringe Benefits).
+
+ADOPTION HISTORY
+Adopted: June 9, 2003. Revised: November 29, 2004.

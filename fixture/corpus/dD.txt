@@ -1,0 +1,513 @@
+===== POLICY DB — Annual Budget =====
+
+Adopted May 22, 1995; revised August 11, 1997.
+
+PURPOSE
+The annual budget serves as the financial plan for school system operations, establishing the framework for both expenditures and revenues for the year.
+
+REGULATORY FRAMEWORK
+Public school budgeting is governed by state statutes and State Board of Education requirements regarding district budget forms, maintained to ensure statewide uniformity.
+
+PRESENTATION REQUIREMENTS
+Budgets must be presented in a summary format understandable by any lay person reviewing the District's budget. The format shall itemize expenditures by fund and by student, describing expenditures with amounts for both the current and ensuing fiscal years. Budgets must disclose planned compliance with Colorado Constitution article X, section 20 (TABOR).
+
+LEADERSHIP RESPONSIBILITY
+The Board assigns the superintendent overall responsibility for budget preparation, presentation, and administration, with authority to delegate tasks to the budget manager.
+
+SUFFICIENCY STANDARD
+The adopted budget should be adequate to implement all Board-approved programs and policies.
+
+LEGAL REFERENCES
+C.R.S. 22-44-101 through 22-44-117; C.R.S. 29-1-103(3) (lease-purchase payment obligations).
+
+CROSS REFERENCES
+DB subcodes (budget-related policies); State Board of Education Financial Policies and Procedures Handbook.
+
+No mention of automated decision systems, algorithms, AI, machine learning, scoring, predictive tools, or software/technology vendor terms was found in this policy.
+
+===== POLICY DBAA — General Fund Balances =====
+
+Adopted March 26, 2013; revised June 10, 2014.
+
+POLICY OBJECTIVE
+The district aims to maintain appropriate fund balances within the General Fund to maximize resources while complying with governing law, mitigating financial risk, and ensuring financial stability.
+
+FUND BALANCE CATEGORIES (GASB STATEMENT NO. 54)
+Nonspendable: amounts unable to be spent due to form or legal requirements (e.g., inventories, endowment principal).
+Restricted: amounts spent only for specific purposes stipulated by the constitution or external resource providers.
+Committed: amounts designated by formal Board action prior to fiscal year end (June 30); actual amounts may be determined later.
+Assigned: amounts intended to be used by the District for specific purposes without meeting restricted/committed criteria; the superintendent or designee may assign funds.
+Unassigned: the residual fund category comprising all spendable amounts not in other categories; may be used for any legal purpose.
+
+FUND BALANCE USAGE PRIORITY
+Restricted funds are spent first when applicable. Among unrestricted categories, committed funds are used before assigned, and assigned before unassigned. Within unassigned balances, reserves precede contingency reserves.
+
+RESERVE REQUIREMENTS
+The district shall strive to maintain a reserve amount between 3% and 5% of each fiscal year's expenditures. If reserves fall below 3%, shortages must be replenished within one year (for shortfalls of 0-1%) or two years (for shortfalls of 1-3%) through expenditure cuts or revenue increases. Excess reserves exceeding 5% may fund nonrecurring expenditures that require no future maintenance costs.
+
+IMPLEMENTATION AND REVIEW
+The Financial Services Department develops implementation guidelines and conducts annual policy reviews with recommendations to the Board.
+
+LEGAL REFERENCES
+C.R.S. 22-44-101 to -304.
+
+CROSS REFERENCES
+DB (Annual Budget); DBG (Budget Adoption).
+
+No mention of automated decision systems, algorithms, AI, machine learning, scoring, predictive tools, or software/technology vendor terms was found in this policy.
+
+===== POLICY DDA — Federal Procurement and Fiscal Requirements =====
+
+Adopted September 11, 2017; revised December 8, 2020; revised May 13, 2025 (effective July 1, 2025).
+
+SCOPE
+This policy governs purchases of services, supplies, equipment, and property using federal funds, and District employees compensated with federal funds. It applies to transactions subject to the Uniform Grant Guidance (UGG), EDGAR, and USDA regulations for school food service programs.
+
+KEY PROCUREMENT THRESHOLDS
+Micro-purchases: under $10,000.
+Small purchases: $10,000 to $100,000.
+Large purchases: $100,000 or more.
+
+CONFLICT OF INTEREST STANDARDS
+Board members and employees may not participate in selecting, awarding, or administering federally funded contracts when they have a real or apparent conflict of interest. A conflict arises when the individual, an immediate family member, a partner, or their employer has a financial or other interest in, or a tangible personal benefit from, the contracting entity.
+
+PROHIBITED CONDUCT
+Covered individuals may not solicit or accept gratuities, favors, or anything of monetary value from contractors, except unsolicited items of nominal value consistent with state law standards.
+
+RECORD RETENTION
+The District must maintain procurement records including the rationale for the method of procurement, the basis for contractor selection or rejection, and the basis for the contract price.
+
+TECHNOLOGY / AUTOMATED SYSTEMS
+This policy contains no mention of automated decision systems, algorithms, AI, machine learning, or predictive technologies.
+
+===== POLICY DEBA — Incentive Payments to Taxpayers =====
+
+Adopted August 1994; reviewed August 11, 1997.
+
+POLICY OVERVIEW
+The Board of Education possesses statutory authority to negotiate incentive payments with taxpayers establishing new business facilities or expanding existing ones within school district boundaries.
+
+CASE-BY-CASE CONSIDERATION
+The Board shall evaluate tax incentive agreements or credits individually, limited to new or expanded business facilities as defined by state law.
+
+FUNDING PROTECTION
+Any negotiated incentive arrangement shall not have a negative impact on existing funding for the district.
+
+AGREEMENT DURATION
+Incentive agreements cannot exceed a four-year term.
+
+ADMINISTRATIVE GUIDANCE
+Accompanying regulations (DEBA-R) provide direction for district administration and taxpayers seeking incentive negotiations.
+
+LEGAL REFERENCES
+C.R.S. 22-32-110(1)(ff) and (gg); C.R.S. 30-11-123(5); C.R.S. 31-15-903(4); C.R.S. 39-22-508.2(2)(a), (3).
+
+TECHNOLOGY / AUTOMATED SYSTEMS
+No mention of automated decision systems, algorithms, AI, machine learning, or software vendor terms appears in this policy.
+
+===== POLICY DEBA-R — Incentive Payments to Taxpayers (Regulation) =====
+
+Adopted August 1994; reviewed December 1997.
+
+FISCAL IMPACT ANALYSIS REQUIREMENT
+The superintendent or designee and administration must conduct a fiscal impact analysis prior to negotiating with any taxpayer establishing a new facility or expanding an existing one, to determine how incentive payments or credits will affect the district.
+
+NOTIFICATION REQUIREMENT
+Poudre School District will notify Larimer County and the City of Fort Collins of its intent to enter into negotiations with taxpayers establishing or expanding facilities.
+
+DETERMINATION OF QUALIFICATION
+The superintendent or designee must determine that the taxpayer has established a new business facility or expanded an existing facility meeting state law definitions. The superintendent may rely on city and county agreements but retains authority to require independent documentation to verify statutory compliance.
+
+NEGOTIATION AUTHORITY
+The superintendent or designee may negotiate incentive payments, subject to Board approval.
+
+PAYMENT LIMITATION CAP
+No annual incentive payment shall exceed 50 percent of taxes levied on: (a) taxable personal property at the new facility used in operations for the current tax year, or (b) taxable personal property directly attributable to expansion within the expanded facility for the current tax year.
+
+STATE LAW COMPLIANCE
+Agreements require approval as mandated by state law.
+
+NOTIFICATION OF NEGOTIATIONS
+The superintendent or designee must inform Larimer County and the City of Fort Collins regarding all negotiations.
+
+No mention of automated decision systems, algorithms, AI, machine learning, scoring, predictive tools, or software/technology vendor terms was found in this policy.
+===== POLICY DFA-DFAA — Revenues from Investment/Use of Surplus Funds =====
+
+Adopted April 1972; revised April 1977, May 1982, April 1988, August 1994, May 22, 1995, August 11, 1997, October 14, 2002, June 28, 2004, February 28, 2012.
+
+SCOPE
+This policy applies to all Poudre School District financial assets and funds over which the District exercises control, as documented in the Comprehensive Annual Financial Report.
+
+INVESTMENT OBJECTIVES
+District funds not immediately needed shall be invested by Board-authorized individuals to accomplish four primary goals: (1) compliance with governing law and Board direction; (2) protection of financial assets; (3) maintaining liquidity for timely obligation payment; and (4) earning a competitive market rate of return from legally permitted investments while respecting risk constraints and cash flow needs.
+
+INVESTMENT PRINCIPLES
+Diversification: investments must be sufficiently diverse to protect against the risk of loss from over-concentration in specific maturities, issues, classes, or institutions.
+Liquidity: investments must remain sufficiently liquid to allow continuity of the District's fiscal operations without emergency borrowing. The controller shall maintain updated cash-flow projections.
+Pooling: all unrestricted moneys may be pooled into a single investment account with separate accounting. Income distribution follows governing law as determined by the executive director of finance or Board direction.
+
+AUTHORITY AND RESPONSIBILITIES
+Executive Director of Finance: holds overall responsibility for District investment decisions and transactions, including wire and electronic fund transfers. This individual also serves as Board Treasurer and shall consult independent investment advisors as needed.
+Authorized Personnel: beyond the executive director of finance, the following employees may make investment decisions and conduct transactions: controller; primary accountant (designated in writing by executive director); backup accountant (designated in writing by executive director). Primary and backup accountants must be reported to the Board at the beginning of the fiscal year and whenever changed.
+Broker/Dealer Standards: authorized broker/dealers must maintain a minimum net capital of $10,000,000 and a ten-year history of services to governmental entities. The executive director and investment advisors maintain lists of eligible brokers with current financial statements.
+
+EMPLOYEE CONDUCT AND FIDUCIARY DUTIES
+Employees must operate under Colorado law's fiduciary standard, exercising the judgment and care under the circumstances then prevailing that persons of prudence, discretion and intelligence exercise in the management of the property of another.
+Prohibited Activities: employees shall avoid personal business activity conflicting with proper investment program execution or impairing impartial decision-making.
+Disclosure Requirements: employees must disclose to the executive director, superintendent, and Board any material financial interests in financial institutions conducting District business or under consideration, plus personal financial positions potentially affected by portfolio performance.
+Bonding and Insurance: investment decision-makers must be bonded, with District insurance against their misfeasance.
+Training: all authorized employees shall receive education and training necessary to ensure their proficiency as fiduciaries.
+
+INTERNAL CONTROLS
+The District maintains controls including: (1) written documentation of all transactions; (2) at least two authorized employees, as designated in this policy, signing off in advance on investments; and (3) periodic internal auditor review. The executive director shall ensure annual policy review with revisions submitted to the Board.
+
+REPORTING AND ACCOUNTABILITY
+Accounting Standards: investments follow generally accepted accounting principles (GAAP) and Governmental Accounting Standards Board standards, included in annual external audits.
+Monthly Reports: the controller prepares performance statements showing earnings and rate of return for each investment in the current month and for the term of each investment to date.
+Public Posting: annual audits and monthly reports are posted online and maintained in fiscal records.
+Board Notification: the Board receives investment, earnings, and rate-of-return updates on no less than a quarterly basis.
+
+LEGAL REFERENCES
+C.R.S. 11-10.5-101 et seq.; 11-47-101 et seq.; 11-60-101 et seq.; 15-1-304; 22-32-107; 22-40-105; 24-75-601 et seq.; 24-75-701 et seq.
+
+CROSS REFERENCES
+DG (Depository of Funds); DH (Bonded Employees and Officers); GBEA (Staff Ethics/Conflict of Interest).
+
+No automated decision systems, algorithms, AI, machine learning, or predictive tools are mentioned in this policy.
+
+===== POLICY DFDA — Free Admissions =====
+
+Adopted December 9, 1996; revised January 28, 2002.
+
+LIFETIME ACTIVITY PASS PROGRAM
+The Poudre School District establishes a lifetime activity pass program with the following eligibility categories.
+
+MANDATORY ELIGIBILITY
+Retired district employees meeting 20 years of continuous district employment; Board of Education members who have completed two terms in office; residents aged 65 and older (upon request).
+
+DISCRETIONARY ELIGIBILITY
+The Board retains authority to grant a lifetime pass to any person who has made a significant contribution to Poudre School District, at its discretion.
+
+The policy contains no mention of automated decision systems, algorithms, AI, machine learning, scoring mechanisms, predictive tools, or technology vendor terms. No dollar thresholds, specific procedures, deadlines, or cross-references to statutory law are included in this document.
+
+===== POLICY DGA-DGB — Authorized Signatures on District Checks =====
+
+Adopted April 1972; revised April 1977, December 1981, March 1988, May 22, 1995, April 8, 1996, October 14, 2002, June 28, 2004, August 23, 2016.
+
+CHECKS OF $5,000 OR MORE
+All checks for $5,000 or more shall require the written or facsimile signatures of the President, Secretary and Treasurer of the Board of Education.
+
+CHECKS UNDER $5,000
+Institutions may use either option: (1) signatures from all three board officers (President, Secretary, Treasurer), or (2) the Treasurer's signature plus countersignature from an authorized District employee.
+
+AUTHORIZATION PROCESS FOR COUNTERSIGNERS
+The Board annually determines job titles eligible to countersign checks under $5,000. The controller then designates specific employees holding those titles in writing.
+
+FACSIMILE SIGNATURE REQUIREMENTS
+As required by law, an authorized individual's facsimile signature may only be used after that individual's manual signature has been filed with the Colorado Secretary of State and certified by the individual under oath.
+
+LEGAL REFERENCES
+C.R.S. 11-55-101, et seq.; C.R.S. 22-32-107; C.R.S. 22-32-121.
+
+No mention of automated decision systems, algorithms, AI, machine learning, scoring, predictive tools, or software/technology vendor terms was found in this policy.
+
+===== POLICY DH — Employee Surety Bonds/Insurance =====
+
+Codified 1995. Adopted by Board May 22, 1995; revised by Board August 11, 1997; revised by Superintendent May 14, 2007; revised by Superintendent September 26, 2016.
+
+CORE REQUIREMENT
+District employees with probable temporary custody of District funds exceeding fifty dollars must be protected by either a blanket form of surety bond or by individual surety bonds adequate for the amount involved. As an alternative, the District may purchase crime insurance with equivalent coverage.
+
+COST RESPONSIBILITY
+The District bears all expenses related to bonds and/or insurance programs.
+
+LEGAL REFERENCES
+C.R.S. 22-32-104(4); C.R.S. 22-32-109(1)(h); C.R.S. 22-32-121(3).
+
+The policy contains no mention of automated decision systems, algorithms, AI, machine learning, scoring tools, predictive systems, or specific technology vendor terms.
+
+===== POLICY DIE — Audits/Financial Monitoring =====
+
+Adopted April 1982; revised April 1988; revised to conform with practice May 22, 1995; reviewed August 11, 1997.
+
+ANNUAL AUDIT REQUIREMENT
+The district must conduct annual audits of all funds and accounts following fiscal year close, as required by state law.
+
+AUDITOR APPOINTMENT AND QUALIFICATIONS
+The Board appoints an independent auditor who is licensed to practice in Colorado and knowledgeable in government accounting. This auditor must also audit the district's activities accounts for Board reporting.
+
+REQUIRED AUDIT REPORT CONTENTS
+The audit report must include: (1) financial statements prepared in conformity with generally accepted governmental accounting principles, noted as district representations; (2) disclosures per the Financial Policies and Procedures Handbook, with supplemental schedules in State Board of Education format, aligned with audited statements; (3) coverage of all funds and activities of the school district; (4) a budget-to-actual comparison for each fund and activity; (5) the auditor's opinion on financial statements (including general fixed assets), with non-unqualified opinions requiring explanation; (6) disclosure of all instances of noncompliance with state law, including the Public School Finance Act of 1994, irrespective of materiality; and (7) a supplemental investment listing as of financial statement date.
+
+AUDITOR RECOMMENDATIONS AND SERVICES
+The auditor provides recommendations regarding accounting records, procedures, and related activities, plus other Board-requested services.
+
+SUBMISSION DEADLINES
+Reports must be completed within five months of fiscal year close (unless the state auditor grants an extension). Districts submit copies to the state auditor and state commissioner of education within 30 days of receipt.
+
+AUDIT FREQUENCY
+The Board reserves discretion to request audits at more frequent intervals.
+
+LEGAL REFERENCES
+C.R.S. 22-32-109(1)(k); C.R.S. 24-75-601.3; C.R.S. 29-1-601, et seq.
+
+This policy contains no references to automated decision systems, algorithms, AI, machine learning, scoring tools, or software vendor terms.
+
+===== POLICY DIEA — Audit Committee =====
+
+Adopted November 16, 2005; revised January 27, 2009; revised November 9, 2010; revised May 26, 2015.
+
+PURPOSE AND RESPONSIBILITIES
+The policy establishes a District Audit Committee to support the Board of Education's financial oversight. Key responsibilities include: monitoring policies, practices and procedures concerning internal and external audits; recommending policy changes to the Board; coordinating audit oversight and evaluating auditor performance; advising on selection and retention of auditors; reviewing audit findings, external opinions, and administrator letters; monitoring District responses to audit recommendations; facilitating reports on regulatory changes and accounting developments; ensuring compliance with applicable laws concerning accounting and financial matters; and maintaining effective fiscal internal controls.
+
+MEMBERSHIP COMPOSITION
+The Committee consists of seven voting members appointed by the Board: two Board members and five community members with significant financial and accounting experience. Non-voting ex officio members include the District's legal counsel, policy counsel, executive director of finance, and controller. The Committee may invite additional attendees ad hoc as needed.
+
+GOVERNANCE AND LIABILITY
+Members must comply with the Colorado Standards of Conduct Statute, C.R.S. §§ 24-18-101 et seq. The Committee must develop and annually review a Board-approved charter. Members receive immunity protections and defense cost coverage under the Colorado Governmental Immunity Act, C.R.S. §§ 24-10-101 et seq., for good-faith actions.
+
+MEETING REQUIREMENTS
+The Committee must meet a minimum of four times each year per the Colorado Open Meetings Law and submit annual fiscal year activity reports to the Board.
+
+No mention of automated decision systems, algorithms, AI, machine learning, or software vendor terms appears in this policy.
+
+===== POLICY DIEA-R — Internal Audit Services =====
+
+Adopted August 13, 2012; revised July 25, 2016.
+
+INTERNAL AUDITOR
+The District may employ an internal auditor reporting to the executive director of finance with oversight from the District Audit Committee. The auditor reports directly to the finance director and, as requested, to the controller, superintendent, and Audit Committee. On matters presenting impropriety or conflict concerns, the internal auditor reports to the superintendent or Board President.
+
+PURPOSE
+The internal auditor assists in resource safeguarding by promoting an economical, efficient and effective business environment based on sound and practical internal controls. Services aim to evaluate organizational processes systematically and provide independent and objective insight, analysis and recommendations for constructive change and risk management. The philosophy emphasizes adding value to District operations and controls.
+
+PROFESSIONAL STANDARDS
+The internal auditor operates under The Institute of Internal Auditors' Code of Ethics and International Standards for the Professional Practice of Internal Auditing and adheres to applicable Practice Advisories.
+
+ACCESS TO INFORMATION
+The auditor receives full, free, timely and unrestricted access to any and all District records, physical properties and personnel relevant to functions under review. All employees must cooperate. Documents receive confidential handling. Administrators and Finance staff must inform appropriate officials in a timely manner of any significant breaches affecting compliance systems related to accounting and financial activities.
+
+INDEPENDENCE
+The auditor remains free of improper influence from District employees regarding audit selection, procedures, frequency, timing, or content. The auditor has no operational responsibility over reviewed activities and shall not develop systems, install procedures, or prepare records normally subject to audit.
+
+AUDIT SCOPE
+Services focus on activities affecting compliance with accounting and financial standards, regulations, procedures and policies, including: reviewing financial information reliability, operating systems, and measurement/reporting mechanisms; examining compliance systems regarding governing laws and District policies; reviewing asset safeguarding means and verifying asset existence; recommending internal control improvements; reviewing external auditor performance and coordination; assisting in investigations of suspected law or policy violations; informing leadership of emerging internal audit trends; and reviewing employee compliance with significant financial policy requirements. Matters exclusively involving non-financial operations fall outside current scope.
+
+AUDIT PLANNING
+The finance director and controller collaborate with the internal auditor to develop an annual plan submitted to the Audit Committee. Planning uses a risk-based methodology prioritizing the financial audit universe. Significant deviations require communication to the finance director and Audit Committee.
+
+REPORTING
+Periodic internal audit reports go to the finance director, with copies to the Audit Committee and external auditors. Reports include locations visited, audit ratings, significant findings, employee responses, and corrective actions with completion timelines. The finance director and controller collaborate on follow-up, with the Audit Committee providing input. Issues remain "open" until all parties agree on resolution.
+
+PERIODIC ASSESSMENT
+The finance director, controller, internal auditor, and Audit Committee periodically assess whether services adequately fulfill regulatory purposes, recommending necessary revisions to the superintendent.
+
+This policy contains no references to automated decision systems, algorithms, AI, machine learning, scoring tools, or technology vendor terms.
+
+===== POLICY DJ — Purchasing =====
+
+Adopted by Superintendent May 14, 2007; revised by Superintendent March 21, 2016; adopted by Board February 12, 2019; revised by Board December 8, 2020.
+
+PURPOSE
+The policy aims to provide for fair and equitable treatment of all persons or entities involved in purchasing, maximize the value of District funds, standardize the purchasing procedures, and foster full and open competition.
+
+DEFINITION OF PURCHASE
+Purchase encompasses buying goods and/or services with cash, a check or a purchasing card, as well as signing or otherwise agreeing to a contract obligating the District. Purchases shall not be divided for the purpose of circumventing the limits on purchasing authority. Incremental purchases are considered in the aggregate for the school year.
+
+COMPLIANCE REQUIREMENTS
+All purchases must comply with governing law and District policies, regulations and administrative guidelines. Non-compliant purchases are voidable by the District, and violations may result in disciplinary action up to and including termination of employment.
+
+STRATEGIC SOURCING DEPARTMENT
+A centralized Strategic Sourcing Department operates within Finance to work cooperatively with other District departments, sites and employees on procurement.
+
+PURCHASE ORDER THRESHOLDS
+$5,000 or more: a purchase order is required with either the District's standard written purchase order terms and conditions or a separate written contract.
+Under $5,000: Finance maintains a list of goods/services requiring purchase orders; standard terms/contracts are optional.
+
+VENDOR SELECTION CRITERIA
+Employees must strive to obtain the best possible terms and conditions, price, quality, warranty/guarantee, support and overall value.
+
+COOPERATIVE PURCHASING
+The District may enter cooperative agreements with governmental entities when deemed to be in the best interest of the District and procedures are compatible with District policies.
+
+GRANT PURCHASES
+Grant-funded purchases may require special management, accounting or procedures with Finance Department coordination for compliance.
+
+PUBLIC RECORDS ACCESS
+Requests regarding purchase records follow the Colorado Open Records Act (CORA).
+
+The policy contains no explicit references to automated decision systems, algorithms, AI, machine learning, scoring mechanisms, or predictive technology tools.
+
+===== POLICY DJC — Petty Cash =====
+
+Adopted May 14, 2007; revised March 21, 2016.
+
+AUTHORIZATION AND PURPOSE
+The controller holds authority to establish petty cash accounts for District departments and sites as needed. The stated purpose is to provide a source of ready cash for immediate settlement of small transactions. However, the policy emphasizes that the preferred method of making District purchases is by means of a restricted check or use of a purchasing card.
+
+CUSTODIAN RESPONSIBILITIES
+For authorized petty cash funds, the controller designates a custodian. This individual must ensure that all expenditures from the fund are properly approved, accounted for and documented.
+
+FINANCIAL LIMITATIONS
+Two dollar thresholds govern petty cash operations: maximum fund size per department/site is $5,000; maximum individual purchase amount is $100. The policy explicitly prohibits circumventing limits through purchase subdivision: purchases shall not be divided for the purpose of circumventing this limitation.
+
+CROSS REFERENCES
+Related policies include DJ (Purchasing), DJA (Purchasing Authority), DJB (Purchasing Procedures), DJG/DJGA (Vendor Relations, Sales Calls and Demonstrations), and DH (Bonded Employees and Directors).
+
+The policy contains no references to automated systems, algorithms, AI tools, or software vendor arrangements.
+
+===== POLICY DN — School Properties Disposition =====
+
+Adopted April 1972; last revised December 8, 2020.
+
+KEY RESPONSIBILITIES
+The superintendent or designee serves as the Board's authorized agent for property disposition, determining whether assets are obsolete, surplus, and/or of no further value. The policy emphasizes attempting re-use of surplus property within the district wherever practical.
+
+DISPOSITION METHODS
+Surplus property shall be handled through one of four approaches: sealed bid sales or auctions deemed advantageous to the district; trade-ins for similar equipment purchases; charitable or governmental donations; or disposal or recycling per established procedures.
+
+REAL ESTATE AND TITLE TRANSFER REQUIREMENTS
+The Board of Education will approve the disposition of any and all real estate (e.g., land and/or buildings). Sales or conveyances requiring recorded title transfers (such as motor vehicles) need superintendent or designee advance approval.
+
+PROHIBITED CONDUCT
+District personnel cannot purchase surplus or district property except through official public sales available to the general public.
+
+TECHNOLOGY EQUIPMENT PROTOCOLS
+Technology items remain district-owned until the equipment and/or software is deemed by district administration to be unused, obsolete, unwanted, or ineffective. The IT department then relocates equipment within the district or disposes per established guidelines.
+
+LEGAL REFERENCES
+C.R.S. 22-32-110(1)(e); C.R.S. 24-18-202.
+
+===== POLICY DJG-DJGA — Vendor Relations, Sales Calls and Demonstrations =====
+
+Originally adopted May 1972; most recent revision December 8, 2020.
+
+VENDOR QUALIFICATIONS
+The Finance Department may collaborate with other District departments to establish required vendor qualifications for certain District purchases and prequalify vendors as deemed appropriate.
+
+CONFLICT OF INTEREST REQUIREMENTS
+District staff must uphold fiduciary responsibilities in all contract and purchasing matters. The policy prohibits vendors from offering, and employees from accepting, any gift, service, honorarium, stipend or fee that could improperly influence purchasing decisions. Personnel cannot maintain financial interests in contracts they personally negotiate.
+
+SALES CALL AUTHORIZATION
+Sales representatives require authorization from the superintendent or finance executive director before entering District schools. Leadership may bar any vendor, organization or person from facilities when deemed necessary to protect educational operations.
+
+VIOLATION CONSEQUENCES
+Employees face potential discipline up to and including termination of employment. Vendors engaging in policy violations may receive indefinite disqualification from District business.
+
+The policy contains no references to automated decision systems, algorithms, AI applications, machine learning tools, or predictive software in vendor evaluation or procurement processes.
+
+===== POLICY DKC — Expense Authorization/Reimbursement =====
+
+Adopted September 1973; revised January 1975, February 1976, June 1990, May 22, 1995, August 11, 1997, June 28, 2004, September 27, 2004, April 14, 2014. (Also covers Mileage and Travel.)
+
+CORE POLICY STATEMENT
+Employees shall be reimbursed for expenses associated with mileage and in-state and out-of-state travel when such expenditures meet specific criteria including: necessity for conducting district business, proper authorization, reasonableness, and appropriate documentation.
+
+ADMINISTRATIVE FRAMEWORK
+The Finance Department bears responsibility for establishing administrative guidelines and procedures governing reimbursement. These guidelines must align with IRS regulations.
+
+REQUIREMENTS FOR REIMBURSEMENT
+Expenses must satisfy four conditions: (1) associated with mileage or in-state/out-of-state travel; (2) incurred conducting necessary, legitimate district business; (3) properly authorized; and (4) reasonable and appropriately documented per Finance Department procedures.
+
+LEGAL REFERENCES
+C.R.S. 22-32-110(1)(i); C.R.S. 24-18-104(3)(d) & (e).
+
+The provided content contains no mention of automated decision systems, algorithms, AI tools, machine learning, scoring mechanisms, or software vendor terms.
+
+===== POLICY DJA — Purchasing Authority, Methods, and Thresholds =====
+
+Last revised May 13, 2025 (effective July 1, 2025).
+
+PURCHASING AUTHORITY
+The Board retains ultimate authority over all District purchases, with delegated authority based on purchase value: $250,000 or more requires prior Board approval; under $250,000 may be approved by the superintendent or chief finance officer if funds are budgeted and the purchase aligns with law and policy; under $10,000 may be approved via purchasing card (p-card) by Finance Department authorized employees. The chief finance officer may delegate authority to Finance Department employees through written documentation annually. District administrators may veto any employee purchase they supervise.
+
+PURCHASING METHODS
+Documented Price Quotes: requires soliciting written quotes from at least three (3) qualified vendors, with the Finance Department maintaining records. The Finance Department may approve purchases with fewer than three quotes if reasonable attempts were made.
+Competitive Bidding: administered by the Finance Department, requiring detailed specifications, written terms/conditions, procedures, solicitation of at least three (3) qualified bidders, and a public/electronic bid opening.
+Competitive Proposals: appropriate for complex purchases, requiring objectives/descriptions, evaluation procedures, solicitation from at least three qualified organizations, potential interviews by two District officials (one from Finance), and a written contract.
+
+PURCHASING THRESHOLDS
+Under $10,000: no competitive method required.
+$10,000-$100,000: minimum three documented price quotes required.
+$100,000+: competitive bidding or proposal process required.
+Purchases cannot be divided to circumvent these methods.
+
+EXCEPTIONS
+Educational Equipment: superintendent or assistant superintendent may authorize based on a written need determination without competition.
+Cooperative Purchasing: chief finance officer may authorize joint purchasing arrangements with other agencies.
+Sole Source Items: chief finance officer has discretion to approve unique goods/services from single vendors with sufficient documentation.
+Standardization/Compatibility: Finance Department develops guidelines for system interoperability justifications.
+Conferences/Speakers: District administrator may authorize based on a written need determination.
+District's Best Interests: superintendent or chief finance officer designee may waive methods if competition would result in a substantially higher cost or adversely affect the District.
+
+EMERGENCIES
+Defined as imminent threats to health, welfare, safety, property, or creating excessive financial risk/liability exposure. Designated administrators may make immediate purchases without competitive requirements, submitting written explanation to the Finance Department afterward. The chief finance officer reviews all emergency purchases and reports those exceeding $250,000 to the Board.
+
+GRIEVANCES
+Vendors may protest within ten (10) business days of the challenged action. Investigation leads to an executive director decision, appealable to the chief finance officer. The superintendent's decision is final for purchases under $250,000; the Board may hear appeals for $250,000+ purchases.
+
+This policy contains no mention of automated decision systems, algorithms, AI, machine learning, scoring, predictive tools, or procurement software requirements.
+
+===== POLICY DJB — Contracting =====
+
+Adopted May 13, 2025; effective July 1, 2025.
+
+OVERVIEW
+The policy governs all District contracts for goods and services procurement regardless of cost. A contract is mandated for services that may create liability for the District unless exempted by administrative guidelines approved by legal counsel. Purchases of $10,000 or more require either a purchase order with standard written terms or an executed contract per this policy.
+
+DEFINITIONS
+Contract: an agreement between the District and one or more parties that creates mutual obligations that are enforceable or otherwise recognizable at law.
+Cooperative Purchasing Agreement: a process allowing the District to purchase goods/services at pre-negotiated rates using existing contracts awarded by other public agencies.
+District-Issued Contract: an agreement generated by the District for specific services/goods, requiring generation or minimum review/approval by Finance or legal counsel.
+Material Change: a modification to a standard District template or standard written terms and conditions that alters the legal obligations of a party.
+Service: work by non-District employees providing specialized knowledge/skills/expertise, typically intangible.
+Standard District Template: contracts reviewed/approved by legal counsel for construction, service agreements, software purchases, community partnerships, and other services.
+Standard Written Terms and Conditions: standard contract approved by legal counsel for goods purchases (excluding software).
+Vendor Contract: vendor-issued agreements requiring Finance or legal counsel review before execution.
+
+CONTRACT EXECUTION AND APPROVAL
+The District prioritizes standard written terms, standard templates, or District-issued contracts. Exceptions require Finance or legal counsel approval. Standard District templates bypass legal counsel review unless material changes are requested. Cooperative purchasing agreements may be executed if in the District's best interest and compliant with District policies.
+
+REQUIREMENTS FOR WRITTEN CONTRACTS
+Criminal Background Check Provision: all written contracts must require a criminal background check for any person providing direct services to students under the contract, including but not limited to instruction, physical, mental, and social health supports, transportation or food services as required by law. The contracting entity bears background check costs.
+Public Works Contingency: construction/design contracts must include provisions making District obligations contingent on appropriated/budgeted funds per C.R.S. § 24-91-103.6.
+Insurance Requirements: all written contracts must include insurance requirements reviewed and approved by risk management.
+
+PROHIBITED TERMS (VOID UNLESS LEGAL COUNSEL PRE-APPROVES)
+Any requirement that the District indemnify or hold harmless another person or entity. Any requirement that the District participate in binding arbitration or other extrajudicial process for dispute resolution. Any requirement that the District agree to limit liability of another person or entity for bodily injury, death, or damage to school district property. Any waiver, alteration, or limitation of the application of the Colorado Governmental Immunity Act. Any waiver, alteration, or limitation of the application of the Student Data Transparency and Security Act or the Colorado Privacy Act. Any conflict with Colorado law or associated rules under state statute.
+
+CONTRACT APPROVAL AUTHORITY
+Contracts require signatures from the appropriate employee with purchasing authority or the Board's presiding officer. The Board may delegate negotiation/execution to specified staff upon purchase amount approval.
+
+APPROVAL THRESHOLDS (TABLE)
+No cost: Principal/Manager/Director and Executive Director/Cabinet Member sign.
+Under $10,000: Principal/Manager/Director and Executive Director/Cabinet Member sign.
+$10,000-$100,000: Principal/Manager/Director, Executive Director/Cabinet Member, and Legal Counsel sign.
+$100,000-$250,000: Principal/Manager/Director, Executive Director/Cabinet Member, Legal Counsel, and Finance Designee sign.
+$250,000+: Principal/Manager/Director, Executive Director/Cabinet Member, Legal Counsel, and Finance Designee sign; Board Presiding Officer signature required unless Board delegates signing authority.
+District receiving payment: Principal/Manager/Director and Executive Director/Cabinet Member sign; Finance Designee required when federal grant funding is involved or District receives payment (excluding donations).
+Legal Counsel approval is required for non-standard templates or high-risk contracts, and for standard templates with material changes.
+
+CROSS REFERENCES
+DJ (Purchasing and Contracting); DJA (Purchasing Authority, Methods, and Thresholds).
+
+LEGAL REFERENCES
+C.R.S. 22-1-135 (terms and conditions in public school contracts); C.R.S. 22-32-122(4) (background check provision required in service contracts).
+
+The policy contains no explicit mention of automated decision systems, algorithms, AI, machine learning, predictive tools, or specific software/technology vendor requirements, beyond general references to "software purchases" as a category covered by standard District contract templates and the cross-reference to the Student Data Transparency and Security Act and Colorado Privacy Act (data protection statutes, not AI-specific provisions).
+
+===== POLICY DIC — Financial Reports and Statements =====
+
+Adopted April 1972; revised May 1982; revised April 1988; reviewed August 11, 1997.
+
+MONTHLY RECONCILIATIONS
+Monthly reconciliations shall be made showing the total monthly revenue, expenditures, and fund balances of all funds.
+
+BUDGET REPORTS
+Budget reports shall be prepared each month showing monthly expenditures, total expenditures to date, and balance of each budgeted appropriation.
+
+LEGAL REFERENCES
+C.R.S. 22-32-109(1)(k); C.R.S. 22-44-111; C.R.S. 29-1-603; 1 CCR 301-1, Rules 2202-R-3.09(2).
+
+The provided text contains no references to automated decision systems, algorithms, artificial intelligence, machine learning, scoring mechanisms, predictive tools, or technology vendor terms.
+

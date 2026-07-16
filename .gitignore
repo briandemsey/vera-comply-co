@@ -5,3 +5,8 @@ venv/
 .env
 .streamlit/secrets.toml
 .DS_Store
+streamlit.log
+streamlit.err
+tests/out/
+tests/walk/
+district_policies/
