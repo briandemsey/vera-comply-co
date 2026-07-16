@@ -172,14 +172,21 @@ def _ensure_amended_measurement() -> None:
 
 
 def _render_amended_toggle() -> None:
-    """Show the original/amended radio when an amended measurement exists."""
+    """Show the original/amended radio when an amended measurement exists.
+
+    Defaults to Amended so users land on the answer (32/32) not the un-amended
+    starting point (0/32). Users can flip to Original to see the before state.
+    """
     ss = st.session_state
     have_amended = (ss.la_report_amended is not None) or (ss.report_amended is not None)
     if not have_amended:
         return
 
     options = ["Original (before amendment)", "Amended (after generated additions)"]
-    # Seed the widget's own key so its state is the source of truth, not ss.show_amended
+
+    # Default to Amended the first time the toggle appears
+    if not ss.show_amended and "_amend_toggle" not in ss:
+        ss.show_amended = True
     if "_amend_toggle" not in ss:
         ss["_amend_toggle"] = options[1 if ss.show_amended else 0]
 
