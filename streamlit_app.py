@@ -696,7 +696,7 @@ def view_load_amend() -> None:
                     st.rerun()
             st.markdown("---")
 
-        st.markdown("**Or upload your own single policy** (PDF / DOCX / TXT / MD)")
+        st.markdown("### Or upload your own single policy (PDF / DOCX / TXT / MD)")
         up = st.file_uploader("Single-policy upload", type=["pdf", "docx", "txt", "md"], key="la_upload")
         if up is not None:
             suffix = os.path.splitext(up.name)[1]
