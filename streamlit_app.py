@@ -198,17 +198,21 @@ def _render_amended_toggle() -> None:
 def _active_scope() -> list[dict] | None:
     """The per-policy triage list, or a synthetic single-entry list built from the
     loaded single policy so Initial Report / Policy Detail have something to show.
+    The rationale text reflects the active (original vs amended) measurement so it
+    stays in sync with the Original/Amended toggle.
     """
     ss = st.session_state
     if ss.scope is not None:
         return ss.scope
     if ss.la_report is not None and ss.la_policy_code:
-        rep = ss.la_report
-        addressed_modules = sorted({r["module"] for r in rep["results"]
+        # Pick the report the toggle is showing
+        active = ss.la_report_amended if (ss.show_amended and ss.la_report_amended is not None) else ss.la_report
+        s = active["score"]
+        addressed_modules = sorted({r["module"] for r in active["results"]
                                     if not r["context_only"] and r["measured"]["status"] == "Addressed"})
-        s = rep["score"]
+        state_label = "amended (after generated additions)" if (ss.show_amended and ss.la_report_amended is not None) else "as loaded"
         rationale = (
-            f"Single policy loaded via Load & Amend. Rubric measurement: "
+            f"Single policy loaded via Load & Amend. Rubric measurement {state_label}: "
             f"{s['must_pass_addressed']}/{s['must_pass_total']} must-pass requirements addressed."
         )
         return [{
