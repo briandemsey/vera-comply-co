@@ -23,7 +23,7 @@ HERE = Path(__file__).parent
 SCOPE_FIXTURE = HERE / "policies_scope.json"
 DETAILS_FIXTURE = HERE / "policy_details.json"
 FIXTURE_MD = HERE / "fixture" / "Poudre_Policy_Compendium.md"
-SAMPLE_POLICIES_DIR = HERE / "sample_policies"
+DISTRICTS_DIR = HERE / "districts"
 LOGO = HERE / "assets" / "casb_logo_sharp.png"
 
 MODULE_ORDER = ["A", "B", "C", "D", "E", "F"]
@@ -48,6 +48,24 @@ CONT = "#8a2f2f"
 STATBG = "#e4ecf5"
 PROVBG = "#fff3d6"
 CONTBG = "#f7dede"
+
+
+def _render_header() -> None:
+    """Two-column header: CASB logo left, prototype-disclaimer chip right."""
+    left, right = st.columns([2, 3])
+    with left:
+        if LOGO.exists():
+            st.image(str(LOGO), width=260)
+    with right:
+        st.markdown(
+            f'<div style="display:flex;justify-content:flex-end;align-items:center;height:100%;padding-top:24px">'
+            f'<span style="display:inline-block;font-size:12px;font-weight:700;'
+            f'background:{CONTBG};color:{CONT};border:1px solid #e6b7b7;'
+            f'padding:6px 12px;border-radius:6px;text-transform:uppercase;letter-spacing:.04em">'
+            f'Prototype for CASB review — not an official CASB product'
+            f'</span></div>',
+            unsafe_allow_html=True,
+        )
 
 
 def inject_css() -> None:
@@ -109,10 +127,31 @@ def inject_css() -> None:
     )
 
 
+def list_districts() -> list[str]:
+    """Return district slugs (folder names) that have a policies/ subdir."""
+    if not DISTRICTS_DIR.exists():
+        return []
+    return sorted(
+        d.name for d in DISTRICTS_DIR.iterdir()
+        if d.is_dir() and (d / "policies").exists()
+    )
+
+
+def district_policies_dir(slug: str) -> Path:
+    return DISTRICTS_DIR / slug / "policies"
+
+
+def _pretty_district(slug: str) -> str:
+    """poudre -> Poudre, capistrano -> Capistrano, my-district -> My District."""
+    return " ".join(w.capitalize() for w in slug.replace("_", "-").split("-"))
+
+
 def init_state() -> None:
     ss = st.session_state
     ss.setdefault("view", "load_amend")
-    ss.setdefault("district_name", "")
+    districts = list_districts()
+    ss.setdefault("current_district", districts[0] if districts else "")
+    ss.setdefault("district_name", _pretty_district(ss.current_district))
     ss.setdefault("district_ferpa", "Yes")
     ss.setdefault("district_source", "Document upload")
     ss.setdefault("report", None)  # whole-manual measurement (Poudre demo / uploaded manual)
@@ -254,6 +293,34 @@ def sidebar() -> None:
         )
         st.markdown("---")
 
+        # District selector — switch which district's policies + state are active
+        districts = list_districts()
+        if districts:
+            def _on_district_change():
+                new_slug = st.session_state["_district_select"]
+                if new_slug != ss.current_district:
+                    ss.current_district = new_slug
+                    ss.district_name = _pretty_district(new_slug)
+                    _reset_load_amend()
+
+            if "_district_select" not in st.session_state:
+                st.session_state["_district_select"] = ss.current_district
+            elif st.session_state["_district_select"] not in districts:
+                st.session_state["_district_select"] = ss.current_district
+
+            st.selectbox(
+                "Working district",
+                options=districts,
+                format_func=_pretty_district,
+                key="_district_select",
+                on_change=_on_district_change,
+            )
+            st.caption(
+                f"{len(list((district_policies_dir(ss.current_district)).glob('*'))) if (district_policies_dir(ss.current_district)).exists() else 0} "
+                f"policies on file · {len(districts)} districts total"
+            )
+            st.markdown("---")
+
         # Always-available entry points
         for label, key in [
             ("Load & Amend a Policy", "load_amend"),
@@ -319,8 +386,7 @@ def process_upload(uploaded) -> None:
 
 
 def view_upload() -> None:
-    if LOGO.exists():
-        st.image(str(LOGO), width=260)
+    _render_header()
     st.markdown('<div class="pill">AG rulemaking in progress — provisional items flagged</div>', unsafe_allow_html=True)
     st.markdown("# Upload & District Info")
     st.markdown(
@@ -762,9 +828,14 @@ def _measure_single_policy(text: str) -> dict:
 
 
 def _list_sample_policies() -> list[Path]:
-    if not SAMPLE_POLICIES_DIR.exists():
+    ss = st.session_state
+    slug = ss.get("current_district", "")
+    if not slug:
         return []
-    return sorted([p for p in SAMPLE_POLICIES_DIR.iterdir()
+    d = district_policies_dir(slug)
+    if not d.exists():
+        return []
+    return sorted([p for p in d.iterdir()
                    if p.is_file() and p.suffix.lower() in {".md", ".txt", ".pdf", ".docx"}])
 
 
@@ -780,8 +851,7 @@ def _reset_load_amend() -> None:
 
 
 def view_load_amend() -> None:
-    if LOGO.exists():
-        st.image(str(LOGO), width=260)
+    _render_header()
     st.markdown('<div class="pill">AG rulemaking in progress — provisional items flagged</div>', unsafe_allow_html=True)
     st.markdown("# Load & Amend a Policy")
     st.markdown(
@@ -806,7 +876,8 @@ def view_load_amend() -> None:
 
         samples = _list_sample_policies()
         if samples:
-            st.markdown("**Sample policies** (extracted from real Colorado district manuals)")
+            slug = st.session_state.get("current_district", "")
+            st.markdown(f"**Policies on file for {_pretty_district(slug)}**")
             for p in samples:
                 col1, col2 = st.columns([4, 1])
                 col1.markdown(f"`{p.name}` — {p.stat().st_size / 1024:.1f} KB")
@@ -825,17 +896,20 @@ def view_load_amend() -> None:
         st.markdown("### Or upload your own single policy (PDF / DOCX / TXT / MD)")
         up = st.file_uploader("Single-policy upload", type=["pdf", "docx", "txt", "md"], key="la_upload")
         if up is not None:
-            suffix = os.path.splitext(up.name)[1]
-            with tempfile.NamedTemporaryFile(delete=False, suffix=suffix) as tmp:
-                tmp.write(up.read())
-                path = tmp.name
-            try:
-                text = parse_document(path)
-            finally:
-                try:
-                    os.unlink(path)
-                except OSError:
-                    pass
+            # Save into the current district's folder so it appears in the list next time
+            slug = st.session_state.get("current_district", "")
+            dest_dir = district_policies_dir(slug) if slug else None
+            if dest_dir is not None:
+                dest_dir.mkdir(parents=True, exist_ok=True)
+                dest = dest_dir / up.name
+                dest.write_bytes(up.getvalue())
+                path = str(dest)
+            else:
+                suffix = os.path.splitext(up.name)[1]
+                with tempfile.NamedTemporaryFile(delete=False, suffix=suffix) as tmp:
+                    tmp.write(up.read())
+                    path = tmp.name
+            text = parse_document(path)
             st.session_state.la_policy_text = text
             st.session_state.la_policy_name = up.name
             code = os.path.splitext(up.name)[0]
