@@ -19,7 +19,7 @@ def parse_document(path):
         try:
             import pdfplumber
             with pdfplumber.open(path) as pdf:
-                return "\n".join((p.extract_text() or "") for p in pdf.pages)
+                return "\n".join((p.extract_text(x_tolerance=1, y_tolerance=3) or "") for p in pdf.pages)
         except Exception as e: raise RuntimeError(f"PDF parse needs pdfplumber: {e}")
     if ext==".docx":
         try:
