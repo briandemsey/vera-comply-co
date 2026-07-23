@@ -477,7 +477,11 @@ def view_report() -> None:
         subj_sorted = sorted(subj, key=lambda p: (priority_order.get(p.get("priority"), 3), p.get("code", "")))
 
         # Filter
-        show_only_subject = st.checkbox("Show only in-scope policies", value=True)
+        col_chk, col_hint = st.columns([3, 2])
+        with col_chk:
+            show_only_subject = st.checkbox("Show only in-scope policies", value=True)
+        with col_hint:
+            st.markdown("**CLICK OPEN TO GENERATE POLICY DETAIL**")
         show = subj_sorted if show_only_subject else sorted(scope, key=lambda p: (0 if p.get("subject_to_review") else 1, priority_order.get(p.get("priority"), 3), p.get("code", "")))
 
         for p in show[:200]:
