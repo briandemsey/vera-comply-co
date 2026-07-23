@@ -18,24 +18,27 @@ def parse_document(path):
     if ext==".pdf":
         try:
             import pdfplumber
+            from collections import defaultdict as _dd
+            def _page_text(page, threshold=1.8):
+                chars = page.chars
+                if not chars:
+                    return page.extract_text() or ""
+                lmap = _dd(list)
+                for c in chars:
+                    lmap[round(c["top"])].append(c)
+                out = []
+                for y in sorted(lmap):
+                    lc = sorted(lmap[y], key=lambda c: c["x0"])
+                    t = lc[0]["text"]
+                    for i in range(1, len(lc)):
+                        gap = lc[i]["x0"] - lc[i-1]["x1"]
+                        if gap > threshold and lc[i]["text"] != " " and lc[i-1]["text"] != " ":
+                            t += " "
+                        t += lc[i]["text"]
+                    out.append(t.strip())
+                return "\n".join(out)
             with pdfplumber.open(path) as pdf:
-                pages = []
-                for p in pdf.pages:
-                    words = p.extract_words(x_tolerance=3, y_tolerance=3, keep_blank_chars=False)
-                    if not words:
-                        pages.append(p.extract_text() or "")
-                        continue
-                    lines_ = []; cur_y = None; cur_line = []
-                    for w in words:
-                        y = round(w["top"])
-                        if cur_y is None or abs(y - cur_y) > 5:
-                            if cur_line: lines_.append(" ".join(cur_line))
-                            cur_line = [w["text"]]; cur_y = y
-                        else:
-                            cur_line.append(w["text"])
-                    if cur_line: lines_.append(" ".join(cur_line))
-                    pages.append("\n".join(lines_))
-                return "\n".join(pages)
+                return "\n".join(_page_text(p) for p in pdf.pages)
         except Exception as e: raise RuntimeError(f"PDF parse needs pdfplumber: {e}")
     if ext==".docx":
         try:
