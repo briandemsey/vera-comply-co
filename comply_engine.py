@@ -19,7 +19,23 @@ def parse_document(path):
         try:
             import pdfplumber
             with pdfplumber.open(path) as pdf:
-                return "\n".join((p.extract_text() or "") for p in pdf.pages)
+                pages = []
+                for p in pdf.pages:
+                    words = p.extract_words(x_tolerance=3, y_tolerance=3, keep_blank_chars=False)
+                    if not words:
+                        pages.append(p.extract_text() or "")
+                        continue
+                    lines_ = []; cur_y = None; cur_line = []
+                    for w in words:
+                        y = round(w["top"])
+                        if cur_y is None or abs(y - cur_y) > 5:
+                            if cur_line: lines_.append(" ".join(cur_line))
+                            cur_line = [w["text"]]; cur_y = y
+                        else:
+                            cur_line.append(w["text"])
+                    if cur_line: lines_.append(" ".join(cur_line))
+                    pages.append("\n".join(lines_))
+                return "\n".join(pages)
         except Exception as e: raise RuntimeError(f"PDF parse needs pdfplumber: {e}")
     if ext==".docx":
         try:
