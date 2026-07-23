@@ -481,7 +481,7 @@ def view_report() -> None:
         with col_chk:
             show_only_subject = st.checkbox("Show only in-scope policies", value=True)
         with col_hint:
-            st.markdown("**CLICK OPEN TO GENERATE POLICY DETAIL**")
+            st.markdown("<span style='font-size:15px;font-weight:900'>✅ CLICK OPEN TO GENERATE POLICY DETAIL</span>", unsafe_allow_html=True)
         show = subj_sorted if show_only_subject else sorted(scope, key=lambda p: (0 if p.get("subject_to_review") else 1, priority_order.get(p.get("priority"), 3), p.get("code", "")))
 
         for p in show[:200]:
