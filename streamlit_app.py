@@ -23,6 +23,7 @@ HERE = Path(__file__).parent
 SCOPE_FIXTURE = HERE / "policies_scope.json"
 DETAILS_FIXTURE = HERE / "policy_details.json"
 FIXTURE_MD = HERE / "fixture" / "Poudre_Policy_Compendium.md"
+POUDRE_REPORT = HERE / "fixture" / "poudre_report.json"
 DISTRICTS_DIR = HERE / "districts"
 LOGO = HERE / "assets" / "casb_logo_sharp.png"
 
@@ -360,10 +361,10 @@ def load_poudre_fixture() -> None:
     st.session_state.district_name = "Poudre School District"
     st.session_state.district_ferpa = "Yes"
     st.session_state.district_source = "Poudre fixture (demo)"
-    with st.spinner("Loading Poudre demo — 185 policies, measuring against the rubric..."):
+    with st.spinner("Loading Poudre demo..."):
         st.session_state.scope = json.loads(SCOPE_FIXTURE.read_text(encoding="utf-8"))
         st.session_state.details = json.loads(DETAILS_FIXTURE.read_text(encoding="utf-8"))["worked_policies"]
-        st.session_state.report = run(str(FIXTURE_MD))
+        st.session_state.report = json.loads(POUDRE_REPORT.read_text(encoding="utf-8"))
         st.session_state.manual_text = FIXTURE_MD.read_text(encoding="utf-8")
     st.session_state.view = "report"
 
