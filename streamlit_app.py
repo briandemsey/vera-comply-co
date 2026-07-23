@@ -169,6 +169,7 @@ def init_state() -> None:
     ss.setdefault("la_amended_text", None)    # the spliced amended policy text
     ss.setdefault("la_step", 1)               # 1 load, 2 analyze, 3 amend, 4 rationale
     ss.setdefault("show_amended", False)      # global toggle: original vs amended measurement
+    ss.setdefault("manual_text", None)        # full raw text of uploaded/demo manual
 
 
 def _active_report() -> dict | None:
@@ -363,6 +364,7 @@ def load_poudre_fixture() -> None:
         st.session_state.scope = json.loads(SCOPE_FIXTURE.read_text(encoding="utf-8"))
         st.session_state.details = json.loads(DETAILS_FIXTURE.read_text(encoding="utf-8"))["worked_policies"]
         st.session_state.report = run(str(FIXTURE_MD))
+        st.session_state.manual_text = FIXTURE_MD.read_text(encoding="utf-8")
     st.session_state.view = "report"
 
 
@@ -373,6 +375,8 @@ def process_upload(uploaded) -> None:
         path = tmp.name
     try:
         with st.spinner(f"Examining {uploaded.name} against SB 26-189..."):
+            from comply_engine import parse_document as _pd
+            st.session_state.manual_text = _pd(path)
             st.session_state.report = run(path)
         st.session_state.scope = None
         st.session_state.details = None
@@ -516,6 +520,27 @@ def view_report() -> None:
         )
 
 
+def _extract_policy_text(code: str, manual_text: str) -> str | None:
+    """Extract a single policy section from a full manual by policy code.
+    Handles both "## CODE – Title" (en-dash) and "## CODE - Title" (hyphen) formats.
+    Returns the section text, or None if the code is not found.
+    """
+    import re as _re
+    # Match section header with code at start, either – or - separator
+    pattern = _re.compile(
+        r'^## ' + _re.escape(code) + r'[\s\u2013\-]',
+        _re.MULTILINE
+    )
+    m = pattern.search(manual_text)
+    if not m:
+        return None
+    start = m.start()
+    # Find the next section header (## anything) after this one
+    next_section = _re.search(r'^## ', manual_text[start + 3:], _re.MULTILINE)
+    end = start + 3 + next_section.start() if next_section else len(manual_text)
+    return manual_text[start:end].strip()
+
+
 def view_detail() -> None:
     ss = st.session_state
     scope = _active_scope()
@@ -552,17 +577,25 @@ def view_detail() -> None:
     st.write(scope_row.get("rationale", ""))
 
     if detail is None:
-        # No stored worked example — render the same before/after + rationale from the engine
-        # so any loaded single policy gets the full end-to-end story here.
-        if ss.la_policy_text is None or ss.la_policy_code != code:
+        # No stored worked example — try to extract the policy text from the full manual,
+        # then fall back to the single-policy Load & Amend text.
+        policy_text = None
+        if ss.la_policy_text is not None and ss.la_policy_code == code:
+            policy_text = ss.la_policy_text
+        elif ss.manual_text is not None:
+            policy_text = _extract_policy_text(code, ss.manual_text)
+        if policy_text is None:
             st.info(
-                "No worked example is stored for this policy, and no single-policy text is loaded "
-                "to generate one on the fly. Load a policy on **Load & Amend a Policy**."
+                "No worked example is stored for this policy, and the policy text could not be "
+                "located in the uploaded manual. Load the policy individually via **Load & Amend a Policy**."
             )
             return
+        # Run measurement on the extracted policy text
+        with st.spinner("Measuring this policy against the rubric..."):
+            rep = _measure_single_policy(policy_text)
         _ensure_amended_measurement()
-        original = ss.la_policy_text
-        rep = ss.la_report
+        original = policy_text
+        rep = rep
         gaps = [r for r in rep["results"] if not r["context_only"] and r["measured"]["status"] != "Addressed"]
         additions = _build_additions_block(gaps)
         amended = original.rstrip() + "\n\n" + additions
